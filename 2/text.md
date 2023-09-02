@@ -2,7 +2,7 @@
 
 ## 1.1 Competidores
 
-### 1.1.2 Análisis competitivo
+### 1.1.1 Análisis competitivo
 
 <table>
     <tr>
