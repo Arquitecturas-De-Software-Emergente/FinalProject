@@ -76,11 +76,22 @@
 ### Solution Software Design
 
 - 4.1. Strategic-Level Domain-Driven Design
-  - 4.1.1. EventStorming
-  - 4.1.2. Context Mapping
-  - 4.1.3. Software Architecture
-- 4.2. Tactical-Level Domain-Driven Design
-  - 4.2.1. Bounded Context: Request Service Management
-  - 4.2.2. Bounded Context: Subscription and payment
-  - 4.2.3. Bounded Context: Smart Home Project Management
-  - 4.2.4. Bounded Context: Planning, execution and tracking
+  - 4.1.1. Design Purpose.
+  - 4.1.2. Attribute-Driven Design Inputs.
+    - 4.1.2.1. Primary Functionality (Primary User Stories).
+    - 4.1.2.2. Quality attribute Scenarios.
+    - 4.1.2.3. Constraints.
+  - 4.1.3. Architectural Drivers Backlog.
+  - 4.1.4. Architectural Design Decisions.
+  - 4.1.5. Quality Attribute Scenario Refinements.
+- 4.2. Strategic-Level Domain-Driven Design.
+  - 4.2.1. EventStorming.
+  - 4.2.2. Candidate Context Discovery.
+  - 4.2.3. Domain Message Flows Modeling.
+  - 4.2.4. Bounded Context Canvases.
+  - 4.2.5. Context Mapping.
+- 4.3. Software Architecture.
+  - 4.3.1. Software Architecture System Landscape Diagram.
+  - 4.3.1. Software Architecture Context Level Diagrams.
+  - 4.3.2. Software Architecture Container Level Diagrams.
+  - 4.3.3. Software Architecture Deployment Diagrams.
