@@ -67,3 +67,21 @@ Luego de analizar a nuestros competidores, hemos logrado observar que existen de
 - Realizar actualizaciones de software cada que se requiera.
 - Implementar una sección de mejora para recibir comentarios de la interfaz por parte del usuario.
 - Establecer un chat de espera para contactarse con una empresa.
+- 
+
+
+## 2.3. Needfinding
+A continuación, se mostrará los artefactos realizados de acuerdo a la retroalimentación de las necesidades de los usuarios a través de las entrevistas. Estos artefactos creados son para los dos tipos de segmentos objetivos: empresa de remodelación y cliente. Estos son user personas, user tax matrix, empathy mapping y el as-is escenario mapping.
+### 2.3.1. User personas
+#### 2.3.1.1 Cliente
+<image
+  src="/images/picture.jpg"
+  alt="Descripción de la imagen"
+  caption="Leyenda de la imagen">
+
+#### 2.3.1.2 Empresa de remodelación 
+<image
+  src="/images/picture.jpg"
+  alt="Descripción de la imagen"
+  caption="Leyenda de la imagen">
+
