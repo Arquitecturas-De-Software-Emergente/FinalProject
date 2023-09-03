@@ -70,18 +70,113 @@ Luego de analizar a nuestros competidores, hemos logrado observar que existen de
 - 
 
 
-## 2.3. Needfinding
+## 2.3 Needfinding
 A continuación, se mostrará los artefactos realizados de acuerdo a la retroalimentación de las necesidades de los usuarios a través de las entrevistas. Estos artefactos creados son para los dos tipos de segmentos objetivos: empresa de remodelación y cliente. Estos son user personas, user tax matrix, empathy mapping y el as-is escenario mapping.
-### 2.3.1. User personas
+### 2.3.1 User personas
 #### 2.3.1.1 Cliente
+
 <image
-  src="/images/picture.jpg"
-  alt="Descripción de la imagen"
-  caption="Leyenda de la imagen">
+  src="../images/user-persona-cliente.png"
+  alt="User persona cliente">
 
 #### 2.3.1.2 Empresa de remodelación 
 <image
-  src="/images/picture.jpg"
-  alt="Descripción de la imagen"
-  caption="Leyenda de la imagen">
+  src="../images/user-persona-empresa.png"
+  alt="User persona empresa de remodelación">
+
+### 2.3.2 User task matrix
+Se realiza un análisis de las principales funciones detectadas en la problemática. Esto basado por los comentarios obtenidos de los 2 segmentos de usuario: Cliente y Empresa.
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th {
+    background-color: red;
+    color: white;
+    font-size: 15px;
+  }
+  td{
+    background-color: white;
+    color: black;
+    font-weight: 200;
+  }
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+  .subh{
+    background: skyblue;
+  }
+</style>
+<table>
+  <tr>
+    <th rowspan="2">Task Matrix</th>
+    <th colspan="2">Cliente</th>
+    <th colspan="2">Empresa</th>
+  </tr>
+  <tr>
+    <td class="subh">Frecuencia</td>
+    <td class="subh">Importancia</td>
+    <td class="subh">Frecuencia</td>
+    <td class="subh">Importancia</td>
+  </tr>
+  <tr>
+    <td>Brindar seguridad al realizar un acuerdo de remodelación</td>
+    <td>A veces</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Registro de los hechos que se realizan durante el periodo de remodelación</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Publicidad de proyectos de remodelación</td>
+    <td>Nunca</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Registrar la cotización de la remodelación</td>
+    <td>A veces</td>
+    <td>Media</td>
+    <td>Siempre</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Registrar reclamos en el transcurso de la cotización.</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+</table>
+
+### 2.3.3 Empathy mapping
+#### 3.3.3.1 cliente
+<image
+  src="../images/empathy-mapping-cliente.png"
+  alt="Emapthy mapping de cliente">
+
+#### 3.3.3.2 empresa de remodelación
+<image
+  src="../images/empathy-mapping-empresa.png"
+  alt="Empathy mapping de empresa">
+
+### 2.3.4 As-is scenario mapping
+#### 2.3.4.1 cliente
+<image
+  src="../images/as-is-scenario-mapping-cliente.png"
+  alt="As-is scenario mapping cliente">
+
+#### 2.3.4.2 empresa
+<image
+  src="../images/as-is-scenario-mapping-empresa.png"
+  alt="As-is scenario mapping empresa">
 
