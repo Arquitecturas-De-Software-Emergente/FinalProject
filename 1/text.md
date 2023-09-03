@@ -1,12 +1,12 @@
-## **UNIT I** 
+# **UNIT I** 
 
 ---
 
-## Introducción
+# Introducción
 
-    1.1. Startup Profile
+## 1.1. Startup Profile
         
-        1.1.1. Descripción de la Startup
+### 1.1.1. Descripción de la Startup
         
 Nuestro equipo de desarrollo de aplicaciones multiplataforma se dedica a la misión de no solo cumplir, sino superar las expectativas de nuestros clientes, asegurando la plena satisfacción de sus necesidades. En nuestra búsqueda constante de la excelencia, llevamos a cabo investigaciones exhaustivas de mercado para concebir soluciones altamente efectivas. Esto, combinado con la aplicación inteligente de tecnologías innovadoras, garantiza a los consumidores la comodidad y confianza necesarias al utilizar nuestros servicios.
 
@@ -15,11 +15,11 @@ Nuestro equipo de desarrollo de aplicaciones multiplataforma se dedica a la misi
 | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
 | Nuestra misión es brindar un servicio de remodelación de calidad y confianza para el cliente. Además, dar a conocer el trabajo de pequeños emprendedores en este rubro. | Ingresar, permanecer y destacar en el mercado de servicios de remodelación. Ser una compañía intermediaria entre clientes y empresas de remodelaciones que trabajarán con nosotros. Aspiramos a ser reconocidos como una de las mejores aplicaciones en esta categoría. |
         
-        1.1.1. Perfiles de integrantes del equipo
+### 1.1.1. Perfiles de integrantes del equipo
 
 
+## 1.2. Solution Profile
 
-    1.2. Solution Profile
 Nuestra solución está diseñada con una interfaz intuitiva y amigable, tanto para nuestros clientes como para las empresas y organizaciones de remodelación asociadas. Esto asegura una navegación sencilla y eficiente dentro de la aplicación.
 
 Destacamos que nuestra plataforma incluye un Sistema de Luces, que ofrece ahorro de tiempo y energía, así como un Autocompletado de Propuestas para las Empresas, impulsado por Inteligencia Artificial, que proporciona un importante ahorro de tiempo en la elaboración de propuestas comerciales.
@@ -28,7 +28,7 @@ En cuanto al modelo de negocio, ofrecemos un sistema de suscripciones que permit
 
 Adicionalmente, el servicio de suscripción ofrece a los clientes la oportunidad de integrar tecnología Smart Home en su hogar después de la finalización del servicio de remodelación.
 
-        1.2.1. Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática
 
 
 #### - **What?**
@@ -53,16 +53,17 @@ Adicionalmente, el servicio de suscripción ofrece a los clientes la oportunidad
   Nuestro equipo de trabajo ha analizado el problema y ha identificado los costos asociados. Para los empresarios, el costo se traduce en la pérdida de clientes o en un alcance limitado de usuarios debido a la falta de una aplicación móvil. Desde la perspectiva del cliente, el costo se refleja en el tiempo de espera para volver a habitar su vivienda. La implementación de soluciones como el "Sistema de Luces" y el "Autocompletado de la propuesta con Inteligencia Artificial" también puede ayudar a ahorrar tiempo y energía, lo que contribuye a una mayor eficiencia en el proceso de remodelación.
 
         
-        1.2.2. Lean UX Process
+### 1.2.2. Lean UX Process
 
-              1.2.2.1 Lean UX Problem Statements.
+#### 1.2.2.1 Lean UX Problem Statements
+
 ## Segmento Cliente
 
 Según Olaechea (2012), si un empresario necesita más de 100 personales técnicos, se tiene un 50% de probabilidades de no encontrar un operario de calidad. Por lo tanto, existe una baja tasa durante una búsqueda exhaustiva por parte del cliente al encontrar equipo técnico para querer remodelar sus casas o espacio de trabajo.
 
 Hemos notado que las personas que buscan una remodelación tienen dificultades en encontrar trabajadores que brinde servicios de alta calidad, causando frustración y mayor tiempo de búsqueda.
 
-### ¿Cómo mejoramos la eficacia en el proceso de búsqueda de un remodelador calificado logrando que los clientes se encuentren satisfechos?
+ ¿Cómo mejoramos la eficacia en el proceso de búsqueda de un remodelador calificado logrando que los clientes se encuentren satisfechos?
 
 ## Segmento Empresa
 
@@ -70,9 +71,10 @@ Existe una dificultad de que de las empresas de remodelación de inmuebles tenga
 
 Hemos notado que las empresas usan las redes sociales como medio de comunicación y buscan la mejor plataforma que los ayude a posicionarse para obtener clientes potenciales seguros.
 
-### ¿Cómo logramos que las empresas de remodelación de inmuebles se posicionen mejor en el mercado?
+ ¿Cómo logramos que las empresas de remodelación de inmuebles se posicionen mejor en el mercado?
   
-              1.2.2.2 Lean UX Assumptions
+#### 1.2.2.2 Lean UX Assumptions
+
 ### Business Assumptions
 
 1. Creo que mis clientes necesitan una aplicación que les facilite buscar un trabajador que se encargue de las remodelaciones de un inmueble.
@@ -117,7 +119,7 @@ Nos caracteriza que contamos con una interacción más rápida entre cliente y e
 #### 7. ¿Cómo debería de verse nuestro producto?
 Nuestro producto debe tener una interacción simple, fácil de usar y además tiene que contar con indicaciones para usuarios primerizos en la aplicación. La apariencia debe reflejar la confiabilidad y la funcionalidad diaria, con un énfasis en la simplicidad y la eficacia, aprovechando las características de ahorro de tiempo y energía proporcionadas por el Sistema de Luces y la inteligencia artificial.
 
-              1.2.2.3 Lean UX Hypothesis Statements
+#### 1.2.2.3 Lean UX Hypothesis Statements
 
 
               1.2.2.4 Lean UX Canvas
