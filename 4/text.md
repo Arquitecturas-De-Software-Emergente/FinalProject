@@ -60,6 +60,16 @@ En esta sección se especifica los Epics o User stories que tienen mayor relevan
 
               4.1.2.3. Constraints
         4.1.3. Architectural Drivers Backlog
+        4.1.4. Architectural Design Decisions
+        4.1.5. Quality Attribute Scenario Refinements
+        4.2 Strategic Level Domain Driver Design
+        4.2.1 EventStorming
+
+Se identificaron los eventos y bounded context correspondientes al realizar el proceso del ventStorming
+
+<center>
+        <img img src="../images/EventStorming.png">
+</center>
         4.3.3. Software Architecture Deployment Diagrams.
 
 ![Alt text](../images/deployment-diagram.png "Deployment Diagram")
