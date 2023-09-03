@@ -86,29 +86,6 @@ A continuación, se mostrará los artefactos realizados de acuerdo a la retroali
 
 ### 2.3.2 User task matrix
 Se realiza un análisis de las principales funciones detectadas en la problemática. Esto basado por los comentarios obtenidos de los 2 segmentos de usuario: Cliente y Empresa.
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  th {
-    background-color: red;
-    color: white;
-    font-size: 15px;
-  }
-  td{
-    background-color: white;
-    color: black;
-    font-weight: 200;
-  }
-  th, td {
-    padding: 10px;
-    text-align: center;
-  }
-  .subh{
-    background: skyblue;
-  }
-</style>
 <table>
   <tr>
     <th rowspan="2">Task Matrix</th>
@@ -116,10 +93,10 @@ Se realiza un análisis de las principales funciones detectadas en la problemát
     <th colspan="2">Empresa</th>
   </tr>
   <tr>
-    <td class="subh">Frecuencia</td>
-    <td class="subh">Importancia</td>
-    <td class="subh">Frecuencia</td>
-    <td class="subh">Importancia</td>
+    <td >Frecuencia</td>
+    <td >Importancia</td>
+    <td >Frecuencia</td>
+    <td >Importancia</td>
   </tr>
   <tr>
     <td>Brindar seguridad al realizar un acuerdo de remodelación</td>
