@@ -120,7 +120,40 @@ Nos caracteriza que contamos con una interacción más rápida entre cliente y e
 Nuestro producto debe tener una interacción simple, fácil de usar y además tiene que contar con indicaciones para usuarios primerizos en la aplicación. La apariencia debe reflejar la confiabilidad y la funcionalidad diaria, con un énfasis en la simplicidad y la eficacia, aprovechando las características de ahorro de tiempo y energía proporcionadas por el Sistema de Luces y la inteligencia artificial.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
+#### Hypothesis Statement 1
+**Creemos que** al implementar un chat entre cliente y trabajadores será una buena opción para que no haya errores en el trabajo o en el presupuesto antes del contrato.
+**Sabremos que** hemos tenido éxito
+**Cuando** veamos un incremento mensual del 10% de usuarios registrados.
 
+#### Hypothesis Statement 2
+**Creemos que** la refacciones y remodelaciones de hogares es un campo de gran demanda ya que hoy en día muchas personas requieren estos servicios, por lo que implementar una aplicación que proporcione trabajo a personas con habilidades técnicas y solventar necesidades de personas que necesiten estos servicios es muy buena. 
+**Sabremos que** hemos tenido éxito
+**Cuando** veamos un incremento del 20% de solicitudes por parte de las empresas.
+
+#### Hypothesis Statement 3
+**Creemos que** cuando las empresas publiquen sus proyectos que estas recibirán y mayor apoyo por parte de nuestros usuarios ya que esto le brinda seguridad y es una buena forma de expandirse.
+**Sabremos que** hemos tenido éxito
+**Cuando** veamos un incremento del 15 % en las ventas de las empresas.
+
+#### Hypothesis Statement 4
+**Creemos que** cuando se muestre el puntaje el perfil de cada trabajador o empresa, esta podrá tener más clientes y así podrán recomendar a estos profesionales.
+**Sabremos que** hemos tenido éxito
+**Cuando** veamos un incremento del 10% en proyectos concluidos.
+
+#### Hypothesis Statement 5
+**Creemos que** teniendo temas legales en caso personas incumplan en el correcto uso de la aplicación, esto garantiza que los contratos se llevarán de manera seria entre usuario y empresa.
+**Sabremos que** hemos tenido éxito
+**Cuando** veamos un incremento del 15% en usuarios registrados.
+
+#### Hypothesis Statement 6
+**Creemos que** teniendo un espacio de reclamos podrá hacer eficiente resolver las dudas de nuestros clientes, así mismo podremos saber el profesionalismo de cada trabajador.
+**Sabremos que** hemos tenido éxito
+**Cuando** veamos un incremento del 15% en usuarios registrados.
+
+#### Hypothesis Statement 7
+**Creemos que** implementando pequeñas indicaciones cuando un usuario entra por primera vez a la aplicación.
+**Sabremos que** hemos tenido éxito
+**Cuando** veamos un incremento del 10% en usuarios registrados.
 
               1.2.2.4 Lean UX Canvas
               
