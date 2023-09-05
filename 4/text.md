@@ -64,18 +64,25 @@ En esta sección se especifica los Epics o User stories que tienen mayor relevan
         4.1.5. Quality Attribute Scenario Refinements
         4.2 Strategic Level Domain Driver Design
         4.2.1 EventStorming
-
-
-
 Se identificaron los eventos y bounded context correspondientes al realizar el proceso del ventStorming
-
 <center>
         <img img src="../images/EventStorming.png">
 </center>
-        4.3.3. Software Architecture Deployment Diagrams.
+        4.3.3. Software Architecture Deployment Diagrams. ![Alt text](../images/deployment-diagram.png "Deployment Diagram")
+### 4.2.2 Candidate Context Discovery
+Al realizar el proceso de EventStorming se identificaron 11 Bounded Context. Siendo "Request Service Management" el core de negocio encontrado.
 
-![Alt text](../images/deployment-diagram.png "Deployment Diagram")
+![canvas1](../images/Candidate_Context_Discovery_A.png)
+![canvas2](../images/Candidate_Context_Discovery_B.png)
+![canvas3](../images/Candidate_Context_Discovery_C.png)
+![canvas4](../images/Candidate_Context_Discovery_D.png)
 
+### 4.2.3 Domain Message Flows Modeling
+Se identificaron los pasos o actividades que los usuarios tendrán que realizar al encontrarse con los escenarios propuestos al navegar por la aplicación.
+![canvas1](../images/Domain_Message_Flows_Modeling_1.png)
+![canvas2](../images/Domain_Message_Flows_Modeling_2.png)
+![canvas3](../images/Domain_Message_Flows_Modeling_3.png)
+![canvas4](../images/Domain_Message_Flows_Modeling_4.png)
 ### 4.2.4 Bounded Context Canvases
 Se realizaron los siguientes canvases:
 ![canvas1](../images/canvas-1.png)
