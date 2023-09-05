@@ -179,7 +179,7 @@ Nuestro producto debe tener una interacción simple, fácil de usar y además ti
 </table>
 
 ## 1.3. Segmentos objetivo
-Nuestro producto está dirigido hacia 3 segmentos objetivos.
+Nuestro producto está dirigido hacia 2 segmentos objetivos.
 #### Empresarios
 **Negocios del sector en remodelaciones de inmuebles** que no cuentan con una aplicación para su empresa, gustan publicar sus servicios y que desean ampliar su cartera de clientes, ya que su alcance actual es limitado.
 #### Clientes
