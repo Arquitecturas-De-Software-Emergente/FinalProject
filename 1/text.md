@@ -157,11 +157,9 @@ Nuestro producto debe tener una interacción simple, fácil de usar y además ti
 
 #### 1.2.2.4 Lean UX Canvas
 
-| **Business Problem**                                                                   | **Solution Ideas**                                                                     |  **Business Outcomes**                                                                     |
+| **Business Problem**                                                         | **Solution Ideas**      |  **Business Outcomes** |
 | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| Las personas tienden a tener dificultades a la hora de buscar un servicio de remodelación, por ello, existe una baja tasa de búsqueda exhaustiva para encontrar ofertas de servicios de remodelación. ¿Cómo podríamos mejorar el proceso de búsqueda de este servicio en corto tiempo?|Un seguimiento del estado del trabajo solicitado, así también como una sección inicial en la que el usuario podrá visualizar los prototipos de remodelación que le brindarán nuestros clientes para ser aprobados o no antes de realizarse. Tener un mejor manejo de los gastos y ganancias obtenidas, esto mejorando el plan de la suscripción hacia la máxima, pues al tenerla, se le mostrará un gráfico señalándolos por cada servicio realizado. | Aumento en la cantidad de usuarios suscritos en la aplicación Creación un espacio de confianza y preferencia hacia el usuario que requiera un servicio de remodelación Aumento de utilidad de la aplicación|
-
-              
+| Las personas tienden a tener dificultades a la hora de buscar un servicio de remodelación, por ello, existe una baja tasa de búsqueda exhaustiva para encontrar ofertas de servicios de remodelación. ¿Cómo podríamos mejorar el proceso de búsqueda de este servicio en corto tiempo? | Un seguimiento del estado del trabajo solicitado, así también como una sección inicial en la que el usuario podrá visualizar los prototipos de remodelación que le brindarán nuestros clientes para ser aprobados o no antes de realizarse. Tener un mejor manejo de los gastos y ganancias obtenidas, esto mejorando el plan de la suscripción hacia la máxima, pues al tenerla, se le mostrará un gráfico señalándolos por cada servicio realizado. | Aumento en la cantidad de usuarios suscritos en la aplicación Creación un espacio de confianza y preferencia hacia el usuario que requiera un servicio de remodelación Aumento de utilidad de la aplicación |
 
 ## 1.3. Segmentos objetivo
 Nuestro producto está dirigido hacia 3 segmentos objetivos.
