@@ -155,7 +155,7 @@ Nuestro producto debe tener una interacción simple, fácil de usar y además ti
 **Sabremos que** hemos tenido éxito
 **Cuando** veamos un incremento del 10% en usuarios registrados.
 
-              1.2.2.4 Lean UX Canvas
+#### 1.2.2.4 Lean UX Canvas
               
 
 ## 1.3. Segmentos objetivo
