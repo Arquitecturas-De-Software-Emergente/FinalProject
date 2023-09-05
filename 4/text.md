@@ -84,3 +84,5 @@ Se realizaron los siguientes canvases:
 ![canvas4](../images/canvas-4.png)
 ![canvas5](../images/canvas-5.png)
 ### 4.2.5 Context Mapping
+El context mapping que se ha creado es el siguiente:
+![canvas1](../images/context-mapping.png)
