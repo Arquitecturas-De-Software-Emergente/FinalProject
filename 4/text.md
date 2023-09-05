@@ -68,7 +68,8 @@ Se identificaron los eventos y bounded context correspondientes al realizar el p
 <center>
         <img img src="../images/EventStorming.png">
 </center>
-        4.3.3. Software Architecture Deployment Diagrams. ![Alt text](../images/deployment-diagram.png "Deployment Diagram")
+        4.3.3. Software Architecture Deployment Diagrams. 
+        ![Alt text](../images/deployment-diagram.png "Deployment Diagram")
 ### 4.2.2 Candidate Context Discovery
 Al realizar el proceso de EventStorming se identificaron 11 Bounded Context. Siendo "Request Service Management" el core de negocio encontrado.
 
