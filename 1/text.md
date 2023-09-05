@@ -170,7 +170,11 @@ Nuestro producto debe tener una interacción simple, fácil de usar y además ti
                 </li>
                 </ul>
         </td>
-        <td>Aumento en la cantidad de usuarios suscritos en la aplicación Creación un espacio de confianza y preferencia hacia el usuario que requiera un servicio de remodelación Aumento de utilidad de la aplicación</td>
+        <td><ul>
+                <li>Aumento en la cantidad de usuarios suscritos en la aplicación 
+                <li>Creación un espacio de confianza y preferencia hacia el usuario que requiera un servicio de remodelación
+                <li>Aumento de utilidad de la aplicación
+        </ul></td>
    </tr>         
 </table>
 
