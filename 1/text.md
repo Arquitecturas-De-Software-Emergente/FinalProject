@@ -159,5 +159,12 @@ Nuestro producto debe tener una interacción simple, fácil de usar y además ti
               
 
 ## 1.3. Segmentos objetivo
+Nuestro producto está dirigido hacia 3 segmentos objetivos.
+#### Empresarios
+Negocios del sector en remodelaciones de inmuebles que no cuentan con una aplicación para su empresa, gustan publicar sus servicios y que desean ampliar su cartera de clientes, ya que su alcance actual es limitado.
+#### Clientes
+Persona que necesite acceder a servicios de remodelación según sus necesidades, buscando un sistema óptimo, amigable, seguro y cómodo para usar. Además, que tenga la necesidad de usar servicios Smart Home en su hogar.
+
+
 
 
