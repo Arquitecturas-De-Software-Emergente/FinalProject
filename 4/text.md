@@ -524,6 +524,24 @@ En esta sección se especifica los Epics o User stories que tienen mayor relevan
         4.2 Strategic Level Domain Driver Design
         4.2.1 EventStorming
 
+        4.2.2 Candidate Context Discovery
+
+        4.2.3 Domain Message Flows Modeling
+        Se identificaron los pasos o actividades que los usuarios tendrán que realizar al encontrarse con los escenarios propuestos al navegar por la aplicación.
+
+        <center>
+        <img img src="../images/Candidate_Context_Discovery_1.png">
+        </center>
+        <center>
+        <img img src="../images/Candidate_Context_Discovery_2.png">
+        </center>
+        <center>
+        <img img src="../images/Candidate_Context_Discovery_3.png">
+        </center>
+        <center>
+        <img img src="../images/Candidate_Context_Discovery_4.png">
+        </center>
+
 Se identificaron los eventos y bounded context correspondientes al realizar el proceso del ventStorming
 
 <center>
