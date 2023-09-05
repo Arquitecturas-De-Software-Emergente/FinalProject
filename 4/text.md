@@ -68,22 +68,23 @@ Se identificaron los eventos y bounded context correspondientes al realizar el p
 <center>
         <img img src="../images/EventStorming.png">
 </center>
-        4.3.3. Software Architecture Deployment Diagrams. 
-        ![Alt text](../images/deployment-diagram.png "Deployment Diagram")
+4.3.3. Software Architecture Deployment Diagrams. 
+
+![Alt text](../images/deployment-diagram.png "Deployment Diagram")
 ### 4.2.2 Candidate Context Discovery
 Al realizar el proceso de EventStorming se identificaron 11 Bounded Context. Siendo "Request Service Management" el core de negocio encontrado.
 
-![canvas1](../images/Candidate_Context_Discovery_A.png)
-![canvas2](../images/Candidate_Context_Discovery_B.png)
-![canvas3](../images/Candidate_Context_Discovery_C.png)
-![canvas4](../images/Candidate_Context_Discovery_D.png)
+![Candidate_Context_Discovery_A](../images/Candidate_Context_Discovery_A.png)
+![Candidate_Context_Discovery_B](../images/Candidate_Context_Discovery_B.png)
+![Candidate_Context_Discovery_C](../images/Candidate_Context_Discovery_C.png)
+![Candidate_Context_Discovery_D](../images/Candidate_Context_Discovery_D.png)
 
 ### 4.2.3 Domain Message Flows Modeling
 Se identificaron los pasos o actividades que los usuarios tendrán que realizar al encontrarse con los escenarios propuestos al navegar por la aplicación.
-![canvas1](../images/Domain_Message_Flows_Modeling_1.png)
-![canvas2](../images/Domain_Message_Flows_Modeling_2.png)
-![canvas3](../images/Domain_Message_Flows_Modeling_3.png)
-![canvas4](../images/Domain_Message_Flows_Modeling_4.png)
+![Domain_Message_Flows_Modeling_1](../images/Domain_Message_Flows_Modeling_1.png)
+![Domain_Message_Flows_Modeling_2](../images/Domain_Message_Flows_Modeling_2.png)
+![Domain_Message_Flows_Modeling_3](../images/Domain_Message_Flows_Modeling_3.png)
+![Domain_Message_Flows_Modeling_4](../images/Domain_Message_Flows_Modeling_4.png)
 ### 4.2.4 Bounded Context Canvases
 Se realizaron los siguientes canvases:
 ![canvas1](../images/canvas-1.png)
