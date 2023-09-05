@@ -158,24 +158,60 @@ Nuestro producto debe tener una interacción simple, fácil de usar y además ti
 #### 1.2.2.4 Lean UX Canvas
 <table>
     <tr>
-        <td>Business Problem</td>
-        <td>Solution Ideas</td>
-        <td>Business Outcomes</td>
+        <td align="center">Business Problem</td>
+        <td align="center">Solution Ideas</td>
+        <td colspan=3 align="center">Business Outcomes</td>
    </tr>  
     <tr>
-        <td>Las personas tienden a tener dificultades a la hora de buscar un servicio de remodelación, por ello, existe una baja tasa de búsqueda exhaustiva para encontrar ofertas de servicios de remodelación. ¿Cómo podríamos mejorar el proceso de búsqueda de este servicio en corto tiempo?</td>
-        <td> 
+        <td align="justify">Las personas tienden a tener dificultades a la hora de buscar un servicio de remodelación, por ello, existe una baja tasa de búsqueda exhaustiva para encontrar ofertas de servicios de remodelación. ¿Cómo podríamos mejorar el proceso de búsqueda de este servicio en corto tiempo?
+        </td>
+        <td rowspan=2> 
                 <ul>  
-                <li> Un seguimiento del estado del trabajo solicitado, así también como una sección inicial en la que el usuario podrá visualizar los prototipos de remodelación que le brindarán nuestros clientes para ser aprobados o no antes de realizarse.</li>                            <li>Tener un mejor manejo de los gastos y ganancias obtenidas, esto mejorando el plan de la suscripción hacia la máxima, pues al tenerla, se le mostrará un gráfico señalándolos por cada servicio realizado. 
+                <li align="justify"> Un seguimiento del estado del trabajo solicitado, así también como una sección inicial en la que el usuario podrá visualizar los prototipos de remodelación que le brindarán nuestros clientes para ser aprobados o no antes de realizarse.</li>                            <li>Tener un mejor manejo de los gastos y ganancias obtenidas, esto mejorando el plan de la suscripción hacia la máxima, pues al tenerla, se le mostrará un gráfico señalándolos por cada servicio realizado. 
                 </li>
                 </ul>
         </td>
-        <td><ul>
-                <li>Aumento en la cantidad de usuarios suscritos en la aplicación 
-                <li>Creación un espacio de confianza y preferencia hacia el usuario que requiera un servicio de remodelación
-                <li>Aumento de utilidad de la aplicación
+        <td colspan=3><ul>
+                <li align="justify">Aumento en la cantidad de usuarios suscritos en la aplicación 
+                <li align="justify">Creación un espacio de confianza y preferencia hacia el usuario que requiera un servicio de remodelación
+                <li align="justify">Aumento de utilidad de la aplicación
         </ul></td>
-   </tr>         
+   </tr>
+   <tr>
+        <td>
+            <b>User & Customers</b>
+            <p align="justify">Nuestros principales clientes serán empresas u organizaciones independientes que quieran dar a conocer su trabajo y desempeño en el rubro de remodelación. Además, personas interesadas en realizar algún trabajo de remodelación en sus hogares.
+        </td>
+        <td colspan=3>
+            <b>User Benefits</b>
+               <ul>
+                    <li align="justify">Contar con una interfaz amigable, confiable e intuitiva con el usuario.
+                    <li align="justify">Mostrar servicios adecuados de acuerdo con las preferencias y solicitudes del usuario.
+                    <li align="justify">Aumentar la visibilidad del servicio ofrecido por parte de nuestros clientes hacia los usuarios.
+               </ul> 
+        </td>     
+   </tr>
+   <tr>
+       <td>
+            <b>Hypothesis</b>
+            <p align="justify">Creemos que la refacciones y remodelaciones de hogares es un campo de gran demanda ya que hoy en día muchas personas requieren estos servicios, por lo que implementar una aplicación que proporcione trabajo a personas con habilidades técnicas y solventar necesidades de personas que necesiten estos servicios es muy buena. 
+Sabremos que hemos tenido éxito cuando veamos un incremento del 20% de solicitudes por parte de clientes interesados en el servicio de remodelación.
+        </td>
+        <td>
+            <b>What’s the most important thing we need to learn first?</b>
+            <p align="justify">Los usuarios aumentarán su interés hacia la aplicación si se les muestra distintas empresas, que previamente fueron evaluadas para mostrase en la plataforma, de acuerdo con el tipo de remodelación que necesiten.
+            <p align="justify">El usuario, si es que tiene algún percance durante o después de realizado el servicio, podrá presentar un reclamo, el cual será evaluado, y de ser válido, podrá solicitar un porcentaje del dinero gastado, de acuerdo con la gravedad del problema.
+        </td>
+        <td colspan=3>
+            <b>What’s the least amount of work we need to do to learn the next most important thing?</b>
+               <ul>
+                    <li>Testing
+                    <li>Quick Survey
+                    <li>User research
+                    <li>Prototyping
+               </ul> 
+        </td>
+   </tr>    
 </table>
 
 ## 1.3. Segmentos objetivo
