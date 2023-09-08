@@ -1,8 +1,8 @@
 # REQUIREMENTS ELICITATION & ANALYSIS
 
-## 1.1 Competidores
+## 2.1 Competidores
 
-### 1.1.1 Análisis competitivo
+### 2.1.1 Análisis competitivo
 
 <table>
     <tr>
@@ -58,7 +58,7 @@
     
 </table>
 
-### 1.1.2 Solution Software Design
+### 2.1.2 Solution Software Design
 
 Luego de analizar a nuestros competidores, hemos logrado observar que existen debilidades que aún no han sido resueltas. Esto puede ser utilizado en cuenta para mejorar y destacar, nuestro proyecto, de la competencia. Las ventajas competitivas que podemos desarrollar lo desarrollaremos como estrategias como:
 
@@ -67,25 +67,30 @@ Luego de analizar a nuestros competidores, hemos logrado observar que existen de
 - Realizar actualizaciones de software cada que se requiera.
 - Implementar una sección de mejora para recibir comentarios de la interfaz por parte del usuario.
 - Establecer un chat de espera para contactarse con una empresa.
-- 
-
+-
 
 ## 2.3 Needfinding
+
 A continuación, se mostrará los artefactos realizados de acuerdo a la retroalimentación de las necesidades de los usuarios a través de las entrevistas. Estos artefactos creados son para los dos tipos de segmentos objetivos: empresa de remodelación y cliente. Estos son user personas, user tax matrix, empathy mapping y el as-is escenario mapping.
+
 ### 2.3.1 User personas
+
 #### 2.3.1.1 Cliente
 
 <image
   src="../images/user-persona-cliente.png"
   alt="User persona cliente">
 
-#### 2.3.1.2 Empresa de remodelación 
+#### 2.3.1.2 Empresa de remodelación
+
 <image
   src="../images/user-persona-empresa.png"
   alt="User persona empresa de remodelación">
 
 ### 2.3.2 User task matrix
+
 Se realiza un análisis de las principales funciones detectadas en la problemática. Esto basado por los comentarios obtenidos de los 2 segmentos de usuario: Cliente y Empresa.
+
 <table>
   <tr>
     <th rowspan="2">Task Matrix</th>
@@ -136,24 +141,29 @@ Se realiza un análisis de las principales funciones detectadas en la problemát
 </table>
 
 ### 2.3.3 Empathy mapping
+
 #### 3.3.3.1 cliente
+
 <image
   src="../images/empathy-mapping-cliente.png"
   alt="Emapthy mapping de cliente">
 
 #### 3.3.3.2 empresa de remodelación
+
 <image
   src="../images/empathy-mapping-empresa.png"
   alt="Empathy mapping de empresa">
 
 ### 2.3.4 As-is scenario mapping
+
 #### 2.3.4.1 cliente
+
 <image
   src="../images/as-is-scenario-mapping-cliente.png"
   alt="As-is scenario mapping cliente">
 
 #### 2.3.4.2 empresa
+
 <image
   src="../images/as-is-scenario-mapping-empresa.png"
   alt="As-is scenario mapping empresa">
-

@@ -62,11 +62,469 @@ En esta sección se especifica los Epics o User stories que tienen mayor relevan
         4.1.3. Architectural Drivers Backlog
         4.1.4. Architectural Design Decisions
         4.1.5. Quality Attribute Scenario Refinements
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 1</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un usuario intenta acceder al sistema y el sistema está disponible.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>El sistema debe estar disponible para los usuarios cuando lo necesiten para que puedan realizar sus tareas.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Disponibilidad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Usuarios o clientes</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Intento de acceso al sistema</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Sistema de software</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Hardware y software subyacente</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>El sistema está disponible y responde a las solicitudes.</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Tiempo en línea, porcentaje de tiempo disponible, tiempo de inactividad planificado o no planificado</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿El sistema está disponible el 99,9% del tiempo?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿El sistema responde a las solicitudes de los usuarios dentro de un tiempo razonable?</td>
+    </tr>    
+</table>
+
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 2</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un usuario intenta ejecutar el software en una plataforma diferente y el software se ejecuta correctamente.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>El sistema debe poder ejecutarse en diferentes plataformas para que pueda ser utilizado por un público más amplio.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Portabilidad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Usuarios y equipos de desarrollo</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Intento de ejecución en diferentes plataformas</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Software o aplicación</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Diferentes sistemas operativos o entornos de hardware</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>El software se ejecuta correctamente en diferentes entornos.</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Número de plataformas compatibles, problemas de compatibilidad reportados</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿El software es compatible con los sistemas operativos y entornos de hardware más comunes?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿El software se ejecuta sin problemas en diferentes entornos?</td>
+    </tr>    
+</table>
+
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 3</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un usuario intenta realizar una tarea y el software realiza la tarea correctamente.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>El sistema debe cumplir con los requisitos funcionales para que los usuarios puedan realizar sus tareas de manera eficiente.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Funcionalidad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Requisitos del cliente</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Acciones del usuario o eventos del sistema</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Funcionalidades y características del software</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Contexto de uso</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>El software realiza las funciones especificadas.</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Requisitos funcionales cumplidos, errores funcionales, casos de uso exitosos</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿El software cumple con todos los requisitos funcionales?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿El software realiza todas las tareas esperadas por los usuarios?</td>
+    </tr>    
+</table>
+
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 4</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un usuario intenta usar el software y el software funciona correctamente.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>El sistema debe ser estable y libre de errores para que los usuarios puedan confiar en él.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Confiabilidad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Usuarios y clientes</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Uso normal o inusual del software</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Sistema de software</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Condiciones operativas</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>El software se comporta de manera predecible y sin errores graves.</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Tiempo promedio entre fallas, tasa de errores, disponibilidad</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿El software es confiable en uso normal?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿El software puede soportar el uso inusual?</td>
+    </tr>    
+</table>
+
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 5</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un usuario intenta acceder al sistema de forma no autorizada y el sistema se protege contra el acceso no autorizado.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>El sistema debe proteger los datos y recursos del sistema de amenazas para que los usuarios puedan sentirse seguros al usarlo.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Seguridad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Usuarios y equipos de seguridad</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Intentos de acceso no autorizado o amenazas</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Sistema de seguridad y software</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Redes y sistemas de comunicación</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>Protección de datos y recursos frente a amenazas.</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Nivel de vulnerabilidades, incidentes de seguridad, políticas de acceso</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿El sistema está protegido contra ataques externos?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿Los datos y recursos del sistema están seguros?</td>
+    </tr>    
+</table>
+
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 6</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un usuario intenta usar la interfaz de usuario y la interfaz de usuario es fácil de usar.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>La interfaz de usuario debe ser fácil de aprender y usar para que los usuarios puedan interactuar con el sistema de manera eficiente.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Usabilidad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Usuarios y diseñadores de experiencia de usuario</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Interacción del usuario con la interfaz</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Interfaz de usuario</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Contexto de uso</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>Facilidad de uso, satisfacción del usuario</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Evaluaciones de usabilidad, encuestas de satisfacción del usuario, tasa de errores de usuario</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿La interfaz de usuario es fácil de usar?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿Los usuarios están satisfechos con la interfaz de usuario?</td>
+    </tr>    
+</table>
+
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 7</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un equipo de desarrollo necesita cambiar el software y el software es fácil de modificar.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>El sistema debe ser fácil de cambiar para adaptarse a los nuevos requisitos para que pueda mantenerse actualizado y relevante.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Modificabilidad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Usuarios o clientes</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Intento de acceso al sistema</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Sistema de software</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Hardware y software subyacente</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>El sistema está disponible y responde a las solicitudes.</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Tiempo en línea, porcentaje de tiempo disponible, tiempo de inactividad planificado o no planificado</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿El sistema está disponible el 99,9% del tiempo?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿El sistema responde a las solicitudes de los usuarios dentro de un tiempo razonable?</td>
+    </tr>    
+</table>
+
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 8</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un equipo de desarrollo necesita realizar un cambio en el software y el software es fácil de modificar.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>El sistema debe ser fácil de modificar para que los equipos de desarrollo puedan realizar cambios de manera rápida y eficiente.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Disponibilidad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Equipos de desarrollo y mantenimiento</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Cambios en los requisitos o actualizaciones</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Código fuente y diseño del software</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Entorno de desarrollo</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>Capacidad para realizar cambios sin introducir errores</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Tiempo y costo de implementación de cambios, estabilidad del sistema</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿El software es fácil de modificar?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿Los cambios al software son propensos a introducir errores?</td>
+    </tr>    
+</table>
+
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 9</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un usuario intenta intercambiar datos o servicios con otro sistema y el software es capaz de hacerlo de manera efectiva.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>El sistema debe ser capaz de interactuar con otros sistemas de manera efectiva para que los usuarios puedan realizar sus tareas.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Interoperabilidad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Usuarios y sistemas externos</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Intercambio de datos o servicios con otros sistemas</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Interfaces de comunicación y protocolos</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Sistemas externos con los que interactúa</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>Capacidad para trabajar con otros sistemas de manera efectiva</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Grado de compatibilidad con estándares, éxito en la integración con sistemas externos</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿El software puede interactuar con otros sistemas de manera efectiva?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿El software requiere una integración compleja con otros sistemas?</td>
+    </tr>    
+</table>
         4.2 Strategic Level Domain Driver Design
         4.2.1 EventStorming
 Se identificaron los eventos y bounded context correspondientes al realizar el proceso del ventStorming
 <center>
-        <img img src="../images/EventStorming.png">
+        <img src="../images/EventStorming.png">
 </center>
 4.3.3. Software Architecture Deployment Diagrams. 
 
