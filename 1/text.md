@@ -17,6 +17,34 @@ Nuestro equipo de desarrollo de aplicaciones multiplataforma se dedica a la misi
         
 ### 1.1.1. Perfiles de integrantes del equipo
 
+<p align="center">
+  <img src="../images/profiles/Alonso.png" alt="Alonso">
+</p>
+
+<p align="center">
+  <img src="../images/profiles/Diego.png" alt="Diego">
+</p>
+
+<p align="center">
+  <img src="../images/profiles/Jasmin.png" alt="Jasmin">
+</p>
+
+<p align="center">
+  <img src="../images/profiles/Luis.png" alt="Luis">
+</p>
+
+<p align="center">
+  <img src="../images/profiles/Martin.png" alt="Martin">
+</p>
+
+<p align="center">
+  <img src="../images/profiles/Miguel.png" alt="Miguel">
+</p>
+
+<p align="center">
+  <img src="../images/profiles/Samuel.png" alt="Samuel">
+</p>
+
 
 ## 1.2. Solution Profile
 
