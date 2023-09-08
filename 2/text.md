@@ -67,7 +67,79 @@ Luego de analizar a nuestros competidores, hemos logrado observar que existen de
 - Realizar actualizaciones de software cada que se requiera.
 - Implementar una sección de mejora para recibir comentarios de la interfaz por parte del usuario.
 - Establecer un chat de espera para contactarse con una empresa.
--
+
+## 2.2 
+
+### 2.2.1. Diseño de entrevistas
+
+#### 2.2.1.1. Cliente
+
+Datos demográficos:
+- Nombre
+- Edad
+- Ubicación
+- Ocupación
+- Redes sociales utilizadas
+
+Preguntas principales
+1. ¿Cuál es el medio que utiliza para buscar un servicio de remodelación de
+inmuebles? ¿Por qué?
+2. ¿Le resulta complicado comunicarse con una persona o empresa que brinda sus
+servicios de remodelación? ¿Por qué?
+3. ¿Qué problema has encontrado cuando solicitaste un servicio de remodelación?
+4. ¿Qué le brinda confianza para poder contratar una empresa que brinda este tipo
+de servicio?
+5. Considera que una aplicación, web o móvil, para el servicio de remodelación es
+mejor que contactar con el proveedor de manera tradicional (vía teléfono)? ¿Por
+qué?
+6. ¿Me puedes describir el tipo de servicio de remodelación Smart es “ideal” para
+ti?
+7. ¿Cuáles son los factores más importantes que buscas en el servicio ofrecido?
+
+#### 2.2.1.2. Empresa
+
+Datos demográficos
+- Nombre del entrevistado (representante de la empresa)
+- Nombre de la empresa
+- Tiempo de funcionamiento
+- Ubicación
+- Ocupación del entrevistado en la empresa
+
+Preguntas principales
+
+1. ¿Cuál es el medio que utilizan para comunicarse con un cliente?
+2. ¿Qué tipo de clientes puedes encontrar en este tipo de servicio?
+3. ¿Qué sucede cuando un proyecto no se entrega a tiempo?
+4. ¿Cuál sería tu alcance ideal con los clientes?
+5. ¿Piensas que una aplicación móvil sería beneficiosa para tu empresa? ¿Por qué?
+6. ¿Cuáles son los problemas más frecuentes para contactar con los clientes?
+7. ¿Cómo compites profesionalmente con otras empresas que brindan el mismo
+servicio?
+8. ¿Qué valoras más de tus clientes?
+9. ¿Cuáles fueron las circunstancias que te detuvieron para poder captar clientes
+nuevos?
+10.¿Cuál es la confianza que le transmite su empresa al cliente?
+
+### 2.2.2 Registro de entrevistas
+
+Usuario cliente
+
+Entrevista 1
+
+<table>
+  <tr>
+  <th> Nombre </th>
+  <th> Apellido </th>
+  <th> Edad </th>
+  <th> Distrito </th>
+  </tr>
+  <tr>
+  <td>César Alejandro </td>
+  <td>Zúñiga Villanueva </td>
+  <td> 25 años </td>
+  <td>Surco</td>
+  </tr>
+</table>
 
 ## 2.3 Needfinding
 
