@@ -122,9 +122,9 @@ nuevos?
 
 ### 2.2.2 Registro de entrevistas
 
-Usuario cliente
+__Usuario cliente__
 
-Entrevista 1
+**Entrevista 1**
 
 <table>
     <tr>
@@ -145,8 +145,106 @@ Entrevista 1
     <tr>
         <td colspan="4">URL: <a href="https://youtu.be/7VONLQr2u5U">https://youtu.be/7VONLQr2u5U</a></td>
     </tr>
+    <tr> <td colspan="4">Resumen de la entrevista: Trabaja como dueño de una empresa llamada Progreso HP
+en Ayacucho desde el inicio de la pandemia. El medio que usa para contactarse con los
+clientes es por medio de referencias de conocidos, amigos y familiares, por el cual se
+contactan a través de vía telefónica y WhatsApp. Los clientes principales quieren
+acabados interiores como paredes, pisos, entre otros. Para esto se llega a un acuerdo
+previo, estableciendo un precio, la cual es negociable, dependiendo de la calidad de los
+materiales y el tiempo de remodelación, y la cantidad de trabajadores que se van a
+involucrar. Su grupo de técnicos especializados lo obtiene por conexiones familiares,
+pero también requiere de búsquedas y capacitaciones por la limitación de expertos en
+la localización de la compañía. Un problema que se puede apreciar es cuando los
+clientes no te contestan para continuar con el avance del proyecto, generando consigo
+retrasos innecesarios. Como es una empresa reciente, la penetración de mercado sería
+ideal por medio de una aplicación móvil concurrida que los publicite y muestre sus
+proyectos anteriores. Por otro lado, tiene un gran interés por visualizar gráficos
+analíticos de manera adicional para ver como progresa su empresa para confirmar y
+procesar datos de su crecimiento con mayor rapidez. También, piensa
+responsabilizarse y no tener ningún inconveniente con sus clientes en un futuro.
+Pagaría una suscripción que oscila entre 1000 a 2000 soles dependiendo de la
+efectividad de su negocio.</td> </tr>
+</table>
+
+**Entrevista 2**
+
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Edad</th>
+        <th>Distrito</th>
+    </tr>
+    <tr>
+        <td>Esmeralda</td>
+        <td>Acuña Albitres</td>
+        <td>22 años</td>
+        <td>Surco</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><img src="../images/Entrevista 2.JPG"></td>
+    </tr>
+    <tr>
+        <td colspan="4">URL: <a href="https://youtu.be/7VONLQr2u5U">https://youtu.be/7VONLQr2u5U</a></td>
+    </tr>
     <tr> <td colspan="4">Annsherly Acuña, quien es asistente en una empresa de remodelación, nos comenta que cuentan con espacios para realizar consultas e informes, tanto presencial como virtual (atención vía WhatsApp o correo). Estos para sus clientes, personas interesadas en remodelar sus casas u oficinas, que muestren interés en las remodelaciones. Además, piensa que una aplicación móvil ayudaría a llegar a más público, facilitándoles la búsqueda de información sobre su empresa. Ella recalca que su compañía ofrece atención oportuna y especializada, precios accesibles, una cotización con materiales de calidad requeridos para el usuario y asegurando, al mostrar, que sus trabajadores cuentan con las certificaciones correctas.</td> </tr>
 </table>
+
+### 2.2.3. Análisis de entrevistas
+
+Luego de realizar las entrevistas diseñadas para el usuario cliente y empresa, hemos
+obtenido información objetiva para el presente proyecto.
+
+**Usuario cliente**
+__Análisis objetivo:__
+
+Se llega a reflejar la necesidad de una solución Smart para el proceso de remodelación
+y construcción. Los clientes destacan la importancia de una comunicación clara y eficaz
+durante todo el proceso, lo que podría resolverse mediante el uso de plataformas
+digitales para mantener una comunicación fluida entre los trabajadores y el cliente.
+También se existe una necesidad de confianza en los trabajadores y empresas
+contratados, lo que podría ser abordado a través de la implementación de sistemas de
+calificación y reseñas en línea que permitan a los clientes evaluar a los proveedores de
+servicios de remodelación.
+Además, se debe buscar inspiración y nuevas ideas para mantener el diseño
+actualizado y atractivo, lo que podría ser satisfecho a través de una plataforma en línea
+que permita a los clientes ver ejemplos de proyectos de remodelación anteriores y
+proporcionar inspiración para nuevos proyectos.
+En general, las soluciones Smart para la remodelación y construcción podrían abordar
+estas necesidades al proporcionar una plataforma en línea que facilite la comunicación
+clara y eficaz entre los trabajadores y los clientes, la implementación de sistemas de
+calificación y reseñas en línea para aumentar la confianza en los proveedores de
+servicios de remodelación y la integración de ejemplos de proyectos anteriores para
+proporcionar inspiración y nuevas ideas para los clientes.
+
+**Usuario empresa**
+__Análisis objetivo:__
+
+Se tiene en consideración la temática de la remodelación de espacios, contando con
+perspectivas y enfoques diferentes. Se destaca la importancia de establecer una
+comunicación efectiva con los clientes y ofrecerles opciones de calidad y
+personalizadas para sus necesidades, lo que implica tener un equipo de técnicos especializados 
+en diferentes áreas. También se menciona la necesidad de penetrar en
+el mercado a través de una aplicación móvil concurrida y de visualizar gráficos
+analíticos para monitorear el crecimiento de la empresa.
+Además, se enfatiza en la importancia de ofrecer atención oportuna y especializada a
+los clientes, así como precios accesibles y cotizaciones detalladas con materiales de
+calidad requeridos. Asimismo, se subraya la importancia de contar con trabajadores
+certificados y tener espacios tanto presenciales como virtuales para ofrecer asesoría a
+los clientes.
+
+También, se pone de manifiesto la importancia de tener una comunicación efectiva
+con los clientes y ofrecer soluciones personalizadas de calidad en el campo de la
+remodelación. Además, se sugiere que la incorporación de tecnología inteligente y
+soluciones innovadoras podría ser una ventaja competitiva para las empresas de
+remodelación. En este sentido, una Smart Solution que integre tecnología y eficiencia
+en los procesos de remodelación podría ser una solución atractiva para los clientes y
+una oportunidad de diferenciación para las empresas. Una Smart Solution podría
+ofrecer opciones como iluminación inteligente, sistemas de climatización eficientes,
+automatización de procesos y monitoreo de recursos, entre otras. Estas soluciones
+podrían ofrecer beneficios como reducción de costos energéticos, mayor comodidad y
+eficiencia, y menor impacto ambiental, lo que podría ser una ventaja competitiva para
+las empresas que buscan ofrecer soluciones innovadoras y atractivas para sus clientes.
 
 ## 2.3 Needfinding
 
