@@ -68,7 +68,7 @@ Luego de analizar a nuestros competidores, hemos logrado observar que existen de
 - Implementar una sección de mejora para recibir comentarios de la interfaz por parte del usuario.
 - Establecer un chat de espera para contactarse con una empresa.
 
-## 2.2 
+## 2.2 Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
@@ -138,7 +138,20 @@ Entrevista 1
   <td>Zúñiga Villanueva </td>
   <td> 25 años </td>
   <td>Surco</td>
+  </tr> 
+  <tr>
+  <td align="center"> <img src="../images/Entrevista 1.JPG"> </td>
   </tr>
+  <tr>URL: https://youtu.be/7VONLQr2u5U</tr>
+  <tr>Annsherly Acuña, quien es asistente en una empresa de remodelación, nos comenta
+que cuentan con espacios para realizar consultas e informes, tanto presencial como
+virtual (atención vía WhatsApp o correo). Estos para sus clientes, personas interesadas
+en remodelar sus casas u oficinas, que muestren interés en las remodelaciones.
+Además, piensa que una aplicación móvil ayudaría a llegar a más público, facilitándoles
+la búsqueda de información sobre su empresa. Ella recalca que su compañía ofrece
+atención oportuna y especializada, precios accesibles, una cotización con materiales de
+calidad requeridos para el usuario y asegurando, al mostrar, que sus trabajadores
+cuentan con las certificaciones correctas.</tr>
 </table>
 
 ## 2.3 Needfinding
