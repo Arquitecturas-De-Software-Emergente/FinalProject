@@ -127,40 +127,25 @@ Usuario cliente
 Entrevista 1
 
 <table>
-  <tr>
-  <th> Nombre </th>
-  <th> Apellido </th>
-  <th> Edad </th>
-  <th> Distrito </th>
-  </tr>
-
-  <tr>
-  <td>César Alejandro </td>
-  <td>Zúñiga Villanueva </td>
-  <td> 25 años </td>
-  <td>Surco</td>
-  </tr> 
-
-  <tr>
-  <td></td>
-  <td align="center"> <img src="../images/Entrevista 1.JPG"> </td>
-  </tr>
-
-  <tr>
-  <td></td>
-  <td>URL: https://youtu.be/7VONLQr2u5U</td></tr>
-
-  <tr><td>
-  Annsherly Acuña, quien es asistente en una empresa de remodelación, nos comenta
-que cuentan con espacios para realizar consultas e informes, tanto presencial como
-virtual (atención vía WhatsApp o correo). Estos para sus clientes, personas interesadas
-en remodelar sus casas u oficinas, que muestren interés en las remodelaciones.
-Además, piensa que una aplicación móvil ayudaría a llegar a más público, facilitándoles
-la búsqueda de información sobre su empresa. Ella recalca que su compañía ofrece
-atención oportuna y especializada, precios accesibles, una cotización con materiales de
-calidad requeridos para el usuario y asegurando, al mostrar, que sus trabajadores
-cuentan con las certificaciones correctas.</td></tr>
-
+    <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Edad</th>
+        <th>Distrito</th>
+    </tr>
+    <tr>
+        <td>César Alejandro</td>
+        <td>Zúñiga Villanueva</td>
+        <td>25 años</td>
+        <td>Surco</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><img src="../images/Entrevista 1.JPG"></td>
+    </tr>
+    <tr>
+        <td colspan="4">URL: <a href="https://youtu.be/7VONLQr2u5U">https://youtu.be/7VONLQr2u5U</a></td>
+    </tr>
+    <tr> <td colspan="4">Annsherly Acuña, quien es asistente en una empresa de remodelación, nos comenta que cuentan con espacios para realizar consultas e informes, tanto presencial como virtual (atención vía WhatsApp o correo). Estos para sus clientes, personas interesadas en remodelar sus casas u oficinas, que muestren interés en las remodelaciones. Además, piensa que una aplicación móvil ayudaría a llegar a más público, facilitándoles la búsqueda de información sobre su empresa. Ella recalca que su compañía ofrece atención oportuna y especializada, precios accesibles, una cotización con materiales de calidad requeridos para el usuario y asegurando, al mostrar, que sus trabajadores cuentan con las certificaciones correctas.</td> </tr>
 </table>
 
 ## 2.3 Needfinding
