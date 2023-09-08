@@ -196,7 +196,8 @@ Luego de realizar las entrevistas diseñadas para el usuario cliente y empresa, 
 obtenido información objetiva para el presente proyecto.
 
 **Usuario cliente**
-__Análisis objetivo:__
+
+Análisis objetivo:
 
 Se llega a reflejar la necesidad de una solución Smart para el proceso de remodelación
 y construcción. Los clientes destacan la importancia de una comunicación clara y eficaz
@@ -218,7 +219,8 @@ servicios de remodelación y la integración de ejemplos de proyectos anteriores
 proporcionar inspiración y nuevas ideas para los clientes.
 
 **Usuario empresa**
-__Análisis objetivo:__
+
+Análisis objetivo:
 
 Se tiene en consideración la temática de la remodelación de espacios, contando con
 perspectivas y enfoques diferentes. Se destaca la importancia de establecer una
