@@ -559,11 +559,11 @@ El context mapping que se ha creado es el siguiente:
 
 ### 4.3.2. Software Architecture Context Level Diagrams.
 
-![Alt text](../images/Context-Diagram.jpg "Context Level Diagrams")
+![Alt text](../images/Context-Diagram.JPG "Context Level Diagrams")
 
 ### 4.3.3. Software Architecture Container Level Diagrams.
 
-![Alt text](../images/Container-Level-Diagrams.jpg "Container Level Diagrams")
+![Alt text](../images/Container-Level-Diagrams.JPG "Container Level Diagrams")
 
 ### 4.3.4. Software Architecture Deployment Diagrams.
 
