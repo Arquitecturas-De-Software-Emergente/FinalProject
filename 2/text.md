@@ -142,10 +142,13 @@ Entrevista 1
   </tr> 
 
   <tr>
+  <td></td>
   <td align="center"> <img src="../images/Entrevista 1.JPG"> </td>
   </tr>
 
-  <tr><td>URL: https://youtu.be/7VONLQr2u5U</td></tr>
+  <tr>
+  <td></td>
+  <td>URL: https://youtu.be/7VONLQr2u5U</td></tr>
 
   <tr><td>
   Annsherly Acuña, quien es asistente en una empresa de remodelación, nos comenta
