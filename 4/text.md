@@ -560,7 +560,7 @@ El context mapping que se ha creado es el siguiente:
 
 ### 4.3.2. Software Architecture Context Level Diagrams.
 
-![Alt text](../images\structurizr-81539-Container.png "Context Level Diagrams")
+![Alt text](../images/structurizr-81539-Context.png "Context Level Diagrams")
 
 ### 4.3.3. Software Architecture Container Level Diagrams.
 
