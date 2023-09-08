@@ -557,14 +557,17 @@ El context mapping que se ha creado es el siguiente:
 ### 4.3.1. Software Architecture System Landscape Diagram.
 
 
+
 ### 4.3.2. Software Architecture Context Level Diagrams.
 
-![Alt text](../images/Context-Diagram.JPG "Context Level Diagrams")
+![Alt text](../images\structurizr-81539-Container.png "Context Level Diagrams")
 
 ### 4.3.3. Software Architecture Container Level Diagrams.
 
-![Alt text](../images/Container-Level-Diagrams.JPG "Container Level Diagrams")
+![Alt text](../images/structurizr-81539-Container.png "Container Level Diagrams")
 
 ### 4.3.4. Software Architecture Deployment Diagrams.
 
 ![Alt text](../images/deployment-diagram.png "Deployment Diagram")
+
+
