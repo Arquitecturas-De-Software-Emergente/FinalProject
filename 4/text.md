@@ -2,17 +2,17 @@
 
 ---
 
-## Strategic-Level Software Design
+# Strategic-Level Software Design
 
-    4.1. Strategic-Level Attribute-Driven Design
+## 4.1. Strategic-Level Attribute-Driven Design
 
-        4.1.1. Design Purpose
+### 4.1.1. Design Purpose
 
 El propósito del sistema es desarrollar una aplicación web que facilite la interconexión entre empresas especializadas en diseño de interiores y potenciales clientes interesados en solicitar dichos servicios. Con este objetivo en mente, se ha concebido una aplicación que proporciona funcionalidades específicas para cumplir con esta finalidad.
 
-        4.1.2. Attribute-Driven Design Inputs
+### 4.1.2. Attribute-Driven Design Inputs
 
-              4.1.2.1. Primary Functionality (Primary User Stories)
+##### 4.1.2.1. Primary Functionality (Primary User Stories)
 
 En esta sección se especifica los Epics o User stories que tienen mayor relevancia en términos de requisitos funcionales y que tienen impacto sobre la arquitectura de la solución. La sección inicia con una introducción que resume los requisitos seleccionados y a continuación se detalla los mismos utilizando el siguiente cuadro.
 
@@ -58,10 +58,10 @@ En esta sección se especifica los Epics o User stories que tienen mayor relevan
 | Interoperabilidad | Usuarios y sistemas externos                     | Intercambio de datos o servicios con otros sistemas | Interfaces de comunicación y protocolos        | Sistemas externos con los que interactúa              | Capacidad para trabajar con otros sistemas de manera efectiva     | Grado de compatibilidad con estándares, éxito en la integración con sistemas externos                |
 | Rendimiento       | Usuarios y requisitos de rendimiento             | Carga de trabajo o solicitudes de usuario           | Sistema de software y hardware                 | Recursos de hardware y red                            | Capacidad de respuesta y eficiencia del software bajo carga       | Tiempo de respuesta, throughput, utilización de recursos, capacidad de escalabilidad                 |
 
-              4.1.2.3. Constraints
-        4.1.3. Architectural Drivers Backlog
-        4.1.4. Architectural Design Decisions
-        4.1.5. Quality Attribute Scenario Refinements
+#### 4.1.2.3. Constraints
+### 4.1.3. Architectural Drivers Backlog
+### 4.1.4. Architectural Design Decisions
+### 4.1.5. Quality Attribute Scenario Refinements
 <table>
     <tr>
         <td colspan=8>Scenario Refinement for Scenario 1</td>
@@ -520,15 +520,13 @@ En esta sección se especifica los Epics o User stories que tienen mayor relevan
         <td colspan=4>¿El software requiere una integración compleja con otros sistemas?</td>
     </tr>    
 </table>
-        4.2 Strategic Level Domain Driver Design
-        4.2.1 EventStorming
-Se identificaron los eventos y bounded context correspondientes al realizar el proceso del ventStorming
-<center>
-        <img src="../images/EventStorming.png">
-</center>
-4.3.3. Software Architecture Deployment Diagrams. 
 
-![Alt text](../images/deployment-diagram.png "Deployment Diagram")
+## 4.2 Strategic Level Domain Driver Design
+### 4.2.1 EventStorming
+Se identificaron los eventos y bounded context correspondientes al realizar el proceso del ventStorming
+    <center>
+            <img src="../images/EventStorming.png">
+    </center>
 ### 4.2.2 Candidate Context Discovery
 Al realizar el proceso de EventStorming se identificaron 11 Bounded Context. Siendo "Request Service Management" el core de negocio encontrado.
 
@@ -553,3 +551,7 @@ Se realizaron los siguientes canvases:
 ### 4.2.5 Context Mapping
 El context mapping que se ha creado es el siguiente:
 ![canvas1](../images/context-mapping.png)
+
+### 4.3.3. Software Architecture Deployment Diagrams.
+
+![Alt text](../images/deployment-diagram.png "Deployment Diagram")
