@@ -556,7 +556,7 @@ El context mapping que se ha creado es el siguiente:
 
 ### 4.3.1. Software Architecture System Landscape Diagram.
 
-
+![Alt text](../images/structurizr-81539-LandScape.png "Landscape Level Diagrams")
 
 ### 4.3.2. Software Architecture Context Level Diagrams.
 
