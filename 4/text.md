@@ -91,11 +91,8 @@
         <td colspan=2 align=justify>Compatibilidad Multiplataforma</td>
         <td colspan=8 align=justify>La aplicación debe ser accesible y funcional en varias plataformas, incluyendo dispositivos móviles (iOS y Android) y navegadores web, para asegurar la máxima accesibilidad para los usuarios.</td>
     </tr>
-    <tr>
-        <td colspan=2 align=justify>Soporte al Cliente</td>
-        <td colspan=8 align=justify>Debe proporcionarse un mecanismo de soporte al cliente eficaz, como un centro de ayuda o servicio de atención al cliente, para abordar preguntas, problemas y solicitudes de asistencia de manera oportuna.</td>
-    </tr>
 </table>
+
 ### 4.1.3. Architectural Drivers Backlog
 <table>
     <tr>
@@ -154,16 +151,219 @@
         <td colspan=3 align=center>Medium</td>
         <td colspan=3 align=center>Medium</td>
     </tr>
+</table>
+
+### 4.1.4. Architectural Design Decisions
+<table>
     <tr>
-        <td colspan=2 align=center>ID-08</td>
-        <td colspan=2 align=center>Soporte al Cliente</td>
-        <td colspan=4 align=justify>La provisión de soporte al cliente es importante para la satisfacción del usuario. La arquitectura debe permitir la implementación eficaz de un centro de ayuda o sistema de atención al cliente para abordar las necesidades y preguntas de los usuarios.</td>
-        <td colspan=3 align=center>Medium</td>
-        <td colspan=3 align=center>Medium</td>
+        <td colspan=2 align=center>Driver ID</td>
+        <td colspan=3 align=center>Título de Driver</td>
+        <td colspan=6 align=center>Monolítico</td>
+        <td colspan=6 align=center>Microservicios</td>
+        <td colspan=6 align=center>Modular</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-01</td>
+        <td colspan=3 align=center>Requerimiento de Suscripción</td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Facilita la implementación inicial rápida.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Menos escalable a largo plazo.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Escalabilidad y flexibilidad para componentes.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Mayor complejidad en el desarrollo y gestión.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Modularidad permite escalar y adaptarse.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Puede requerir más tiempo para desarrollo inicial.</p>
+        </td>
+    <tr>
+        <td colspan=2 align=center>ID-02</td>
+        <td colspan=3 align=center>Integración de Dispositivos Inteligentes</td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Implementación inicial más sencilla.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Limitado en la gestión de múltiples dispositivos.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Flexibilidad para gestionar múltiples dispositivos.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Mayor complejidad en la administración de servicios.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Modularidad permite adaptarse a diferentes dispositivos.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Puede requerir tiempo adicional para desarrollo inicial.</p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-03</td>
+        <td colspan=3 align=center>Gestión de Propuestas</td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Implementación inicial más rápida.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Menos escalable en la gestión de propuestas.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Escalabilidad y flexibilidad en la gestión de propuestas.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Mayor complejidad en el desarrollo y gestión.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Modularidad permite escalabilidad y adaptación.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Posiblemente requiere más tiempo de desarrollo inicial.</p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-04</td>
+        <td colspan=3 align=center>Elección de Remodelación</td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Implementación inicial más simple.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Menos flexibilidad para cambios futuros.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Permite fácilmente adaptarse a diferentes tipos de remodelación.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Mayor complejidad en la gestión de microservicios.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Modularidad facilita la incorporación de nuevos tipos de remodelación.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Posiblemente requiere más tiempo de desarrollo inicial.</p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-05</td>
+        <td colspan=3 align=center>Capacidad de Procesamiento</td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Implementación inicial más rápida.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Menos escalable en términos de capacidad de procesamiento.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Escalabilidad y flexibilidad para gestionar cargas de trabajo.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Mayor complejidad en el desarrollo y gestión.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Modularidad permite escalabilidad y adaptación.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Posiblemente requiere más tiempo de desarrollo inicial.</p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-06</td>
+        <td colspan=3 align=center>Seguridad de Datos</td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Implementación inicial más sencilla.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Menos control y aislamiento de la seguridad.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Mayor control y aislamiento de la seguridad.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Mayor complejidad en la gestión de microservicios.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Modularidad facilita la implementación de medidas de seguridad específicas.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Posiblemente requiere más tiempo de desarrollo inicial.</p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-07</td>
+        <td colspan=3 align=center>Compatibilidad Multiplataforma</td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Implementación inicial más sencilla.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Limitado en la adaptación a múltiples plataformas.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Mayor flexibilidad para adaptarse a diferentes plataformas.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Mayor complejidad en la gestión de microservicios.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Pro:</p>
+            <p>Modularidad permite adaptarse eficazmente a múltiples plataformas.</p>
+        </td>
+        <td colspan=3 align=justify>
+            <p>Contra:</p>
+            <p>Posiblemente requiere más tiempo de desarrollo inicial.</p>
+        </td>
     </tr>
 </table>
-### 4.1.4. Architectural Design Decisions
-### 4.1.5. Quality Attribute Scenario Refinements
+
+<p align=justify>Después de evaluar los patrones arquitectónicos en relación con los drivers clave, hemos decidido adoptar un enfoque "Modular" para la arquitectura de ModelHouse. Este enfoque modular nos proporciona la flexibilidad necesaria para adaptarnos a los diferentes drivers, como la gestión de suscripciones, la integración de dispositivos inteligentes, la gestión de propuestas, la elección de remodelación, la capacidad de procesamiento, la seguridad de datos y la compatibilidad multiplataforma. Además, modularidad permite una escalabilidad y adaptabilidad efectiva sin comprometer la calidad del código y la gestión.
+
+<p align=justify>El enfoque modular permitirá desarrollar componentes independientes que se pueden adaptar y ampliar según sea necesario para cumplir con los requerimientos específicos de ModelHouse, asegurando una arquitectura sólida y flexible a lo largo del tiempo.
+
+###4.1.5. Quality Attribute Scenario Refinements
 <table>
     <tr>
         <td colspan=8>Scenario Refinement for Scenario 1</td>
