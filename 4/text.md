@@ -550,7 +550,106 @@
         <td colspan=4>¿El software requiere una integración compleja con otros sistemas?</td>
     </tr>    
 </table>
-
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 10</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un usuario intenta gestionar dispositivos SmartHome y el sistema responde correctamente.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>El sistema debe permitir a los usuarios gestionar dispositivos SmartHome de manera efectiva y confiable.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Fiabilidad y Usabilidad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Clientes</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Acciones del usuario en la gestión de dispositivos</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Sistema de software, dispositivos SmartHome conectados</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Entorno de desarrollo</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>El sistema permite una gestión efectiva de los dispositivos SmartHome y responde de manera rápida y precisa.</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Tiempo de respuesta de la gestión, tasa de éxito en la gestión de dispositivos, satisfacción del usuario</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿El sistema permite a los usuarios gestionar dispositivos SmartHome sin errores ni retrasos significativos?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿Los usuarios están satisfechos con la facilidad de uso y eficacia de la gestión de dispositivos SmartHome?</td>
+    </tr>    
+</table>
+<table>
+    <tr>
+        <td colspan=8>Scenario Refinement for Scenario 11</td>
+    <tr>
+    <tr>
+        <td colspan=4>Scenario(s):</td>
+        <td colspan=4>Un usuario configura horarios para el encendido y apagado de las luces y el sistema responde correctamente.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Business Goals:</td>
+        <td colspan=4>El sistema debe permitir a los usuarios programar horarios para el control de luces de manera eficiente y precisa.</td>
+    </tr>
+    <tr>
+        <td colspan=4>Relevant Quality Attributes:</td>
+        <td colspan=4>Fiabilidad</td>
+    </tr>
+    <tr>    
+        <td colspan=2 rowspan=6>Scenario Components</td>
+        <td colspan=2>Stimulus:</td>
+        <td colspan=4>Clientes</td>
+    </tr>
+    <tr>
+        <td colspan=2>Stimulus Source:</td>
+        <td colspan=4>Configuración de horarios para luces</td>
+    </tr>
+    <tr>
+        <td colspan=2>Environment:</td>
+        <td colspan=4>Sistema de software, dispositivos de iluminación conectados</td>
+    </tr>
+    <tr>
+        <td colspan=2>Artifact (if Known)</td>
+        <td colspan=4>Entorno de desarrollo</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response:</td>
+        <td colspan=4>El sistema programa las luces según los horarios configurados y asegura que se enciendan y apaguen correctamente.</td>
+    </tr>
+    <tr>
+        <td colspan=2>Response Measure:</td>
+        <td colspan=4>Precisión en la programación de luces, cumplimiento de horarios, satisfacción del usuario</td>
+    </tr>
+    <tr>
+        <td colspan=4>Questions:</td>
+        <td colspan=4>¿El sistema permite a los usuarios configurar horarios de luces de manera precisa y eficiente?<br>¿Las luces se encienden y apagan según los horarios programados?</td>
+    </tr>
+    <tr>
+        <td colspan=4>Issues:</td>
+        <td colspan=4>¿Los usuarios encuentran fácil de usar y comprender la función de programación de luces?<br>¿El sistema es confiable en el control de luces programadas?</td>
+    </tr>    
+</table>
 ## 4.2 Strategic Level Domain Driver Design
 ### 4.2.1 EventStorming
 Se identificaron los eventos y bounded context correspondientes al realizar el proceso del ventStorming
