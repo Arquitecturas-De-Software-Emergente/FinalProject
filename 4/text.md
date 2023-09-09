@@ -44,7 +44,7 @@
 | US24          |<p align=justify> Propuestas de Remodelación Instantáneas                      |<p align=justify> Como usuario cliente, quiero una herramienta en línea que me ayude a crear una lista de deseos para mi proyecto.                                                      |<p align=justify> **Escenario 1:** Actualización automática de la propuesta al realizar cambios en la lista de deseos <br>- La IA actualiza automáticamente la propuesta al realizar cambios en la lista de deseos. <br> **Escenario 2:** Visualización clara de costos y alcance en la propuesta preliminar <br>- El cliente ve los costos y el alcance del proyecto en la propuesta preliminar de manera clara y comprensible.                                                                                                                                     |
 | TS01          |<p align=justify> Recopilar información de los dispositivos Smart Home         |<p align=justify> Como desarrollador, quiero poder definir un esquema de datos para almacenar los datos recopilados de los dispositivos Smart Home.                                     |<p align=justify> **Escenario 1:** Acceso a los datos recopilados de los dispositivos Smart Home <br>- Los datos recopilados se almacenan en un esquema de datos coherente y se pueden acceder de manera efectiva. <br> **Escenario 2:** Almacenamiento de los datos recopilados de los dispositivos Smart Home <br>- Los datos recopilados se almacenan correctamente en la base de datos y se pueden recuperar con precisión.                                                                                                                                      |
 
-              4.1.2.2. Quality attribute Scenarios
+#### 4.1.2.2. Quality attribute Scenarios
 
 | Atributo          | Fuente                                           | Estímulo                                            | Artefacto                                      | Entorno                                               | Respuesta                                                         | Medida                                                                                               |
 | ----------------- | ------------------------------------------------ | --------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -363,7 +363,8 @@
 
 <p align=justify>El enfoque modular permitirá desarrollar componentes independientes que se pueden adaptar y ampliar según sea necesario para cumplir con los requerimientos específicos de ModelHouse, asegurando una arquitectura sólida y flexible a lo largo del tiempo.
 
-###4.1.5. Quality Attribute Scenario Refinements
+### 4.1.5. Quality Attribute Scenario Refinements
+
 <table>
     <tr>
         <td colspan=8>Scenario Refinement for Scenario 1</td>
