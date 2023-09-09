@@ -107,16 +107,11 @@
     <td>Conclusiones</td>
   </tr>
   <tr>
-    <td rowspan="7" align=justify>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td rowspan="6" align=justify>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
     <td>TB1 LUIS LI:
 comunicación con segmentos objetivos de empresas de remodelación para entender sus necesidades para mejorar los requisitos de usuarios.
 </td>
-    <td rowspan="7" align=justify>La capacidad de participar efectivamente en equipos multidisciplinarios es esencial para el éxito de los proyectos en soluciones de ingeniería de software. La eficacia, eficiencia y objetividad en la colaboración pueden mejorar la calidad del producto final y la satisfacción del cliente. Por lo tanto, es importante para los ingenieros de software desarrollar habilidades de comunicación, colaboración y trabajo en equipo para lograr un desempeño óptimo en un entorno de trabajo multidisciplinario.</td>
-  </tr>
-  <tr>
-    <td align=justify>TB1 LUIS LI: 
-    Desarrollo de artefactos de software como el user persona, as-is scenario mapping, etc. para el análisis correspondiente de los requisitos obtenidos previamente</td>
-    <td></td>
+    <td rowspan="9" align=justify>La capacidad de participar efectivamente en equipos multidisciplinarios es esencial para el éxito de los proyectos en soluciones de ingeniería de software. La eficacia, eficiencia y objetividad en la colaboración pueden mejorar la calidad del producto final y la satisfacción del cliente. Por lo tanto, es importante para los ingenieros de software desarrollar habilidades de comunicación, colaboración y trabajo en equipo para lograr un desempeño óptimo en un entorno de trabajo multidisciplinario.</td>
   </tr>
   <tr>
     <td align=justify>
@@ -124,7 +119,13 @@ comunicación con segmentos objetivos de empresas de remodelación para entender
   </tr>
   <tr>
     <td align=justify>
-    TB1 Jasmin Pomasonco: La descripción detallada de cómo el sistema debe funcionar y cumplir con los requisitos de calidad, mejorando la comprensión y seguimiento del proyecto con la buena documentación.</td>
+    TB1 Diego De La Flor: Deployment diagram, competitors and justify content y requirements specification por que es posible entender nuestras características se comparan con las competencias.
+    </td>
+  </tr>
+  <tr>
+    <td align=justify>
+    TB1 Diego Porta Ñaña:
+Presentación en las reuniones del proyecto. Controlando una comunicación fluida entre los artefactos.</td>
   </tr>
   <tr>
     <td align=justify>
@@ -134,12 +135,35 @@ Presentación en las reuniones del proyecto: A través de la experiencia de trab
   </tr>
   <tr>
     <td align=justify>
+    Miguel Garcia Salas
+TB1: Se expresaron conceptos técnicos de manera clara y concisa, facilitando la colaboración interdisciplinaria y la presentación efectiva de soluciones y hallazgos en un entorno de ingeniería. Además, se contribuyó a la toma de decisiones informadas y al éxito en la implementación de proyectos tecnológicos
+    </td>
+  </tr>
+  <tr>
+    <td align=justify rowspan="5">
+    Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería..</td>
+
+  <td align=justify>
     TB1 Diego Porta Ñaña:
 Actualización de la idea de negocio y como este contiene una solución emergente, en este caso Internet de las cosas (IOT)</td>
   </tr>
   <tr>
     <td align=justify>
-    TB1 Diego Porta Ñaña:
-Presentación en las reuniones del proyecto. Controlando una comunicación fluida entre los artefactos.</td>
+    TB1 Jasmin Pomasonco: La descripción detallada de cómo el sistema debe funcionar y cumplir con los requisitos de calidad, mejorando la comprensión y seguimiento del proyecto con la buena documentación.</td>
+  </tr>
+  <tr>
+    <td align=justify>
+    TB1 Diego De La Flor: Identificar y comprender las necesidades, conocimientos y nivel jerárquico del público al que nos estamos dirigiendo, mediante reuniones grupales para realizar una comunicación efectiva.
+    </td>
+  <tr>
+    <td align=justify>TB1 LUIS LI: 
+    Desarrollo de artefactos de software como el user persona, as-is scenario mapping, etc. para el análisis correspondiente de los requisitos obtenidos previamente</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align=justify>
+    Miguel Garcia Salas
+TB1: Se redactaron informes técnicos, documentación detallada y otros documentos escritos que transmitan eficazmente la información relacionada con el proyecto.
+    </td>
   </tr>
 </table>
