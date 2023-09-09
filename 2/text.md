@@ -34,7 +34,7 @@
     <tr>
         <td>Perfil de Marketing</td>
         <td>Mercado objetivo</td>
-        <td colspan=3 align="justify">Clientes entre los 27 y 45 años que tengan interés de una remodelación.</td>
+        <td colspan=3 align="justify">Clientes entre los 27 y 45 años que tengan interés de una remodelación. Consumidores que buscan remodelar sus hogares de manera inteligente y conectada. Empresas especializadas en remodelación de hogares inteligentes que desean llegar a un público más amplio. Pequeños emprendedores especializados en la remodelación de hogares inteligentes que buscan oportunidades de negocio.</td>
         <td align="justify">Se dirige a una audiencia amplia, desde propietarios de viviendas que buscan redecorar sus hogares hasta profesionales del diseño de interiores que utilizan la plataforma para crear presentaciones visuales para clientes.</td>
         <td align="justify">Se enfoca en clientes que buscan soluciones de diseño altamente personalizadas y basadas en datos, como propietarios de viviendas que desean remodelar sus espacios de manera eficiente.</td>
         <td align="justify">Se dirige principalmente a propietarios de viviendas interesados en la automatización del hogar y la comodidad, así como a empresas que buscan soluciones de control para sus instalaciones.</td>
@@ -50,26 +50,45 @@
     <tr>
         <td>Análisis SWOT</td>
         <td>Fortalezas Oportunidades Debilidades Amenazas</td>
-        <td colspan=3 align="justify">Mayor rapidez de contratación de remodeladores.</td>
-        <td align="justify">
-        ➱Fortalezas: Interfaz fácil de usar, amplia comunidad en línea para compartir diseños, opciones 2D y 3D, integración de productos de marcas reconocidas.
-        ➱Oportunidades: Crecimiento continuo de la demanda de diseño de interiores en línea, posibilidad de colaborar con marcas de decoración y muebles para ingresos adicionales.
-        ➱Debilidades: Limitaciones en la personalización avanzada, competencia en constante evolución en el mercado de diseño en línea.
-        ➱Amenazas: Nuevos competidores emergentes, cambios en las preferencias del consumidor en diseño.</td>
-        <td align="justify">
-        ➱Fortalezas: Uso de IA para personalización precisa, análisis de tendencias en tiempo real, diseño eficiente y basado en datos.
-        ➱Oportunidades: Crecimiento en la demanda de soluciones de diseño impulsadas por IA, colaboraciones con empresas de tecnología y mobiliario.
-        ➱Debilidades: Puede ser costoso de desarrollar y mantener, limitado por la disponibilidad de datos y la adopción de tecnología.
-        ➱Amenazas: Competidores que ofrecen soluciones similares basadas en IA, preocupaciones sobre la privacidad de los datos.
-        </td>
-        <td align="justify">
-        ➱Fortalezas: Experiencia en automatización del hogar, capacidad para personalizar soluciones, aumento de la demanda de hogares inteligentes.
-        ➱Oportunidades: Crecimiento en la adopción de hogares inteligentes, colaboraciones con empresas de construcción y arquitectura.
-        ➱Debilidades: Costos iniciales de implementación pueden ser altos, competencia en el mercado de automatización del hogar.
-        ➱Amenazas: Cambios en las preferencias del consumidor, avances tecnológicos que podrían obsolescer productos existentes.
-        </td>
-    </tr>
-    
+        <td colspan=3 align="justify">
+        ➱Fortalezas:
+        Dedicación a superar las expectativas del cliente.
+        Plataforma ModelHouse para conectar eficientemente a consumidores y empresas.
+        Enfoque en comodidad, eficiencia energética y seguridad del hogar.
+
+➱Oportunidades:
+Crecimiento en la demanda de hogares inteligentes.
+Expansión a nuevos mercados geográficos.
+Colaboración con empresas tecnológicas para integrar soluciones inteligentes.
+
+➱Debilidades:
+Posible competencia en el mercado de intermediación de servicios de remodelación.
+Dependencia de la tecnología para la plataforma ModelHouse.
+
+➱Amenazas:
+Cambios en las tendencias del mercado de remodelación.
+Competencia de plataformas similares.
+Problemas de ciberseguridad relacionados con la plataforma tecnológica.
+</td>
+<td align="justify">
+➱Fortalezas: Interfaz fácil de usar, amplia comunidad en línea para compartir diseños, opciones 2D y 3D, integración de productos de marcas reconocidas.
+➱Oportunidades: Crecimiento continuo de la demanda de diseño de interiores en línea, posibilidad de colaborar con marcas de decoración y muebles para ingresos adicionales.
+➱Debilidades: Limitaciones en la personalización avanzada, competencia en constante evolución en el mercado de diseño en línea.
+➱Amenazas: Nuevos competidores emergentes, cambios en las preferencias del consumidor en diseño.</td>
+<td align="justify">
+➱Fortalezas: Uso de IA para personalización precisa, análisis de tendencias en tiempo real, diseño eficiente y basado en datos.
+➱Oportunidades: Crecimiento en la demanda de soluciones de diseño impulsadas por IA, colaboraciones con empresas de tecnología y mobiliario.
+➱Debilidades: Puede ser costoso de desarrollar y mantener, limitado por la disponibilidad de datos y la adopción de tecnología.
+➱Amenazas: Competidores que ofrecen soluciones similares basadas en IA, preocupaciones sobre la privacidad de los datos.
+</td>
+<td align="justify">
+➱Fortalezas: Experiencia en automatización del hogar, capacidad para personalizar soluciones, aumento de la demanda de hogares inteligentes.
+➱Oportunidades: Crecimiento en la adopción de hogares inteligentes, colaboraciones con empresas de construcción y arquitectura.
+➱Debilidades: Costos iniciales de implementación pueden ser altos, competencia en el mercado de automatización del hogar.
+➱Amenazas: Cambios en las preferencias del consumidor, avances tecnológicos que podrían obsolescer productos existentes.
+</td>
+</tr>
+
 </table>
 
 ### 2.1.2 Solution Software Design
