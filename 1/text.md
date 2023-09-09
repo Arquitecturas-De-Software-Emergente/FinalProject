@@ -56,7 +56,7 @@ En ModelHouse, hemos desarrollado una solución completa para el proceso de remo
 
 ModelHouse se destaca por su interfaz intuitiva, diseñada para que tanto los clientes como las empresas de remodelación naveguen con comodidad. Esto facilita la búsqueda de opciones de remodelación y la obtención de información detallada sobre las empresas disponibles.
 
-Nuestro sistema de Luces permite una gestión inteligente de la iluminación durante la remodelación, lo que se traduce en ahorro de tiempo y energía. Para las empresas de remodelación, ofrecemos un Autocompletado de Propuestas impulsado por Inteligencia Artificial, agilizando la creación de propuestas comerciales y mejorando la eficiencia en su trabajo.
+Nuestro sistema de Luces permite una gestión inteligente de la iluminación durante la remodelación, lo que se traduce en ahorro de tiempo y energía. Para las empresas de remodelación.
 
 En resumen, ModelHouse es la solución integral que simplifica la remodelación y la hace más inteligente. Nuestra plataforma garantiza la satisfacción del cliente, apoya a emprendedores en el campo de la remodelación inteligente y ofrece opciones avanzadas para la creación de hogares conectados. Si deseas transformar tu hogar en un espacio inteligente y eficiente, ModelHouse es tu socio ideal.
 
@@ -64,7 +64,7 @@ En resumen, ModelHouse es la solución integral que simplifica la remodelación 
 
 #### - **What?**
 
-La remodelación de viviendas es una de las demandas más prominentes en la industria inmobiliaria, con un enfoque creciente en la transformación de hogares en espacios inteligentes. En Perú, el sector de la construcción ha experimentado un crecimiento constante, destacando las construcciones y ampliaciones. El 53% de los hogares ya vive en propiedades propias, y el 20% planea adquirir una nueva propiedad en 2019, con la necesidad de incorporar tecnología y servicios inteligentes.
+La remodelación de viviendas es una de las demandas más prominentes en la industria inmobiliaria, con un enfoque creciente en la transformación de hogares en espacios inteligentes. En Perú, el sector de la construcción ha experimentado un crecimiento constante, destacando las construcciones y ampliaciones. El 53% de los hogares ya vive en propiedades propias, y el 20% planea adquirir una nueva propiedad en 2019, con la necesidad de incorporar tecnología y servicios
 
 #### - **Who?**
 
@@ -84,11 +84,11 @@ El problema que buscamos resolver es recurrente cuando las empresas buscan expan
 
 #### - **How?**
 
-La entrega oportuna y la calidad son críticas en este problema, ya que los clientes exigen resultados precisos y plazos de entrega eficientes. Para abordar esto, buscamos ofrecer una solución que permita a las empresas llegar a más usuarios y ofrezca a los clientes opciones inteligentes al adquirir servicios de remodelación a través de una aplicación móvil en línea. Además, consideramos implementar un "Sistema de Luces" para el ahorro de tiempo y energía, así como un "Autocompletado de Propuestas para Empresas con Inteligencia Artificial" para agilizar la generación de propuestas.
+La entrega oportuna y la calidad son críticas en este problema, ya que los clientes exigen resultados precisos y plazos de entrega eficientes. Para abordar esto, buscamos ofrecer una solución que permita a las empresas llegar a más usuarios y ofrezca a los clientes opciones inteligentes al adquirir servicios de remodelación a través de una aplicación móvil en línea. Además, consideramos implementar soluciones IoT para el hogar que aporten eficiencia y comodidad en el proceso de remodelación y en la vida cotidiana de los clientes.
 
 #### - **How Much?**
 
-Desde la perspectiva de los empresarios, el costo se traduce en la pérdida de clientes debido a la falta de una presencia móvil inteligente. Para los clientes, el costo se refleja en el tiempo de espera para volver a habitar su vivienda. La implementación de soluciones inteligentes, como el "Sistema de Luces" y el "Autocompletado de Propuestas con Inteligencia Artificial", ahorra tiempo y energía, mejorando la eficiencia en el proceso de remodelación y optimizando los costos.
+Desde la perspectiva de los empresarios, el costo se traduce en la pérdida de clientes debido a la falta de una presencia móvil inteligente. Para los clientes, el costo se refleja en el tiempo de espera para volver a habitar su vivienda. La implementación de soluciones inteligentes, como las tecnologías IoT para el hogar, ahorra tiempo y energía, mejorando la eficiencia en el proceso de remodelación y optimizando los costos.
 
 ### 1.2.2. Lean UX Process
 
@@ -110,184 +110,182 @@ Nuestra estrategia inteligente e IoT para el segmento de empresas de remodelaci�
 
 En un mundo donde los hogares inteligentes son cada vez más comunes, es esencial que las empresas de remodelación se destaquen como expertas en la transformación de hogares en espacios inteligentes y conectados. Nuestra aplicación les proporciona una plataforma inteligente donde pueden mostrar su experiencia en remodelación smart home, incluyendo tecnologías IoT para el hogar.
 
-Además del "Autocompletado de Propuestas para Empresas con Inteligencia Artificial", ofrecemos herramientas para la integración de tecnología IoT en proyectos de remodelación. Esto les permite ofrecer a sus clientes opciones de hogares verdaderamente inteligentes, desde sistemas de seguridad avanzados hasta soluciones de automatización del hogar.
-
 En resumen, nuestra solución inteligente e IoT para el segmento de empresas de remodelación se enfoca en posicionarlas como expertas en remodelación smart home y les proporciona herramientas tecnológicas para optimizar sus procesos y ofrecer proyectos de hogares inteligentes que aprovechen al máximo la tecnología IoT disponible.
 
 #### 1.2.2.2 Lean UX Assumptions
 
 ### Business Assumptions
 
-1. Creo que mis clientes necesitan una aplicación que les facilite buscar un trabajador que se encargue de las remodelaciones de un inmueble.
-2. Estas necesidades se pueden resolver con el desarrollo de tecnologías como el lector de código QR para conseguir la cuenta bancaria del usuario.
-3. El valor más importante que un cliente quiere de mi servicio es el ahorro de tiempo al querer encontrar un trabajador que resuelva su problema con facilidad.
-4. El cliente puede interactuar con los trabajadores por medio un chat, esto ayudará a una mejor interacción entre ambos usuarios.
-5. Vamos a adquirir clientes iniciales por medio de redes sociales tales como YouTube, Facebook, Instagram, Twitter, entre otros.
-6. Generamos ingresos por medio de porcentajes por suscripciones de empresas.
-7. Mis principales competencias serán aplicaciones móviles o aplicaciones móviles que funcionen como intermediario entre trabajadores, como ARAM, REM (INGENIERÍA Perú SAC), DACOINSAC, entre otros.
-8. Lograremos vencer a nuestra competencia ya que nuestra aplicación móvil contará con la supervisión de cada uno de los proyectos que se realizan, para así evitar fraudes al momento de que se realicen los proyectos.
-9. El mayor riesgo sería cuando las personas quisieran buscar a un trabajador de forma presencial, o que recurra a nuestras competencias.
-10. Mis clientes son personas con capacidad de manejo de dispositivos Android y/o iOS.
+1.- Creemos que existe una demanda de clientes que necesitan una aplicación que simplifique la búsqueda de trabajadores para remodelaciones en propiedades.
+
+2.- Suponemos que las necesidades de los clientes pueden ser satisfechas mediante el desarrollo de tecnologías como el lector de códigos QR, que facilitarán la interacción y el pago entre los usuarios.
+
+3.- Consideramos que el valor más importante que los clientes desean de nuestro servicio es el ahorro de tiempo y la facilidad para encontrar trabajadores que resuelvan sus necesidades de remodelación de manera eficiente.
+
+4.- Suponemos que facilitar la interacción entre clientes y trabajadores a través de un chat mejorará la comunicación y la colaboración entre ambas partes.
+
+5.- Planeamos adquirir clientes iniciales mediante estrategias de marketing en redes sociales como YouTube, Facebook, Instagram, Twitter y otras plataformas.
+
+6.- Nuestra principal fuente de ingresos será a través de comisiones por suscripciones de empresas de remodelación que utilicen nuestra plataforma.
+
+7.- Identificamos a aplicaciones móviles y servicios similares que funcionan como intermediarios entre trabajadores y clientes, como nuestros principales competidores.
+
+8.- Creemos que podemos superar a la competencia al ofrecer una supervisión detallada de cada proyecto para prevenir fraudes y garantizar la calidad de los servicios de remodelación.
+
+9.- Reconocemos el riesgo de que algunos clientes prefieran buscar trabajadores de manera presencial o utilizar servicios de la competencia, pero confiamos en que nuestra propuesta de valor y supervisión efectiva nos ayudarán a mitigar este riesgo.
+
+10.- Suponemos que nuestros clientes son personas con capacidad para utilizar dispositivos Android y/o iOS, lo que respalda la viabilidad de nuestra aplicación móvil como plataforma de búsqueda y contratación de trabajadores de remodelación.
 
 ### User Assumptions
 
-#### 1. ¿Quién es el usuario?
+### 1. ¿Quiénes son los Usuarios?
 
-Empresas y personas, de 20 a 45 años, que buscan remodelar un inmueble.
+Nuestros usuarios son personas y empresas, de edades comprendidas entre los 20 y 45 años, que tienen la necesidad de remodelar propiedades, ya sea para uso personal o para mejorar su presencia en el mercado.
 
-#### 2. ¿Dónde encaja nuestro producto en su trabajo o vida?
+### 2. ¿Dónde encaja nuestro producto en su trabajo o vida?
 
-Los clientes sienten la necesidad de remodelar sus ambientes en la cual viven o laboran.
-Las empresas tienden a buscar clientes para sostenerse a largo plazo.
+Nuestro producto se integra en la vida y trabajo de los usuarios cuando desean remodelar un espacio habitable o laboral. Las empresas utilizan nuestra plataforma para encontrar clientes potenciales y asegurar su crecimiento a largo plazo.
 
-#### 3. ¿Qué problemas tiene nuestro producto? ¿Qué podemos resolver?
+### 3. ¿Qué problemas puede resolver nuestro producto?
 
-La implementación de los costos puede que no permita ingresar a las empresas pequeñas de remodelación al producto.
+Creemos que nuestro producto puede resolver el problema de los costos de entrada que pueden limitar el acceso de las pequeñas empresas de remodelación al mercado. Facilitamos la competencia y brindamos opciones asequibles para los usuarios.
 
-#### 4. ¿Cuándo y cómo es nuestro producto? ¿Es usado?
+### 4. ¿Cuándo y cómo se utiliza nuestro producto?
 
-El producto es usado cuando se haya una necesidad o deseo de remodelar un inmueble para el bienestar hogareño de un conjunto de personas, asimismo, establecer comunicaciones con las personas que puedan brindar el servicio de remodelación. Por otro lado, el producto debe verse confiable y formal para brindarle seguridad al cliente que esté usando nuestro producto.
+Nuestro producto se utiliza cuando surge la necesidad de remodelar una propiedad para mejorar la calidad de vida o mantener una presencia competitiva en el mercado. Los usuarios recurren a nuestra plataforma para conectarse con profesionales y empresas de remodelación. La plataforma debe transmitir confiabilidad y formalidad.
 
-#### 5. ¿Qué características son importantes?
+### 5. ¿Qué características son importantes?
 
-Las características más importantes de nuestro producto son la comunicación sencilla y rápida entre cliente y empresa, y el acceso a diferentes empresas con distintos estilos de remodelación a escoger. Además, se destacan las características de Sistema de Luces (Ahorro de tiempo y energía) y Autocompletado de la propuesta para las Empresas con Inteligencia artificial (Ahorro de tiempo) según sea necesario.
+Las características esenciales de nuestro producto incluyen una comunicación eficiente entre el cliente y la empresa de remodelación, así como el acceso a una variedad de empresas con diferentes enfoques de remodelación. Además, destacamos las características relacionadas con la eficiencia, como las soluciones IoT para el hogar, que incluyen el ahorro de tiempo y energía.
 
-#### 6. ¿Cómo debe verse y comportarse nuestro producto?
+### 6. ¿Cómo debe verse y comportarse nuestro producto?
 
-Nuestro producto debe verse confiable y funcional diariamente. Este debe comportarse de forma amigable con una funcionalidad ágil, para que los usuarios no tengan problemas para usarlo.
+Nuestro producto debe transmitir confiabilidad y funcionalidad en su apariencia y comportamiento. Debe ofrecer una experiencia de usuario amigable y ágil para que los usuarios puedan utilizarlo sin dificultades. La plataforma debe ser vista como una herramienta confiable para la búsqueda y contratación de servicios de remodelación, respaldando la idea de negocio de manera sólida.
 
 ### Feature Assumptions
 
-#### 1. ¿Cómo puede ocasionar un impacto social?
+### 1. ¿Cómo puede ocasionar un impacto social?
 
-Se puede ocasionar un impacto positivo en el rubro de trabajadores de hogares, tales como técnicos electricistas, albañiles, remodeladores, entre otros. Además, las características de Sistema de Luces (Ahorro de tiempo y energía) y Autocompletado de la propuesta para las Empresas con Inteligencia artificial (Ahorro de tiempo) pueden agilizar los proyectos, beneficiando a más trabajadores.
+Nuestra plataforma puede tener un impacto social positivo al generar oportunidades de empleo para trabajadores técnicos, como electricistas y albañiles, al conectarlos con clientes que necesitan servicios de remodelación con enfoque Smart Home. Además, características de automatización y control inteligente pueden mejorar la comodidad y eficiencia energética de los hogares.
 
-#### 2. ¿Qué problema social logrará solucionar?
+### 2. ¿Qué problema social logrará solucionar?
 
-Logra solucionar el desempleo de trabajadores técnicos, puesto que este tipo de trabajadores no cuentan con un trabajo estable, y se basan en posibles clientes.
+Nuestra plataforma contribuirá a abordar el problema del desempleo entre trabajadores técnicos al conectarlos con clientes que buscan servicios de remodelación con enfoque Smart Home. También ayudará a los usuarios a mejorar sus hogares para hacerlos más cómodos y eficientes.
 
-#### 3. ¿En qué situaciones será útil?
+### 3. ¿En qué situaciones será útil?
 
-Será útil cuando existan personas que necesitan una remodelación de su casa, departamento o edificio. También será útil para que empresas o técnicos especialistas puedan conseguir trabajo.
+Nuestra plataforma será útil en situaciones donde las personas necesiten llevar a cabo remodelaciones con tecnología Smart Home en sus hogares, departamentos o edificios. También será valiosa para empresas y técnicos especializados en busca de oportunidades de trabajo en el sector de remodelaciones inteligentes de viviendas.
 
-#### 4. ¿Cuáles son los sectores más influyentes?
+### 4. ¿Cuáles son los sectores más influyentes?
 
-Los sectores más influyentes son, personas que cuenten con una casa, departamento o edificio recién realizado para que así requieran personas especialistas en remodelaciones de hogares.
+Los sectores más influyentes para nuestra plataforma incluyen a las personas que son propietarias de viviendas, departamentos o edificios y que deseen realizar remodelaciones con tecnología Smart Home. Además, los técnicos especializados en remodelaciones inteligentes de hogares también se benefician al tener acceso a oportunidades de trabajo a través de nuestra plataforma.
 
-#### 5. ¿Qué beneficios considera que podría ayudar a las remodelaciones de hogares?
+### 5. ¿Qué beneficios considera que podría ayudar a las remodelaciones de hogares con tecnología Smart Home?
 
-Podría ayudar a que los clientes tengan una buena experiencia del antes y después de las remodelaciones de su hogar, además de dar oportunidad de trabajo a varias personas, con el potencial de ahorro de tiempo y energía gracias al Sistema de Luces y al Autocompletado de propuestas con inteligencia artificial.
+Nuestra plataforma puede mejorar la experiencia de remodelación de los clientes al facilitar la comunicación eficiente con las empresas de remodelación con enfoque Smart Home. Además, al ofrecer soluciones de automatización y control inteligente, los usuarios pueden transformar sus hogares en espacios más cómodos y eficientes desde el punto de vista energético.
 
-#### 6. ¿Qué características te diferencian de tu competencia?
+### 6. ¿Qué características te diferencian de tu competencia?
 
-Nos caracteriza que contamos con una interacción más rápida entre cliente y empresa, por lo cual habrá mejor comunicación en el transcurso del proyecto. Además, ofrecemos características como el Sistema de Luces y el Autocompletado de propuestas para empresas con inteligencia artificial que mejoran la eficiencia.
+Nos destacamos de la competencia al ofrecer una plataforma que se centra en remodelaciones con tecnología Smart Home. Nuestra plataforma permite una interacción más rápida y eficiente entre clientes y empresas de remodelación con enfoque Smart Home, lo que mejora la comunicación y la colaboración en el proyecto. Además, nuestras características de automatización y control inteligente distinguen nuestra plataforma al ofrecer un valor agregado significativo.
 
-#### 7. ¿Cómo debería de verse nuestro producto?
+### 7. ¿Cómo debería de verse nuestro producto?
 
-Nuestro producto debe tener una interacción simple, fácil de usar y además tiene que contar con indicaciones para usuarios primerizos en la aplicación. La apariencia debe reflejar la confiabilidad y la funcionalidad diaria, con un énfasis en la simplicidad y la eficacia, aprovechando las características de ahorro de tiempo y energía proporcionadas por el Sistema de Luces y la inteligencia artificial.
+Nuestro producto debe tener una interfaz sencilla y fácil de usar, con indicaciones claras para los usuarios primerizos. La apariencia debe transmitir confiabilidad y funcionalidad diaria, destacando la simplicidad y la eficacia en la implementación de soluciones Smart Home. La plataforma debe enfocarse en aprovechar las características de automatización y control inteligente para respaldar la idea de negocio que hemos discutido a lo largo de esta conversación.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
-#### Hypothesis Statement 1
+### Hipótesis 1
 
-**Creemos que** al implementar un chat entre cliente y trabajadores será una buena opción para que no haya errores en el trabajo o en el presupuesto antes del contrato.
-**Sabremos que** hemos tenido éxito
-**Cuando** veamos un incremento mensual del 10% de usuarios registrados.
+**Creemos que** al implementar un chat entre cliente y trabajadores, ofreciendo asesoramiento y aclaración de dudas sobre proyectos Smart Home y remodelación, aumentará la satisfacción del cliente y reducirá errores en el trabajo o en el presupuesto antes del contrato.
+**Sabremos que** hemos tenido éxito **Cuando** veamos un incremento mensual del 10% de usuarios registrados interesados en proyectos de Smart Home y remodelación, así como una disminución en las quejas relacionadas con errores en proyectos.
 
-#### Hypothesis Statement 2
+### Hipótesis 2
 
-**Creemos que** la refacciones y remodelaciones de hogares es un campo de gran demanda ya que hoy en día muchas personas requieren estos servicios, por lo que implementar una aplicación que proporcione trabajo a personas con habilidades técnicas y solventar necesidades de personas que necesiten estos servicios es muy buena.
-**Sabremos que** hemos tenido éxito
-**Cuando** veamos un incremento del 20% de solicitudes por parte de las empresas.
+**Creemos que** la demanda de servicios de refacción y remodelación de hogares con enfoque Smart Home es alta, y al ofrecer una plataforma que conecta a profesionales con habilidades técnicas y personas que necesitan estos servicios, lograremos un alto interés y demanda.
+**Sabremos que** hemos tenido éxito **Cuando** veamos un aumento del 20% en solicitudes de proyectos relacionados con Smart Home y remodelación por parte de las empresas y una mayor participación de profesionales técnicos en la plataforma.
 
-#### Hypothesis Statement 3
+### Hipótesis 3
 
-**Creemos que** cuando las empresas publiquen sus proyectos que estas recibirán y mayor apoyo por parte de nuestros usuarios ya que esto le brinda seguridad y es una buena forma de expandirse.
-**Sabremos que** hemos tenido éxito
-**Cuando** veamos un incremento del 15 % en las ventas de las empresas.
+**Creemos que** al permitir que las empresas publiquen sus proyectos y reciban apoyo de nuestros usuarios, aumentaremos la confianza y la visibilidad de estas empresas, lo que resultará en un crecimiento de sus ventas.
+**Sabremos que** hemos tenido éxito **Cuando** veamos un aumento del 15 % en las ventas de las empresas relacionadas con proyectos de Smart Home y remodelación publicados en nuestra plataforma.
 
-#### Hypothesis Statement 4
+### Hipótesis 4
 
-**Creemos que** cuando se muestre el puntaje el perfil de cada trabajador o empresa, esta podrá tener más clientes y así podrán recomendar a estos profesionales.
-**Sabremos que** hemos tenido éxito
-**Cuando** veamos un incremento del 10% en proyectos concluidos.
+**Creemos que** al mostrar el puntaje y el perfil de cada trabajador o empresa, aumentará la confianza de los usuarios y su disposición a contratar a estos profesionales para proyectos Smart Home y remodelación.
+**Sabremos que** hemos tenido éxito **Cuando** veamos un incremento del 10% en proyectos de Smart Home y remodelación concluidos y una mayor participación de usuarios en la calificación de profesionales.
 
-#### Hypothesis Statement 5
+### Hipótesis 5
 
-**Creemos que** teniendo temas legales en caso personas incumplan en el correcto uso de la aplicación, esto garantiza que los contratos se llevarán de manera seria entre usuario y empresa.
-**Sabremos que** hemos tenido éxito
-**Cuando** veamos un incremento del 15% en usuarios registrados.
+**Creemos que** al establecer términos y condiciones legales para el uso de la aplicación, fomentaremos la seriedad en la realización de contratos entre usuarios y empresas, lo que contribuirá a un ambiente de negocios confiable.
+**Sabremos que** hemos tenido éxito **Cuando** veamos un aumento del 15% en el número de usuarios registrados interesados en proyectos Smart Home y remodelación, y una disminución en disputas legales.
 
-#### Hypothesis Statement 6
+### Hipótesis 6
 
-**Creemos que** teniendo un espacio de reclamos podrá hacer eficiente resolver las dudas de nuestros clientes, así mismo podremos saber el profesionalismo de cada trabajador.
-**Sabremos que** hemos tenido éxito
-**Cuando** veamos un incremento del 15% en usuarios registrados.
+**Creemos que** al proporcionar un espacio de reclamos y soporte eficiente, resolveremos las dudas de nuestros clientes y mejoraremos la percepción de profesionalismo tanto de trabajadores como de empresas en proyectos Smart
+**Sabremos que** hemos tenido éxito **Cuando** veamos un incremento del 15% en usuarios registrados interesados en proyectos de Smart Home y remodelación y una disminución en quejas no resueltas.
 
-#### Hypothesis Statement 7
+### Hipótesis 7
 
-**Creemos que** implementando pequeñas indicaciones cuando un usuario entra por primera vez a la aplicación.
-**Sabremos que** hemos tenido éxito
-**Cuando** veamos un incremento del 10% en usuarios registrados.
+**Creemos que** al ofrecer indicaciones claras y útiles cuando un usuario ingresa por primera vez a la aplicación, aumentaremos la retención de usuarios y su comprensión de cómo usar eficazmente la plataforma para proyectos Smart Home y remodelación.
+**Sabremos que** hemos tenido éxito **Cuando** veamos un incremento del 10% en usuarios registrados y una disminución en la tasa de desinstalación de la aplicación después del primer uso.
 
 #### 1.2.2.4 Lean UX Canvas
 
 <table>
-    <tr>
-        <td align="center">Business Problem</td>
-        <td align="center">Solution Ideas</td>
-        <td colspan=3 align="center">Business Outcomes</td>
-   </tr>  
-    <tr>
-        <td align="justify">Las personas tienden a tener dificultades a la hora de buscar un servicio de remodelación, por ello, existe una baja tasa de búsqueda exhaustiva para encontrar ofertas de servicios de remodelación. ¿Cómo podríamos mejorar el proceso de búsqueda de este servicio en corto tiempo?
-        </td>
-        <td rowspan=2> 
-                <ul>  
-                <li align="justify"> Un seguimiento del estado del trabajo solicitado, así también como una sección inicial en la que el usuario podrá visualizar los prototipos de remodelación que le brindarán nuestros clientes para ser aprobados o no antes de realizarse.</li>                            <li>Tener un mejor manejo de los gastos y ganancias obtenidas, esto mejorando el plan de la suscripción hacia la máxima, pues al tenerla, se le mostrará un gráfico señalándolos por cada servicio realizado. 
-                </li>
-                </ul>
-        </td>
-        <td colspan=3><ul>
-                <li align="justify">Aumento en la cantidad de usuarios suscritos en la aplicación 
-                <li align="justify">Creación un espacio de confianza y preferencia hacia el usuario que requiera un servicio de remodelación
-                <li align="justify">Aumento de utilidad de la aplicación
-        </ul></td>
+   <tr>
+      <td align="center"><b>Business Problem</b></td>
+      <td align="center"><b>Solution Ideas</b></td>
+      <td colspan="3" align="center"><b>Business Outcomes</b></td>
    </tr>
    <tr>
-        <td>
-            <b>User & Customers</b>
-            <p align="justify">Nuestros principales clientes serán empresas u organizaciones independientes que quieran dar a conocer su trabajo y desempeño en el rubro de remodelación. Además, personas interesadas en realizar algún trabajo de remodelación en sus hogares.
-        </td>
-        <td colspan=3>
-            <b>User Benefits</b>
-               <ul>
-                    <li align="justify">Contar con una interfaz amigable, confiable e intuitiva con el usuario.
-                    <li align="justify">Mostrar servicios adecuados de acuerdo con las preferencias y solicitudes del usuario.
-                    <li align="justify">Aumentar la visibilidad del servicio ofrecido por parte de nuestros clientes hacia los usuarios.
-               </ul> 
-        </td>     
+      <td align="justify">La demanda de remodelación de hogares con enfoque Smart Home está en constante crecimiento, pero las personas a menudo tienen dificultades para encontrar servicios de calidad y tecnológicamente avanzados en este campo. ¿Cómo podemos mejorar el proceso de búsqueda y ejecución de servicios de remodelación Smart Home de manera eficiente?
+      </td>
+      <td rowspan="2">
+         <ul>
+            <li align="justify">Seguimiento en tiempo real del estado de los proyectos Smart Home, incluyendo el control de dispositivos y sistemas instalados.</li>
+            <li>Integración de tecnologías Smart Home para la automatización de tareas y comodidad del usuario.</li>
+         </ul>
+      </td>
+      <td colspan="3">
+         <ul>
+            <li align="justify">Aumento significativo en la cantidad de usuarios suscritos en la aplicación.</li>
+            <li align="justify">Creación de un ecosistema confiable y preferido para usuarios que buscan servicios de remodelación Smart Home.</li>
+            <li align="justify">Mayor utilidad y satisfacción de los usuarios con la aplicación.</li>
+         </ul>
+      </td>
    </tr>
    <tr>
-       <td>
-            <b>Hypothesis</b>
-            <p align="justify">Creemos que la refacciones y remodelaciones de hogares es un campo de gran demanda ya que hoy en día muchas personas requieren estos servicios, por lo que implementar una aplicación que proporcione trabajo a personas con habilidades técnicas y solventar necesidades de personas que necesiten estos servicios es muy buena. 
-Sabremos que hemos tenido éxito cuando veamos un incremento del 20% de solicitudes por parte de clientes interesados en el servicio de remodelación.
-        </td>
-        <td>
-            <b>What’s the most important thing we need to learn first?</b>
-            <p align="justify">Los usuarios aumentarán su interés hacia la aplicación si se les muestra distintas empresas, que previamente fueron evaluadas para mostrase en la plataforma, de acuerdo con el tipo de remodelación que necesiten.
-            <p align="justify">El usuario, si es que tiene algún percance durante o después de realizado el servicio, podrá presentar un reclamo, el cual será evaluado, y de ser válido, podrá solicitar un porcentaje del dinero gastado, de acuerdo con la gravedad del problema.
-        </td>
-        <td colspan=3>
-            <b>What’s the least amount of work we need to do to learn the next most important thing?</b>
-               <ul>
-                    <li>Testing
-                    <li>Quick Survey
-                    <li>User research
-                    <li>Prototyping
-               </ul> 
-        </td>
-   </tr>    
+      <td>
+         <b>User & Customers</b>
+         <p align="justify">Nuestros principales clientes son empresas y profesionales especializados en remodelaciones Smart Home que desean dar a conocer su trabajo. Además, personas interesadas en convertir sus hogares en espacios inteligentes.</p>
+      </td>
+      <td colspan="3">
+         <b>User Benefits</b>
+         <ul>
+            <li align="justify">Interfaz intuitiva y amigable para usuarios finales y empresas asociadas.</li>
+            <li align="justify">Oferta de servicios de remodelación Smart Home adaptados a las preferencias y necesidades de los usuarios.</li>
+            <li align="justify">Oportunidad de integrar tecnologías Smart Home después de la remodelación.</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <b>Hypothesis</b>
+         <p align="justify">Creemos que la demanda de remodelaciones Smart Home es alta y que al ofrecer una plataforma que conecta a profesionales especializados con personas que desean convertir sus hogares en espacios inteligentes, lograremos un alto interés y demanda.</p>
+         <p align="justify">Sabremos que hemos tenido éxito cuando veamos un incremento del 20% en solicitudes de proyectos Smart Home por parte de clientes interesados.</p>
+      </td>
+      <td>
+         <b>What’s the most important thing we need to learn first?</b>
+         <p align="justify">Los usuarios aumentarán su interés hacia la aplicación si pueden visualizar y controlar dispositivos y sistemas Smart Home desde la plataforma. La retroalimentación de usuarios y profesionales sobre la integración de tecnologías Smart Home y la automatización de tareas será esencial para evaluar la efectividad de estas características.</p>
+      </td>
+      <td colspan="3">
+         <b>What’s the least amount of work we need to do to learn the next most important thing?</b>
+         <ul>
+            <li>Testing de la interfaz con dispositivos Smart Home.</li>
+            <li>Colaboración con profesionales para la integración de tecnologías Smart Home.</li>
+         </ul>
+      </td>
+   </tr>
 </table>
 
 ## 1.3. Segmentos objetivo
@@ -296,8 +294,8 @@ Nuestro producto está dirigido hacia 2 segmentos objetivos.
 
 #### Empresarios
 
-**Negocios del sector en remodelaciones de inmuebles** que no cuentan con una aplicación para su empresa, gustan publicar sus servicios y que desean ampliar su cartera de clientes, ya que su alcance actual es limitado.
+**Empresas de remodelación de inmuebles enfocadas en Smart Home** que buscan una plataforma para promocionar sus servicios y ampliar su base de clientes en el sector de remodelaciones inteligentes.
 
 #### Clientes
 
-**Persona que necesite acceder a servicios de remodelación** según sus necesidades, buscando un sistema óptimo, amigable, seguro y cómodo para usar. Además, que tenga la necesidad de usar servicios Smart Home en su hogar.
+**Personas que buscan servicios de remodelación con tecnología Smart Home** para mejorar sus hogares y espacios de vida, y desean una plataforma eficiente, segura y fácil de usar para acceder a estos servicios.
