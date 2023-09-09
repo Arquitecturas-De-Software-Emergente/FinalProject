@@ -95,3 +95,51 @@
   - 4.3.1. Software Architecture Context Level Diagrams.
   - 4.3.2. Software Architecture Container Level Diagrams.
   - 4.3.3. Software Architecture Deployment Diagrams.
+
+# Student Outcome
+
+## ABET – EAC - Student Outcome 5
+
+<table>
+  <tr>
+    <td>Criterio Específico</td>
+    <td>Realizadas</td>
+    <td>Conclusiones</td>
+  </tr>
+  <tr>
+    <td rowspan="7" align=justify>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>TB1 LUIS LI:
+comunicación con segmentos objetivos de empresas de remodelación para entender sus necesidades para mejorar los requisitos de usuarios.
+</td>
+    <td rowspan="7" align=justify>La capacidad de participar efectivamente en equipos multidisciplinarios es esencial para el éxito de los proyectos en soluciones de ingeniería de software. La eficacia, eficiencia y objetividad en la colaboración pueden mejorar la calidad del producto final y la satisfacción del cliente. Por lo tanto, es importante para los ingenieros de software desarrollar habilidades de comunicación, colaboración y trabajo en equipo para lograr un desempeño óptimo en un entorno de trabajo multidisciplinario.</td>
+  </tr>
+  <tr>
+    <td align=justify>TB1 LUIS LI: 
+    Desarrollo de artefactos de software como el user persona, as-is scenario mapping, etc. para el análisis correspondiente de los requisitos obtenidos previamente</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align=justify>
+    TB1 Jasmin Pomasoncco : Realizando los Primary Functionality que describen las acciones esenciales que los usuarios realizarán con el sistema, proporcionando una base clara para el desarrollo y las prueba al igual que los Quality attribute Scenarios permiten evaluar cómo el sistema cumple con atributos de calidad.</td>
+  </tr>
+  <tr>
+    <td align=justify>
+    TB1 Jasmin Pomasonco: La descripción detallada de cómo el sistema debe funcionar y cumplir con los requisitos de calidad, mejorando la comprensión y seguimiento del proyecto con la buena documentación.</td>
+  </tr>
+  <tr>
+    <td align=justify>
+    TB1 Morillo Martin:
+Actualizacion de los artefactos de los User Stories y Product Backlog.
+Presentación en las reuniones del proyecto: A través de la experiencia de trabajar en diversos grupos de trabajo, desarrollé habilidades efectivas de comunicación oral.</td>
+  </tr>
+  <tr>
+    <td align=justify>
+    TB1 Diego Porta Ñaña:
+Actualización de la idea de negocio y como este contiene una solución emergente, en este caso Internet de las cosas (IOT)</td>
+  </tr>
+  <tr>
+    <td align=justify>
+    TB1 Diego Porta Ñaña:
+Presentación en las reuniones del proyecto. Controlando una comunicación fluida entre los artefactos.</td>
+  </tr>
+</table>
