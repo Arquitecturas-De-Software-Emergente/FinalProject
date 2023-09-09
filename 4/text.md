@@ -61,35 +61,107 @@
 #### 4.1.2.3. Constraints
 <table>
     <tr>
-        <td colspan=2 align=center>ID</td>
         <td colspan=5 align=center>Constraints</td>
     </tr>
     <tr>
-        <td colspan=2>CON-01</td>
-        <td colspan=5 align=justify>Las entregas del proyecto deben ser realizadas para la fecha establecida. Estas fechas son fijas y no postergable.</td>
+        <td colspan=2 align=justify>Requerimiento de Suscripción</td>
+        <td colspan=5 align=justify>Los usuarios empresariales deben pagar una suscripción para acceder a las funciones avanzadas de la aplicación, como la publicación de perfiles de empresa, la aceptación de solicitudes de remodelación y la visualización de proyectos pasados.</td>
     </tr>
     <tr>
-        <td colspan=2 >CON-02</td>
-        <td colspan=5 align=justify>Para el desarrollo del proyecto las tecnologías a emplear deben ser de código abierto para reducir costos.</td>
+        <td colspan=2 align=justify>Integración de Dispositivos Inteligentes</td>
+        <td colspan=5 align=justify>Las empresas de remodelación deben ser capaces de integrar dispositivos inteligentes en los proyectos de remodelación que ofrecen. La plataforma debe ser compatible con una variedad de dispositivos y sistemas de automatización del hogar.</td>
     </tr>
     <tr>
-        <td colspan=2>CON-03</td>
-        <td colspan=5 align=justify>Se debe tener la capacidad de acceder a las plataformas web a través de diferentes navegadores web como Google Chrome, Mozilla Firefox, Opera, entre otros.</td>
+        <td colspan=2 align=justify>Gestión de Proposals</td>
+        <td colspan=5 align=justify>La aplicación debe permitir a las empresas de remodelación generar propuestas detalladas para los proyectos y rastrear el estado de esas propuestas (por ejemplo, pendiente, en proceso, cancelada o en espera).</td>
     </tr>
     <tr>
-        <td colspan=2>CON-04</td>
-        <td colspan=8 align=justify>Se debe tener la capacidad de acceder al servicio desde una aplicación mobile en dispositivos Android.</td>
+        <td colspan=2 align=justify>Elección de Remodelación</td>
+        <td colspan=8 align=justify>Los clientes deben tener la opción de elegir entre una remodelación inteligente con dispositivos inteligentes o una remodelación tradicional sin estos dispositivos.</td>
     </tr>
     <tr>
-        <td colspan=2>CON-05</td>
-        <td colspan=8 align=justify>Para el desarrollo del proyecto, el uso de Domain Driven Design (DDD) es obligatorio.</td>
+        <td colspan=2 align=justify>Capacidad de Procesamiento</td>
+        <td colspan=8 align=justify>La plataforma debe ser capaz de manejar un alto volumen de solicitudes de remodelación y propuestas simultáneas sin degradación significativa del rendimiento.</td>
     </tr>
     <tr>
-        <td colspan=2>CON-06</td>
-        <td colspan=8 align=justify>La API (backend) debe ser desarrollada incorporando servicios.</td>
+        <td colspan=2 align=justify>Seguridad de Datos</td>
+        <td colspan=8 align=justify>La seguridad de los datos personales de los usuarios debe ser una prioridad. Se deben implementar medidas de seguridad robustas para proteger la información confidencial.</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=justify>Compatibilidad Multiplataforma</td>
+        <td colspan=8 align=justify>La aplicación debe ser accesible y funcional en varias plataformas, incluyendo dispositivos móviles (iOS y Android) y navegadores web, para asegurar la máxima accesibilidad para los usuarios.</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=justify>Soporte al Cliente</td>
+        <td colspan=8 align=justify>Debe proporcionarse un mecanismo de soporte al cliente eficaz, como un centro de ayuda o servicio de atención al cliente, para abordar preguntas, problemas y solicitudes de asistencia de manera oportuna.</td>
     </tr>
 </table>
 ### 4.1.3. Architectural Drivers Backlog
+<table>
+    <tr>
+        <td colspan=2 align=center>Driver ID</td>
+        <td colspan=2 align=center>Título de Driver</td>
+        <td colspan=4 align=center>Descripción</td>
+        <td colspan=3 align=center>Importancia para Stakeholders (High Medium, Low)</td>
+        <td colspan=3 align=center>Impacto en Architecture Technical Complexity (High, Medium, Low)</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-01</td>
+        <td colspan=2 align=center>Requerimiento de Suscripción</td>
+        <td colspan=4 align=justify>Este driver es fundamental ya que afecta la viabilidad del modelo de negocio. La arquitectura debe admitir la gestión de suscripciones de usuarios empresariales, incluyendo la facturación, la gestión de acceso a características avanzadas y la escalabilidad de la plataforma.</td>
+        <td colspan=3 align=center>High</td>
+        <td colspan=3 align=center>High</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-02</td>
+        <td colspan=2 align=center>Integración de Dispositivos Inteligentes</td>
+        <td colspan=4 align=justify>Dado que la aplicación se centra en soluciones inteligentes para el hogar, esta integración es crítica. La arquitectura debe ser modular y escalable para permitir la incorporación de diferentes dispositivos y sistemas de automatización del hogar.</td>
+        <td colspan=3 align=center>High</td>
+        <td colspan=3 align=center>High</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-03</td>
+        <td colspan=2 align=center>Gestión de Proposals</td>
+        <td colspan=4 align=justify>La gestión de propuestas es un componente central de la funcionalidad de ModelHouse. La arquitectura debe admitir la generación y seguimiento de propuestas, incluyendo estados como pendiente, en proceso, cancelada y en espera.</td>
+        <td colspan=3 align=center>High</td>
+        <td colspan=3 align=center>High</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-04</td>
+        <td colspan=2 align=center>Elección de Remodelación</td>
+        <td colspan=4 align=justify>La capacidad de los clientes para elegir entre una remodelación inteligente o tradicional es un elemento clave de la experiencia del usuario. La arquitectura debe permitir escoger entre ambas opciones.</td>
+        <td colspan=3 align=center>High</td>
+        <td colspan=3 align=center>High</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-05</td>
+        <td colspan=2 align=center>Capacidad de Procesamiento</td>
+        <td colspan=4 align=justify>Dada la posible carga de solicitudes y propuestas, la escalabilidad y el rendimiento de la arquitectura son esenciales. Debe garantizarse una alta capacidad de procesamiento y una baja latencia en las interacciones de la plataforma.</td>
+        <td colspan=3 align=center>High</td>
+        <td colspan=3 align=center>High</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-06</td>
+        <td colspan=2 align=center>Seguridad de Datos</td>
+        <td colspan=4 align=justify>La seguridad de los datos es crucial para ganar la confianza de los usuarios. La arquitectura debe incluir medidas sólidas de seguridad de datos, incluyendo cifrado, autenticación y autorización adecuados, para proteger la información confidencial.</td>
+        <td colspan=3 align=center>High</td>
+        <td colspan=3 align=center>High</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-07</td>
+        <td colspan=2 align=center>Compatibilidad Multiplataforma</td>
+        <td colspan=4 align=justify>Para llegar a un público amplio, la arquitectura debe ser compatible con múltiples plataformas, incluyendo dispositivos móviles y navegadores web. La adaptabilidad y la experiencia del usuario deben ser consistentes en todas las plataformas.</td>
+        <td colspan=3 align=center>Medium</td>
+        <td colspan=3 align=center>Medium</td>
+    </tr>
+    <tr>
+        <td colspan=2 align=center>ID-08</td>
+        <td colspan=2 align=center>Soporte al Cliente</td>
+        <td colspan=4 align=justify>La provisión de soporte al cliente es importante para la satisfacción del usuario. La arquitectura debe permitir la implementación eficaz de un centro de ayuda o sistema de atención al cliente para abordar las necesidades y preguntas de los usuarios.</td>
+        <td colspan=3 align=center>Medium</td>
+        <td colspan=3 align=center>Medium</td>
+    </tr>
+</table>
 ### 4.1.4. Architectural Design Decisions
 ### 4.1.5. Quality Attribute Scenario Refinements
 <table>
@@ -550,106 +622,7 @@
         <td colspan=4>¿El software requiere una integración compleja con otros sistemas?</td>
     </tr>    
 </table>
-<table>
-    <tr>
-        <td colspan=8>Scenario Refinement for Scenario 10</td>
-    <tr>
-    <tr>
-        <td colspan=4>Scenario(s):</td>
-        <td colspan=4>Un usuario intenta gestionar dispositivos SmartHome y el sistema responde correctamente.</td>
-    </tr>
-    <tr>
-        <td colspan=4>Business Goals:</td>
-        <td colspan=4>El sistema debe permitir a los usuarios gestionar dispositivos SmartHome de manera efectiva y confiable.</td>
-    </tr>
-    <tr>
-        <td colspan=4>Relevant Quality Attributes:</td>
-        <td colspan=4>Fiabilidad y Usabilidad</td>
-    </tr>
-    <tr>    
-        <td colspan=2 rowspan=6>Scenario Components</td>
-        <td colspan=2>Stimulus:</td>
-        <td colspan=4>Clientes</td>
-    </tr>
-    <tr>
-        <td colspan=2>Stimulus Source:</td>
-        <td colspan=4>Acciones del usuario en la gestión de dispositivos</td>
-    </tr>
-    <tr>
-        <td colspan=2>Environment:</td>
-        <td colspan=4>Sistema de software, dispositivos SmartHome conectados</td>
-    </tr>
-    <tr>
-        <td colspan=2>Artifact (if Known)</td>
-        <td colspan=4>Entorno de desarrollo</td>
-    </tr>
-    <tr>
-        <td colspan=2>Response:</td>
-        <td colspan=4>El sistema permite una gestión efectiva de los dispositivos SmartHome y responde de manera rápida y precisa.</td>
-    </tr>
-    <tr>
-        <td colspan=2>Response Measure:</td>
-        <td colspan=4>Tiempo de respuesta de la gestión, tasa de éxito en la gestión de dispositivos, satisfacción del usuario</td>
-    </tr>
-    <tr>
-        <td colspan=4>Questions:</td>
-        <td colspan=4>¿El sistema permite a los usuarios gestionar dispositivos SmartHome sin errores ni retrasos significativos?</td>
-    </tr>
-    <tr>
-        <td colspan=4>Issues:</td>
-        <td colspan=4>¿Los usuarios están satisfechos con la facilidad de uso y eficacia de la gestión de dispositivos SmartHome?</td>
-    </tr>    
-</table>
-<table>
-    <tr>
-        <td colspan=8>Scenario Refinement for Scenario 11</td>
-    <tr>
-    <tr>
-        <td colspan=4>Scenario(s):</td>
-        <td colspan=4>Un usuario configura horarios para el encendido y apagado de las luces y el sistema responde correctamente.</td>
-    </tr>
-    <tr>
-        <td colspan=4>Business Goals:</td>
-        <td colspan=4>El sistema debe permitir a los usuarios programar horarios para el control de luces de manera eficiente y precisa.</td>
-    </tr>
-    <tr>
-        <td colspan=4>Relevant Quality Attributes:</td>
-        <td colspan=4>Fiabilidad</td>
-    </tr>
-    <tr>    
-        <td colspan=2 rowspan=6>Scenario Components</td>
-        <td colspan=2>Stimulus:</td>
-        <td colspan=4>Clientes</td>
-    </tr>
-    <tr>
-        <td colspan=2>Stimulus Source:</td>
-        <td colspan=4>Configuración de horarios para luces</td>
-    </tr>
-    <tr>
-        <td colspan=2>Environment:</td>
-        <td colspan=4>Sistema de software, dispositivos de iluminación conectados</td>
-    </tr>
-    <tr>
-        <td colspan=2>Artifact (if Known)</td>
-        <td colspan=4>Entorno de desarrollo</td>
-    </tr>
-    <tr>
-        <td colspan=2>Response:</td>
-        <td colspan=4>El sistema programa las luces según los horarios configurados y asegura que se enciendan y apaguen correctamente.</td>
-    </tr>
-    <tr>
-        <td colspan=2>Response Measure:</td>
-        <td colspan=4>Precisión en la programación de luces, cumplimiento de horarios, satisfacción del usuario</td>
-    </tr>
-    <tr>
-        <td colspan=4>Questions:</td>
-        <td colspan=4>¿El sistema permite a los usuarios configurar horarios de luces de manera precisa y eficiente?<br>¿Las luces se encienden y apagan según los horarios programados?</td>
-    </tr>
-    <tr>
-        <td colspan=4>Issues:</td>
-        <td colspan=4>¿Los usuarios encuentran fácil de usar y comprender la función de programación de luces?<br>¿El sistema es confiable en el control de luces programadas?</td>
-    </tr>    
-</table>
+
 ## 4.2 Strategic Level Domain Driver Design
 ### 4.2.1 EventStorming
 Se identificaron los eventos y bounded context correspondientes al realizar el proceso del ventStorming
