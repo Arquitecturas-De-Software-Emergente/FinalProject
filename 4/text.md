@@ -59,6 +59,36 @@
 | Rendimiento       | Usuarios y requisitos de rendimiento             | Carga de trabajo o solicitudes de usuario           | Sistema de software y hardware                 | Recursos de hardware y red                            | Capacidad de respuesta y eficiencia del software bajo carga       | Tiempo de respuesta, throughput, utilización de recursos, capacidad de escalabilidad                 |
 
 #### 4.1.2.3. Constraints
+<table>
+    <tr>
+        <td colspan=2 align=center>ID</td>
+        <td colspan=5 align=center>Constraints</td>
+    </tr>
+    <tr>
+        <td colspan=2>CON-01</td>
+        <td colspan=5 align=justify>Las entregas del proyecto deben ser realizadas para la fecha establecida. Estas fechas son fijas y no postergable.</td>
+    </tr>
+    <tr>
+        <td colspan=2 >CON-02</td>
+        <td colspan=5 align=justify>Para el desarrollo del proyecto las tecnologías a emplear deben ser de código abierto para reducir costos.</td>
+    </tr>
+    <tr>
+        <td colspan=2>CON-03</td>
+        <td colspan=5 align=justify>Se debe tener la capacidad de acceder a las plataformas web a través de diferentes navegadores web como Google Chrome, Mozilla Firefox, Opera, entre otros.</td>
+    </tr>
+    <tr>
+        <td colspan=2>CON-04</td>
+        <td colspan=8 align=justify>Se debe tener la capacidad de acceder al servicio desde una aplicación mobile en dispositivos Android.</td>
+    </tr>
+    <tr>
+        <td colspan=2>CON-05</td>
+        <td colspan=8 align=justify>Para el desarrollo del proyecto, el uso de Domain Driven Design (DDD) es obligatorio.</td>
+    </tr>
+    <tr>
+        <td colspan=2>CON-06</td>
+        <td colspan=8 align=justify>La API (backend) debe ser desarrollada incorporando servicios.</td>
+    </tr>
+</table>
 ### 4.1.3. Architectural Drivers Backlog
 ### 4.1.4. Architectural Design Decisions
 ### 4.1.5. Quality Attribute Scenario Refinements
