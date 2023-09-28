@@ -243,7 +243,116 @@
 
 ##### 6.2.3. SEO Tags and Meta Tags
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Descripción de SEO Tags y Meta Tags</title>
+</head>
+<body>
+    <h2>Descripción:</h2>
+    <p>Los SEO Tags y Meta Tags son elementos cruciales para mejorar la visibilidad de la aplicación y aumentar su clasificación en los motores de búsqueda. Estas etiquetas se utilizan para optimizar el contenido y facilitar que los motores de búsqueda, como Google, indexen y comprendan la aplicación. A continuación, se detallan cómo se aplican en el modelo de negocio:</p>
+
+    <h2>Características Clave:</h2>
+    
+    <h3>Optimización de Títulos (Title Tags):</h3>
+    <ul>
+        <li>Cada página de la aplicación tiene un título único y descriptivo que refleja su contenido.</li>
+        <li>Los títulos se ajustan para incluir palabras clave relevantes relacionadas con empresas de remodelación, proyectos y dispositivos IoT.</li>
+    </ul>
+
+    <h3>Meta Descriptions:</h3>
+    <ul>
+        <li>Se crean descripciones meta concisas y atractivas para cada página, lo que anima a los usuarios a hacer clic en los resultados del motor de búsqueda.</li>
+        <li>Las meta descripciones también incluyen palabras clave relevantes y una breve visión general del contenido.</li>
+    </ul>
+
+    <h3>Etiquetas de Encabezado (Header Tags):</h3>
+    <ul>
+        <li>Se utilizan etiquetas de encabezado, como H1, H2 y H3, para estructurar y jerarquizar el contenido de manera lógica.</li>
+        <li>Las etiquetas de encabezado ayudan a los motores de búsqueda a comprender la jerarquía de la información y la importancia de cada sección.</li>
+    </ul>
+
+    <h3>Optimización de Imágenes (Image Alt Tags):</h3>
+    <ul>
+        <li>Todas las imágenes en la aplicación incluyen etiquetas alt descriptivas que indican el contenido de la imagen.</li>
+        <li>Esto mejora la accesibilidad y permite que las imágenes se clasifiquen en las búsquedas de imágenes de Google.</li>
+    </ul>
+
+    <h3>URLs Amigables para SEO:</h3>
+    <ul>
+        <li>Las URL de las páginas se diseñan de manera que sean legibles y contengan palabras clave relevantes.</li>
+        <li>Las URL amigables para SEO facilitan la indexación y la comprensión del contenido por parte de los motores de búsqueda.</li>
+    </ul>
+
+    <h3>Sitemap XML:</h3>
+    <ul>
+        <li>Se genera un mapa del sitio XML que enumera todas las páginas y recursos de la aplicación.</li>
+        <li>El mapa del sitio se envía a los motores de búsqueda para ayudarles a rastrear e indexar de manera eficiente el contenido.</li>
+    </ul>
+
+    <h2>Beneficios:</h2>
+    <ul>
+        <li>Mejora de la Clasificación en Motores de Búsqueda: La implementación adecuada de SEO Tags y Meta Tags ayuda a la aplicación a aparecer en los resultados de búsqueda de manera más prominente, aumentando la visibilidad y el tráfico.</li>
+        <li>Mejora de la Experiencia del Usuario: Al optimizar títulos, descripciones y etiquetas de encabezado, se proporciona a los usuarios una experiencia de búsqueda más informativa y relevante.</li>
+        <li>Aumento de Clics: Las meta descripciones bien escritas pueden aumentar la tasa de clics, lo que resulta en más visitantes a la aplicación.</li>
+        <li>Indexación Eficiente: Las etiquetas alt de las imágenes y las URL amigables para SEO facilitan que los motores de búsqueda indexen y muestren contenido específico.</li>
+        <li>Competitividad en el Mercado: Una estrategia de SEO sólida puede ayudar a la aplicación a competir de manera efectiva en el mercado y atraer a un público más amplio.</li>
+    </ul>
+</body>
+</html>
+
 ##### 6.2.4. Navigation Systems
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Descripción de Sistemas de Navegación</title>
+</head>
+<body>
+    <h2>Descripción:</h2>
+    <p>Los Sistemas de Navegación son una parte esencial de la aplicación que garantiza una experiencia de usuario fluida y eficiente. Estos sistemas facilitan la navegación de los usuarios a través de la aplicación y les ayudan a encontrar rápidamente la información que necesitan. A continuación, se detallan cómo se aplican en el modelo de negocio:</p>
+
+    <h2>Características Clave:</h2>
+    
+    <h3>Menú de Navegación Principal:</h3>
+    <ul>
+        <li>La aplicación cuenta con un menú de navegación principal que proporciona acceso rápido a las secciones clave, como "Inicio", "Solicitudes", "Dispositivos IoT", "Menú" y más.</li>
+        <li>El menú se encuentra en la parte superior o lateral de la interfaz para una fácil accesibilidad.</li>
+    </ul>
+
+    <h3>Búsqueda Integrada:</h3>
+    <ul>
+        <li>Se incluye una barra de búsqueda en la parte superior de todas las páginas para permitir a los usuarios buscar empresas de remodelación, proyectos, dispositivos IoT y otros contenidos.</li>
+    </ul>
+
+    <h3>Navegación por Categorías:</h3>
+    <ul>
+        <li>Las empresas de remodelación, proyectos y dispositivos IoT se organizan en categorías y subcategorías para facilitar la exploración.</li>
+    </ul>
+
+    <h3>Páginas de Detalles:</h3>
+    <ul>
+        <li>Cada empresa de remodelación, proyecto y dispositivo IoT tiene su propia página de detalles con información completa.</li>
+        <li>Los usuarios pueden acceder a descripciones detalladas, imágenes, reseñas, calificaciones y datos técnicos.</li>
+    </ul>
+
+    <h3>Botón de Regreso:</h3>
+    <ul>
+        <li>En todas las páginas, se incluye un botón de "Regreso" que permite a los usuarios volver atrás en su navegación, lo que facilita la exploración de contenido relacionado.</li>
+    </ul>
+
+    <h2>Beneficios:</h2>
+    <ul>
+        <li>Experiencia de Usuario Mejorada: Los sistemas de navegación intuitivos y eficientes hacen que la aplicación sea fácil de usar y atractiva para los usuarios.</li>
+        <li>Acceso Rápido a la Información: Los usuarios pueden encontrar rápidamente empresas de remodelación, proyectos y dispositivos IoT relevantes gracias a la navegación bien estructurada.</li>
+        <li>Exploración Facilitada: La organización por categorías y subcategorías, así como la navegación por mapa, permiten a los usuarios explorar y descubrir contenido de manera efectiva.</li>
+        <li>Mayor Retención de Usuarios: Una navegación fluida y una experiencia positiva del usuario contribuyen a la retención de usuarios y la fidelización.</li>
+        <li>Facilita la Toma de Decisiones: Los detalles completos en las páginas de empresas y proyectos ayudan a los usuarios a tomar decisiones informadas.</li>
+    </ul>
+</body>
+</html>
 
 #### 6.3. Landing Page UI Design
 
