@@ -10,7 +10,6 @@
 
 <p align = justify> Los Style Guidelines para Lean UX representan un conjunto de reglas y directrices esenciales aplicadas para mantener una coherencia visual y estilística en el diseño de la interfaz de usuario en proyectos de Lean UX. En términos de la paleta de colores recomendada, se establece lo siguiente:</p>
 
-
 <li align = justify> <b>Color Principal (#007A84): </b>Este color se utiliza para resaltar elementos importantes y atraer la atención del usuario. 
 </li>
 
@@ -36,7 +35,7 @@
     </center>
 </p>
 
-<li align = justify> <b>Colores de Destaque (#F9F871, #86D57C, #02AA8B): </b>Estos colores se reservan para resaltar elementos secundarios de la interfaz, como botones o iconos.</li> 
+<li align = justify> <b>Colores de Destaque (#F9F871, #86D57C, #02AA8B): </b>Estos colores se reservan para resaltar elementos secundarios de la interfaz, como botones o iconos.</li>
 
 <p>
     <center>
@@ -75,8 +74,11 @@
 #### 6.2 Information Architecture
 
 ##### 6.2.1. Labeling Systems
+
 ##### 6.2.2. Searching Systems
+
 ##### 6.2.3. SEO Tags and Meta Tags
+
 ##### 6.2.4. Navigation Systems
 
 #### 6.3. Landing Page UI Design
@@ -132,8 +134,61 @@
 #### 6.4. Applications UX/UI Design
 
 ##### 6.4.1. Applications Wireframes
-##### 6.4.2. Applications Wireflow Diagrams
-##### 6.4.3. Applications Mock-ups
-##### 6.4.4. Applications User Flow Diagrams
 
-#### 6.5. Applications Prototyping
+##### 6.4.2. Applications Wireflow Diagrams
+
+- Mobile
+
+- Web
+
+  - Wireframe
+
+        1. Sing In (Inicio de Sesión)
+
+    <image
+        src="../images/Sign-In-Wireframe.png"
+        alt="">
+
+        2. Sing In (Registro)
+
+    <image
+        src="../images/Sign-up-Wireframe.png"
+        alt="">
+
+        3. Profile (Edición de Perfil)
+
+    <image
+        src="../images/Profile-Wireframe.png"
+        alt="">
+
+        4. Request (Solicitud)
+
+    <image
+        src="../images/Request-Wireframe.png"
+        alt="">
+
+  - Mockups
+
+        1. Sing In (Inicio de Sesión)
+
+    <image
+        src="../images/Sign-In-Mockups.png"
+        alt="">
+
+        2. Sing Un (Registro)
+
+    <image
+        src="../images/Sign-up-Mockups.png"
+        alt="">
+
+        3. Profile (Edición de Perfil)
+
+    <image
+        src="../images/Profile-Mockups.png"
+        alt="">
+
+        4. Request (Solicitud)
+
+    <image
+        src="../images/Request-Mockups.png"
+        alt="">
