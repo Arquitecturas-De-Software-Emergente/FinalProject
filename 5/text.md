@@ -29,41 +29,42 @@
 </li> <br>
 
 <li>
-    <b>SubscriptionsController:</b>Esta clase se encarga de gestionar las suscripciones de los usuarios. Permite a los usuarios ver sus suscripciones activas, actualizar la información de pago asociada a sus suscripciones y gestionar renovaciones automáticas o cancelaciones de suscripciones.
+    <b>SubscriptionsController: </b>Esta clase se encarga de gestionar las suscripciones de los usuarios. Permite a los usuarios ver sus suscripciones activas, actualizar la información de pago asociada a sus suscripciones y gestionar renovaciones automáticas o cancelaciones de suscripciones.
 </li>
 
 </div>
 
-### 5.1.3. Application Layer
+##### 5.1.3. Application Layer
 
-### 5.1.4. Infrastructure Layer
+##### 5.1.4. Infrastructure Layer
 
-### 5.1.6. Bounded Context Software Architecture Component Level Diagrams
+##### 5.1.6. Bounded Context Software Architecture Component Level Diagrams
 
-### 5.1.7. Bounded Context Software Architecture Code Level Diagrams
+##### 5.1.7. Bounded Context Software Architecture Code Level Diagrams
 
-#### 5.1.7.1. Bounded Context Domain Layer Class Diagrams
+###### 5.1.7.1. Bounded Context Domain Layer Class Diagrams
 
-#### 5.1.7.2. Bounded Context Database Design Diagram
+###### 5.1.7.2. Bounded Context Database Design Diagram
 
-## 5.2. Bounded Context: 
-### Bounded Context: Identity Access Management
+#### 5.2. Bounded Context: Identity Access Management
 
-### 5.2.1. Domain Layer
+##### 5.2.1. Domain Layer
 
-### 5.2.2. Interface Layer
-<div align=justify>
-- AccountController:
+##### 5.2.2. Interface Layer
 
-El AccountController maneja las operaciones relacionadas con la gestión de cuentas de usuario, como la creación de cuentas, la autenticación y el cierre de sesiones.
+<div align = justify>
 
-- BusinessProfileController:
+<li>
+    <b>AccountController: </b>El AccountController maneja las operaciones relacionadas con la gestión de cuentas de usuario, como la creación de cuentas, la autenticación y el cierre de sesiones.
+</li> <br>
 
-Esta clase se encarga de gestionar los perfiles empresariales en el contexto de Identity Access Management, lo que incluye crear y actualizar perfiles empresariales y definir roles y permisos relacionados con la empresa.
+<li>
+    <b>BusinessProfileController: </b>Esta clase se encarga de gestionar los perfiles empresariales en el contexto de Identity Access Management, lo que incluye crear y actualizar perfiles empresariales y definir roles y permisos relacionados con la empresa.
+</li> <br>
 
-- ProjectController:
-
-El ProjectController gestiona las operaciones relacionadas con la gestión de proyectos dentro del contexto de Identity Access Management, permitiendo a los usuarios crear, editar y administrar proyectos.
+<li>
+    <b>ProjectController: </b>El ProjectController gestiona las operaciones relacionadas con la gestión de proyectos dentro del contexto de Identity Access Management, permitiendo a los usuarios crear, editar y administrar proyectos.
+</li> <br>
 
 - UserController:
 
