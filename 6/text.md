@@ -188,54 +188,55 @@
     <h2>Descripción:</h2>
     <p>El Sistema de Búsqueda es una función esencial en la aplicación que facilita a los usuarios encontrar empresas de remodelación, proyectos y dispositivos IoT de manera rápida y eficiente. Este sistema está diseñado para mejorar la experiencia del usuario y asegurar que los clientes puedan acceder a la información que necesitan de manera oportuna.</p>
 
-    <h2>Características Clave:</h2>
+  <h2>Características Clave:</h2>
     
-    <h3>Búsqueda de Empresas de Remodelación:</h3>
-    <ul>
+  <h3>Búsqueda de Empresas de Remodelación:</h3>
+  <ul>
         <li>Los clientes pueden buscar empresas de remodelación por nombre, ubicación, especialidad, calificaciones y otros criterios relevantes.</li>
         <li>Se proporcionan filtros avanzados para refinar la búsqueda, como tamaño de proyecto, presupuesto y disponibilidad.</li>
     </ul>
 
-    <h3>Búsqueda de Proyectos de Remodelación:</h3>
+  <h3>Búsqueda de Proyectos de Remodelación:</h3>
     <ul>
         <li>Los clientes pueden buscar proyectos de remodelación activos o pasados utilizando palabras clave, ubicación, tipo de proyecto y más.</li>
         <li>Los filtros permiten a los clientes encontrar proyectos que se ajusten a sus necesidades específicas.</li>
     </ul>
 
-    <h3>Búsqueda de Dispositivos IoT:</h3>
+<h3>Búsqueda de Dispositivos IoT:</h3>
     <ul>
         <li>Los usuarios pueden buscar dispositivos IoT disponibles para su uso en proyectos de remodelación.</li>
         <li>Los filtros pueden incluir tipo de dispositivo, compatibilidad, eficiencia energética y otras especificaciones técnicas.</li>
     </ul>
 
-    <h3>Resultados Relevantes:</h3>
+  <h3>Resultados Relevantes:</h3>
     <ul>
         <li>El sistema de búsqueda utiliza algoritmos avanzados para ofrecer resultados relevantes y sugerencias basadas en las consultas de los usuarios.</li>
         <li>Los resultados se presentan en un formato claro y fácil de navegar.</li>
     </ul>
 
-    <h3>Visualización Detallada:</h3>
+  <h3>Visualización Detallada:</h3>
     <ul>
         <li>Los usuarios pueden acceder a información detallada sobre empresas de remodelación, proyectos y dispositivos IoT, incluyendo calificaciones, reseñas, imágenes y datos técnicos.</li>
     </ul>
 
-    <h3>Gestión de Favoritos</h3>
+  <h3>Gestión de Favoritos</h3>
     <ul>
         <li>Se proporciona un historial de búsqueda de las empresas de remodelación marcadas como favoritos.</li>
     </ul>
 
-    <h3>Alertas y Notificaciones:</h3>
+  <h3>Alertas y Notificaciones:</h3>
     <ul>
         <li>Los usuarios pueden configurar alertas de búsqueda para recibir notificaciones cuando aparezcan nuevos proyectos o empresas que coincidan con sus criterios.</li>
     </ul>
 
-    <h2>Beneficios:</h2>
+  <h2>Beneficios:</h2>
     <ul>
         <li>Facilita a los clientes encontrar rápidamente empresas de remodelación y proyectos que se adapten a sus necesidades.</li>
         <li>Ahorra tiempo al proporcionar resultados relevantes y opciones de filtrado.</li>
         <li>Mejora la visibilidad de las empresas de remodelación y los dispositivos IoT disponibles en la plataforma.</li>
         <li>Fomenta la colaboración y la toma de decisiones informadas al proporcionar información detallada y calificaciones.</li>
     </ul>
+
 </body>
 </html>
 
@@ -307,7 +308,15 @@
 
 ##### 6.4.1. Applications Wireframes
 
-- Mobile
+- Mobile: https://www.figma.com/file/kivHthcakDSaRzEzV8ffwD/Model-House?type=design&node-id=236%3A1850&mode=design&t=1xxiJXoh6qcg2kkJ-1
+
+<div>
+    <center>
+        <img align = middle src = "../images/Wireframe-Mobile.png">
+    </center>
+</div>
+
+#
 
 - Web: https://www.figma.com/file/KMrE6lFAp7kPnFdC7w5Oi3/Untitled?type=design&node-id=1%3A2&mode=design&t=vrWGe1mWKnRxxCGI-1
 
