@@ -81,8 +81,53 @@
 
 #### 6.3. Landing Page UI Design
 
+- Para la elaboración del landing page hemos utilizado la plataforma “Figma” para facilitar el diseño cooperativo.
+
 ##### 6.3.1. Landing Page Wireframe
+
+<p>
+    <center>
+        <img align = middle src = "../images/landing_page_wireframe_desktop.png">
+    </center>
+</p>
+<p>
+    <center>
+        <img align = middle src = "../images/landing_page_wireframe_tablet.png">
+    </center>
+</p>
+<p>
+    <center>
+        <img align = middle src = "../images/landing_page_wireframe_mobile.png">
+    </center>
+</p>
+
 ##### 6.3.2. Landing Page Mock-up
+
+<p>
+    <center>
+        <img align = middle src = "../images/landing_page_mockups_desktop_1.png">
+    </center>
+</p>
+<p>
+    <center>
+        <img align = middle src = "../images/landing_page_mockups_desktop_2.png">
+    </center>
+</p>
+<p>
+    <center>
+        <img align = middle src = "../images/landing_page_mockups_desktop_3.png">
+    </center>
+</p>
+<p>
+    <center>
+        <img align = middle src = "../images/landing_page_mockups_tablet.png">
+    </center>
+</p>
+<p>
+    <center>
+        <img align = middle src = "../images/landing_page_mockups_mobile.png">
+    </center>
+</p>
 
 #### 6.4. Applications UX/UI Design
 
