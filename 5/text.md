@@ -11,6 +11,7 @@
 
 - CartController:
 
+<div align=justify>
 Esta clase esta encargada de gestionar las operaciones relacionadas con el carrito de compras, como agregar productos al carrito, eliminar productos, actualizar cantidades y calcular el total de la compra en el contexto de suscripciones y pagos.
 - OrderController:
 
@@ -27,7 +28,7 @@ El ProductController es responsable de las operaciones relacionadas con la gesti
 - SubscriptionsController:
 
 Esta clase se encarga de gestionar las suscripciones de los usuarios. Permite a los usuarios ver sus suscripciones activas, actualizar la información de pago asociada a sus suscripciones y gestionar renovaciones automáticas o cancelaciones de suscripciones.
-
+</div>
 
 ### 5.1.3. Application Layer
 
@@ -47,7 +48,7 @@ Esta clase se encarga de gestionar las suscripciones de los usuarios. Permite a 
 ### 5.2.1. Domain Layer
 
 ### 5.2.2. Interface Layer
-
+<div align=justify>
 - AccountController:
 
 El AccountController maneja las operaciones relacionadas con la gestión de cuentas de usuario, como la creación de cuentas, la autenticación y el cierre de sesiones.
@@ -67,7 +68,7 @@ Esta clase maneja las operaciones de gestión de usuarios, incluyendo el registr
 - UserProfileController:
 
 El UserProfileController está encargado de las operaciones específicas relacionadas con los perfiles de usuario, como la actualización de la información personal del usuario.
-
+</div>
 
 ### 5.2.3. Application Layer
 
@@ -87,7 +88,7 @@ El UserProfileController está encargado de las operaciones específicas relacio
 ### 5.3.1. Domain Layer
 
 ### 5.3.2. Interface Layer
-
+<div align=justify>
 - ProjectActivityController:
 
 Esta clase gestiona las actividades relacionadas con proyectos en el contexto de Service Management, permitiendo la creación, edición y seguimiento de actividades asociadas a proyectos.
@@ -103,7 +104,7 @@ Esta clase gestiona las propuestas relacionadas con proyectos o servicios, inclu
 - RequestController:
 
 El RequestController maneja las solicitudes de servicio o proyectos, permitiendo a los usuarios crear solicitudes, realizar seguimiento y recibir respuestas de proveedores de servicios.
-
+</div>
 
 ### 5.3.3. Application Layer
 
