@@ -434,8 +434,12 @@ El controlador de dispositivos se encargará de gestionar todas las operaciones 
 ###### 5.4.6.1. Bounded Context Domain Layer Class Diagrams
 
 <center>
-            <img src="../images/Smart home db.png">
+            <img src="../images/Smart home management class.png">
     </center>
 
 
 ###### 5.4.6.2. Bounded Context Database Design Diagram
+
+<center>
+            <img src="../images/Smart home db.png">
+    </center>
