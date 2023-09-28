@@ -80,6 +80,24 @@
 
 ##### 5.1.4. Infrastructure Layer
 
+<div align = justify>
+
+<p>Dentro de esta capa definimos principalmente los esquemas de las entidades de la capa de dominio para un correcto manejo de la base de datos.</p>
+
+<p>
+    <b>Integración con Proveedores de Pagos Externos: </b>Se establecerán conexiones y se implementarán adaptadores para interactuar con proveedores de servicios de pago externos, como PayPal, Visa, o cualquier otro sistema de pago utilizado por la empresa. Esto podría incluir la configuración de API, el manejo de tokens de seguridad, la gestión de transacciones y la conciliación de pagos.
+</p>
+
+<p>
+    <b>Gestión de Bases de Datos: </b>Incluirá la configuración y gestión de la base de datos relacionadas con las suscripciones y pagos. Esto abarca la creación de tablas de base de datos, la implementación de almacenamiento en caché para mejorar el rendimiento y la gestión de copias de seguridad de datos sensibles.
+</p>
+
+<p>
+    <b>Seguridad: </b>Esta capa se encargará de la seguridad relacionada con las transacciones de pago. Esto podría incluir la implementación de medidas de seguridad como SSL/TLS para cifrar las comunicaciones, la gestión de tokens de seguridad y la detección de fraudes.
+</p>
+
+</div>
+
 ##### 5.1.5. Bounded Context Software Architecture Component Level Diagrams
 
 ##### 5.1.6. Bounded Context Software Architecture Code Level Diagrams
@@ -171,6 +189,14 @@
 ##### 5.2.3. Application Layer
 
 ##### 5.2.4. Infrastructure Layer
+
+<div align = justify>
+
+<p>
+    <b>Integración con Proveedores de Correo Electrónico Externos: </b>Se establecerán conexiones y se implementarán adaptadores para interactuar con proveedores de servicios de correo electrónico externos, como Gmail, Outlook o proveedores de autenticación por correo electrónico. Esto incluye la configuración de la API, la gestión de tokens de autenticación y la interacción con los servicios de envío y recepción de correos electrónicos.
+</p>
+
+</div>
 
 ##### 5.2.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -277,6 +303,14 @@
 ##### 5.3.3. Application Layer
 
 ##### 5.3.4. Infrastructure Layer
+
+<div align = justify>
+
+<p>
+    <b>Almacenamiento de Datos: </b>Para mantener un registro de las interacciones entre las empresas y usuarios se va a incluir un sistema de almacenamiento de datos que registre los eventos, las conversaciones y cualquier información relevante para el servicio contratado. Esto es útil para fines de seguimiento y análisis.
+</p>
+
+</div>
 
 ##### 5.3.5. Bounded Context Software Architecture Component Level Diagrams
 
