@@ -415,6 +415,51 @@
 
 - Mobile
 
+    - Wireframe
+
+    1. Sing In (Inicio de Sesión)
+
+    <image
+        src="../images/Sign In.png"
+        alt="">
+
+        2. Sing Up (Registro)
+
+    <image
+        src="../images/SignUp.png"
+        alt="">
+
+        3. Request (Solicitud)
+
+    <image
+        src="../images/Requests.png"
+        alt="">
+
+        4. Proporsal (Propuesta)
+
+    <image
+        src="../images/Proposal.png"
+        alt="">
+
+         5. Send Requests (Enviar Solicitud)
+
+    <image
+        src="../images/send_request.png"
+        alt="">
+
+        6. Find Device (Buscar dispositivo)
+
+    <image
+        src="../images/find_device.png"
+        alt="">
+
+        7. Device Configuration (Configurar dispositivo)
+
+    <image
+        src="../images/device_configuration.png"
+        alt="">
+
+
 - Web
 
   - Wireframe
@@ -443,22 +488,6 @@
         src="../images/Request-Wireframe.png"
         alt="">
 
-         5. Send Requests (Enviar Solicitud)
 
-    <image
-        src="../images/send_request.png"
-        alt="">
-
-        6. Find Device (Buscar dispositivo)
-
-    <image
-        src="../images/find_device.png"
-        alt="">
-
-        7. Device Configuration (Configurar dispositivo)
-
-    <image
-        src="../images/device_configuration.png"
-        alt="">
         
 
