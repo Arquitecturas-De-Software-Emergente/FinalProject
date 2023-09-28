@@ -442,29 +442,3 @@
     <image
         src="../images/Request-Wireframe.png"
         alt="">
-
-  - Mockups
-
-        1. Sing In (Inicio de Sesión)
-
-    <image
-        src="../images/Sign-In-Mockups.png"
-        alt="">
-
-        2. Sing Un (Registro)
-
-    <image
-        src="../images/Sign-up-Mockups.png"
-        alt="">
-
-        3. Profile (Edición de Perfil)
-
-    <image
-        src="../images/Profile-Mockups.png"
-        alt="">
-
-        4. Request (Solicitud)
-
-    <image
-        src="../images/Request-Mockups.png"
-        alt="">
