@@ -352,10 +352,14 @@
 ###### 5.3.6.1. Bounded Context Domain Layer Class Diagrams
 
 <center>
-            <img src="../images/service Management db.png">
+            <img src="../images/service management class.png">
     </center>
 
 ###### 5.3.6.2. Bounded Context Database Design Diagram
+
+<center>
+            <img src="../images/service Management db.png">
+    </center>
 
 #### 5.4. Bounded Context: Smart Home Project management
 
