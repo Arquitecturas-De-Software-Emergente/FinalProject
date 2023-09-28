@@ -101,6 +101,10 @@
 
 ###### 5.1.6.1. Bounded Context Domain Layer Class Diagrams
 
+<center>
+              <img src="../images/payment and subscription class.png">
+    </center>
+
 ###### 5.1.6.2. Bounded Context Database Design Diagram
 
 #### 5.2. Bounded Context: Identity Access Management
@@ -205,6 +209,10 @@
 
 
 ###### 5.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+<center>
+            <img src="../images/Indentity mangemente class.png">
+    </center>
 
 ###### 5.2.6.2. Bounded Context Database Design Diagram
 
@@ -333,6 +341,10 @@
 
 ###### 5.3.6.1. Bounded Context Domain Layer Class Diagrams
 
+<center>
+            <img src="../images/service management class.png">
+    </center>
+
 ###### 5.3.6.2. Bounded Context Database Design Diagram
 
 #### 5.4. Bounded Context: Smart Home Project management
@@ -406,9 +418,14 @@ El controlador de dispositivos se encargará de gestionar todas las operaciones 
 <center>
             <img src="../images/structurizr-86418-Identity and Access Management Component.png">
     </center>
-    
+
 ##### 5.4.6. Bounded Context Software Architecture Code Level Diagrams
 
 ###### 5.4.6.1. Bounded Context Domain Layer Class Diagrams
+
+<center>
+            <img src="../images/Smart home management class.png">
+    </center>
+
 
 ###### 5.4.6.2. Bounded Context Database Design Diagram
