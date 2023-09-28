@@ -75,7 +75,169 @@
 
 ##### 6.2.1. Labeling Systems
 
+- Para el sistema de etiquetado hemos utilizado diferentes formas de etiquetas en un lenguaje sencillo de entender para los usuarios y empresas
+<table>
+  <thead>
+    <tr>
+      <th>Elemento</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>Inicio de Sesión</strong></td>
+    </tr>
+    <tr>
+      <td>Sign up</td>
+      <td>Enlace para registrar una cuenta en la aplicación.</td>
+    </tr>
+    <tr>
+      <td>Login</td>
+      <td>Botón para iniciar sesión en la aplicación.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Panel de Control</strong></td>
+    </tr>
+    <tr>
+      <td>Clientes</td>
+      <td>Lista de clientes conectados a la empresa de remodelación.</td>
+    </tr>
+    <tr>
+      <td>Proyectos</td>
+      <td>Vista de proyectos de remodelación actuales.</td>
+    </tr>
+    <tr>
+      <td>Dispositivos IoT</td>
+      <td>Acceso al control y configuración de dispositivos IoT.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Gestión de Proyectos</strong></td>
+    </tr>
+    <tr>
+      <td>Crear Proyecto</td>
+      <td>Opción para crear un nuevo proyecto de remodelación.</td>
+    </tr>
+    <tr>
+      <td>Detalles del Proyecto</td>
+      <td>Visualización de detalles y progreso de un proyecto específico.</td>
+    </tr>
+    <tr>
+      <td>Documentos</td>
+      <td>Almacenamiento de documentos relevantes del proyecto.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Dispositivos IoT</strong></td>
+    </tr>
+    <tr>
+      <td>Agregar Dispositivo</td>
+      <td>Función para agregar nuevos dispositivos IoT al proyecto.</td>
+    </tr>
+    <tr>
+      <td>Configuración de Dispositivos</td>
+      <td>Ajuste de configuraciones y parámetros de dispositivos IoT.</td>
+    </tr>
+    <tr>
+      <td>Estado de Dispositivos</td>
+      <td>Visualización del estado y datos en tiempo real de los dispositivos IoT.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Comunicación</strong></td>
+    </tr>
+    <tr>
+      <td>Notificaciones</td>
+      <td>Recepción de notificaciones y actualizaciones relevantes.</td>
+    </tr>
+    <tr>
+      <td>Informes</td>
+      <td>Generación de informes detallados sobre el progreso de proyectos y uso de dispositivos IoT.</td>
+    </tr>
+    <tr>
+      <td>Análisis de Datos IoT</td>
+      <td>Herramienta para analizar datos recopilados por dispositivos IoT.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Configuración de Cuenta</strong></td>
+    </tr>
+    <tr>
+      <td>Perfil</td>
+      <td>Edición de información personal y de la empresa.</td>
+    </tr>
+    <tr>
+      <td>Configuración de Dispositivos IoT</td>
+      <td>Gestión de dispositivos IoT, integración y seguridad.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Cerrar Sesión</strong></td>
+    </tr>
+    <tr>
+      <td>Cerrar Sesión</td>
+      <td>Botón para salir de la aplicación y finalizar la sesión.</td>
+    </tr>
+  </tbody>
+</table>
+
 ##### 6.2.2. Searching Systems
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Descripción del Sistema de Búsqueda</title>
+</head>
+<body>
+    <h2>Descripción:</h2>
+    <p>El Sistema de Búsqueda es una función esencial en la aplicación que facilita a los usuarios encontrar empresas de remodelación, proyectos y dispositivos IoT de manera rápida y eficiente. Este sistema está diseñado para mejorar la experiencia del usuario y asegurar que los clientes puedan acceder a la información que necesitan de manera oportuna.</p>
+
+    <h2>Características Clave:</h2>
+    
+    <h3>Búsqueda de Empresas de Remodelación:</h3>
+    <ul>
+        <li>Los clientes pueden buscar empresas de remodelación por nombre, ubicación, especialidad, calificaciones y otros criterios relevantes.</li>
+        <li>Se proporcionan filtros avanzados para refinar la búsqueda, como tamaño de proyecto, presupuesto y disponibilidad.</li>
+    </ul>
+
+    <h3>Búsqueda de Proyectos de Remodelación:</h3>
+    <ul>
+        <li>Los clientes pueden buscar proyectos de remodelación activos o pasados utilizando palabras clave, ubicación, tipo de proyecto y más.</li>
+        <li>Los filtros permiten a los clientes encontrar proyectos que se ajusten a sus necesidades específicas.</li>
+    </ul>
+
+    <h3>Búsqueda de Dispositivos IoT:</h3>
+    <ul>
+        <li>Los usuarios pueden buscar dispositivos IoT disponibles para su uso en proyectos de remodelación.</li>
+        <li>Los filtros pueden incluir tipo de dispositivo, compatibilidad, eficiencia energética y otras especificaciones técnicas.</li>
+    </ul>
+
+    <h3>Resultados Relevantes:</h3>
+    <ul>
+        <li>El sistema de búsqueda utiliza algoritmos avanzados para ofrecer resultados relevantes y sugerencias basadas en las consultas de los usuarios.</li>
+        <li>Los resultados se presentan en un formato claro y fácil de navegar.</li>
+    </ul>
+
+    <h3>Visualización Detallada:</h3>
+    <ul>
+        <li>Los usuarios pueden acceder a información detallada sobre empresas de remodelación, proyectos y dispositivos IoT, incluyendo calificaciones, reseñas, imágenes y datos técnicos.</li>
+    </ul>
+
+    <h3>Gestión de Favoritos</h3>
+    <ul>
+        <li>Se proporciona un historial de búsqueda de las empresas de remodelación marcadas como favoritos.</li>
+    </ul>
+
+    <h3>Alertas y Notificaciones:</h3>
+    <ul>
+        <li>Los usuarios pueden configurar alertas de búsqueda para recibir notificaciones cuando aparezcan nuevos proyectos o empresas que coincidan con sus criterios.</li>
+    </ul>
+
+    <h2>Beneficios:</h2>
+    <ul>
+        <li>Facilita a los clientes encontrar rápidamente empresas de remodelación y proyectos que se adapten a sus necesidades.</li>
+        <li>Ahorra tiempo al proporcionar resultados relevantes y opciones de filtrado.</li>
+        <li>Mejora la visibilidad de las empresas de remodelación y los dispositivos IoT disponibles en la plataforma.</li>
+        <li>Fomenta la colaboración y la toma de decisiones informadas al proporcionar información detallada y calificaciones.</li>
+    </ul>
+</body>
+</html>
 
 ##### 6.2.3. SEO Tags and Meta Tags
 
