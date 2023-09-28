@@ -92,8 +92,9 @@
 </div>
 
 ##### 5.1.5. Bounded Context Software Architecture Component Level Diagrams
-    <center>
-            <img src="../images/structurizr-86418-Identity and Access Management Component.png">
+    
+<center>
+              <img src="../images/structurizr-86418-Subscription and Payment Component Diagram.png">
     </center>
 ##### 5.1.6. Bounded Context Software Architecture Code Level Diagrams
 
