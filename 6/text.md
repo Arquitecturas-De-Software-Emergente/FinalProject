@@ -76,6 +76,7 @@
 ##### 6.2.1. Labeling Systems
 
 - Para el sistema de etiquetado hemos utilizado diferentes formas de etiquetas en un lenguaje sencillo de entender para los usuarios y empresas
+  
 <table>
   <thead>
     <tr>
