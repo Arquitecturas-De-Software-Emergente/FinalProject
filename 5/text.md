@@ -4,7 +4,7 @@
 
 ### Tactical-Level Software Design.
 
-#### 5.1. Bounded Context: subscription and payment
+#### 5.1. Bounded Context: Subscription and payment
 
 ##### 5.1.1. Domain Layer
 
@@ -70,6 +70,29 @@
 </div>
 
 ##### 5.1.3. Application Layer
+
+<div align = justify>
+
+<p>En el contexto de "Subscription and Payment" en ModelHouse, el Application Layer se centra en proporcionar una interfaz de usuario empresarial y una funcionalidad de gestión de suscripciones. Permite a las empresas de remodelación suscribirse al servicio y gestionar sus pagos de manera eficiente. Los usuarios empresariales pueden crear y cancelar suscripciones a través de esta interfaz, y el Application Layer se comunica con la API de Stripe para garantizar la facturación adecuada. Además, se generan notificaciones y eventos para mantener a los usuarios informados sobre el estado de sus suscripciones.</p>
+
+<p>
+    <b>Command Handlers:</b><br>
+    <li>
+        <b>CreateSubscriptionCommandHandler: </b>Este Command Handler se encarga de procesar la creación de una nueva suscripción de usuario empresarial en ModelHouse. Cuando se recibe un comando para crear una suscripción, este componente interactúa con la API de Stripe para configurar el pago y, una vez confirmado, actualiza el estado de la suscripción en la base de datos.
+    </li>
+    <li>
+        <b>CancelSubscriptionCommandHandler: </b>El Command Handler de cancelación de suscripciones se encarga de procesar las solicitudes de cancelación de suscripciones por parte de los usuarios empresariales. Trabaja en conjunto con la API de Stripe para detener los pagos recurrentes y actualiza el estado de la suscripción correspondiente.
+    </li><br>
+    <b>Event Handlers: </b><br><br>
+    <li>
+        <b>PaymentConfirmedEventHandler: </b>Este Event Handler responde a eventos que confirman el pago exitoso de una suscripción. Cuando se recibe un evento de pago confirmado, este componente actualiza el estado de la suscripción en la base de datos y genera eventos adicionales relacionados con la facturación y la gestión de suscripciones.
+    </li>
+    <li>
+        <b>SubscriptionCancelledEventHandler: </b>El Event Handler de cancelación de suscripciones maneja eventos que indican que una suscripción ha sido cancelada. Cuando se recibe un evento de este tipo, se actualiza el estado de la suscripción en la base de datos y se emiten eventos de notificación correspondientes a los usuarios.
+    </li>  <br>
+</p>
+
+</div>
 
 ##### 5.1.4. Infrastructure Layer
 
@@ -226,7 +249,7 @@
     </center>
 
 
-#### 5.3. Bounded Context: Service Management
+#### 5.3. Bounded Context: Request Service Management
 
 ##### 5.3.1. Domain Layer
 
@@ -300,7 +323,7 @@
 
 ##### 5.3.2. Interface Layer
 
-<div align=justify>
+<div align=justify> 
 
 <li> 
     <b>NotificationController: </b>Este controlador se encarga de la gestión de notificaciones, incluyendo la creación de nuevas notificaciones, la visualización de notificaciones para un usuario específico y la marcación de notificaciones como leídas.
