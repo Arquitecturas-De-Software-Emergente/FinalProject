@@ -54,20 +54,13 @@
 
 <div align=justify>
 
-<li>
-    <b>CartController: </b> Esta clase esta encargada de gestionar las operaciones relacionadas con el carrito de compras, como agregar productos al carrito, eliminar productos, actualizar cantidades y calcular el total de la compra en el contexto de suscripciones y pagos.
-</li> <br>
-
-<li>
-    <b>OrderController: </b>El OrderController se encarga de gestionar las operaciones relacionadas con la creación y gestión de pedidos en el contexto de suscripciones y pagos. Puede encargarse de la finalización de la compra y la generación de confirmaciones de pedidos.
-</li> <br>
 
 <li>
     <b>PlansController: </b> Esta clase gestiona la configuración y visualización de los planes de suscripción disponibles en el sistema. Permite a los usuarios seleccionar, ver detalles y administrar la información de facturación y ciclos de pago asociados a los planes de suscripción.
 </li> <br>
 
 <li>
-    <b>ProductController: </b>El ProductController es responsable de las operaciones relacionadas con la gestión de productos en el contexto de suscripciones y pagos. Esto incluye agregar nuevos productos, actualizar detalles de productos existentes y proporcionar información sobre productos disponibles para compra o suscripción.
+    <b>PaymentsController: </b>Este controlador se encarga de gestionar las operaciones relacionadas con los pagos realizados por los usuarios para suscripciones.
 </li> <br>
 
 <li>
@@ -283,11 +276,19 @@
 <div align=justify>
 
 <li> 
-    <b>ProjectActivityController: </b>Esta clase gestiona las actividades relacionadas con proyectos en el contexto de Service Management, permitiendo la creación, edición y seguimiento de actividades asociadas a proyectos.
+    <b>NotificationController: </b>Este controlador se encarga de la gestión de notificaciones, incluyendo la creación de nuevas notificaciones, la visualización de notificaciones para un usuario específico y la marcación de notificaciones como leídas.
 </li> <br>
 
 <li> 
-    <b>ProjectResourceController: </b>El ProjectResourceController está encargado de la gestión de recursos o activos relacionados con proyectos, como la asignación de recursos a proyectos específicos.
+    <b>ReviewController : </b> El controlador de reseñas podría manejar las operaciones relacionadas con la reseña de usuarios sobre servicios de proyecto. Esto incluiría la creación de la reseña y la obtención de reseña existente.
+</li> <br>
+
+<li> 
+    <b>ServiceProjectController : </b> Este controlador gestiona las operaciones relacionadas con los servicios de proyecto realizados por empresas de servicios. Esto podría incluir la creación de nuevos servicios de proyecto, la gestión de tareas y plazos.
+</li> <br>
+
+<li> 
+    <b>ProjectResourceController: </b> El controlador de recursos de proyecto maneja las operaciones relacionadas con los activos o recursos utilizados en un servicio de proyecto, como la asignación de recursos a proyectos específicos y la gestión de inventario.
 </li> <br>
 
 <li> 
@@ -298,6 +299,8 @@
     <b>RequestController: </b>El RequestController maneja las solicitudes de servicio o proyectos, permitiendo a los usuarios crear solicitudes, realizar seguimiento y recibir respuestas de proveedores de servicios.
 </li> <br>
 
+<li>
+    <b>ProjectActivityController: </b> Este controlador se encarga de las operaciones relacionadas con las actividades realizadas en un servicio de proyecto. Podría permitir la creación y programación de actividades, así como el seguimiento y la actualización del estado de las mismas.
 </div>
 
 ##### 5.3.3. Application Layer
@@ -366,20 +369,19 @@
 <div align=justify>
 
 <li>
-    <b>ProjectActivityController: </b>Esta clase gestiona las actividades relacionadas con proyectos en el contexto de Service Management, permitiendo la creación, edición y seguimiento de actividades asociadas a proyectos.
+    <b>DeviceController: </b>
+El controlador de dispositivos se encargará de gestionar todas las operaciones relacionadas con los dispositivos instalados en un proyecto de Smart Home. Esto podría incluir la creación, actualización y eliminación de dispositivos, así como la configuración de sus parámetros. Además, este controlador podría manejar solicitudes relacionadas con la obtención de detalles de dispositivos y su estado.
 </li> <br>
 
 <li>
-    <b>ProjectResourceController: </b>El ProjectResourceController está encargado de la gestión de recursos o activos relacionados con proyectos, como la asignación de recursos a proyectos específicos.
+    <b>RoutineController: </b>El controlador de rutinas gestionaría las operaciones relacionadas con las rutinas realizadas por los usuarios a partir de los dispositivos instalados. Esto podría incluir la creación de rutinas, su ejecución y programación. Además, este controlador podría permitir a los usuarios ver detalles de rutinas existentes.
 </li> <br>
 
 <li>
-    <b>ProposalController: </b>Esta clase gestiona las propuestas relacionadas con proyectos o servicios, incluyendo la creación, revisión y aceptación de propuestas.
+    <b>RoomController: </b>El controlador de habitaciones se encargaría de gestionar las operaciones relacionadas con las habitaciones de una casa donde están instalados los dispositivos. Esto podría incluir la creación y gestión de habitaciones, la asignación de dispositivos a habitaciones específicas y la obtención de información sobre las habitaciones.
 </li> <br>
 
-<li>
-    <b>RequestController:</b>El RequestController maneja las solicitudes de servicio o proyectos, permitiendo a los usuarios crear solicitudes, realizar seguimiento y recibir respuestas de proveedores de servicios.
-</li> <br>
+
 
 
 </div>
