@@ -2,7 +2,8 @@
 
 ### Tactical-Level Software Design.
 
-## 5.1. Bounded Context: <Bounded Context: subscription and payment>
+## 5.1. Bounded Context: 
+### Bounded Context: subscription and payment
 
 ### 5.1.1. Domain Layer
 
@@ -40,7 +41,8 @@ Esta clase se encarga de gestionar las suscripciones de los usuarios. Permite a 
 
 #### 5.1.7.2. Bounded Context Database Design Diagram
 
-## 5.2. Bounded Context: <Bounded Context: Identity Access Management>
+## 5.2. Bounded Context: 
+### Bounded Context: Identity Access Management
 
 ### 5.2.1. Domain Layer
 
@@ -79,7 +81,8 @@ El UserProfileController está encargado de las operaciones específicas relacio
 
 #### 5.2.7.2. Bounded Context Database Design Diagram
 
-## 5.3. Bounded Context: <Bounded Context: Service Management>
+## 5.3. Bounded Context: 
+### Bounded Context: Service Management
 
 ### 5.3.1. Domain Layer
 
