@@ -1,33 +1,37 @@
 ## **UNIT V**
 
+---
+
 ### Tactical-Level Software Design.
 
-## 5.1. Bounded Context: 
-### Bounded Context: subscription and payment
+#### 5.1. Bounded Context: subscription and payment
 
-### 5.1.1. Domain Layer
+##### 5.1.1. Domain Layer
 
-### 5.1.2. Interface Layer
-
-- CartController:
+##### 5.1.2. Interface Layer
 
 <div align=justify>
-Esta clase esta encargada de gestionar las operaciones relacionadas con el carrito de compras, como agregar productos al carrito, eliminar productos, actualizar cantidades y calcular el total de la compra en el contexto de suscripciones y pagos.
-- OrderController:
 
-El OrderController se encarga de gestionar las operaciones relacionadas con la creación y gestión de pedidos en el contexto de suscripciones y pagos. Puede encargarse de la finalización de la compra y la generación de confirmaciones de pedidos.
+<li>
+    <b>CartController: </b> Esta clase esta encargada de gestionar las operaciones relacionadas con el carrito de compras, como agregar productos al carrito, eliminar productos, actualizar cantidades y calcular el total de la compra en el contexto de suscripciones y pagos.
+</li> <br>
 
-- PlansController:
+<li>
+    <b>OrderController: </b>El OrderController se encarga de gestionar las operaciones relacionadas con la creación y gestión de pedidos en el contexto de suscripciones y pagos. Puede encargarse de la finalización de la compra y la generación de confirmaciones de pedidos.
+</li> <br>
 
-Esta clase gestiona la configuración y visualización de los planes de suscripción disponibles en el sistema. Permite a los usuarios seleccionar, ver detalles y administrar la información de facturación y ciclos de pago asociados a los planes de suscripción.
+<li>
+    <b>PlansController: </b> Esta clase gestiona la configuración y visualización de los planes de suscripción disponibles en el sistema. Permite a los usuarios seleccionar, ver detalles y administrar la información de facturación y ciclos de pago asociados a los planes de suscripción.
+</li> <br>
 
-- ProductController:
+<li>
+    <b>ProductController: </b>El ProductController es responsable de las operaciones relacionadas con la gestión de productos en el contexto de suscripciones y pagos. Esto incluye agregar nuevos productos, actualizar detalles de productos existentes y proporcionar información sobre productos disponibles para compra o suscripción.
+</li> <br>
 
-El ProductController es responsable de las operaciones relacionadas con la gestión de productos en el contexto de suscripciones y pagos. Esto incluye agregar nuevos productos, actualizar detalles de productos existentes y proporcionar información sobre productos disponibles para compra o suscripción.
+<li>
+    <b>SubscriptionsController:</b>Esta clase se encarga de gestionar las suscripciones de los usuarios. Permite a los usuarios ver sus suscripciones activas, actualizar la información de pago asociada a sus suscripciones y gestionar renovaciones automáticas o cancelaciones de suscripciones.
+</li>
 
-- SubscriptionsController:
-
-Esta clase se encarga de gestionar las suscripciones de los usuarios. Permite a los usuarios ver sus suscripciones activas, actualizar la información de pago asociada a sus suscripciones y gestionar renovaciones automáticas o cancelaciones de suscripciones.
 </div>
 
 ### 5.1.3. Application Layer
