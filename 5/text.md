@@ -92,7 +92,9 @@
 </div>
 
 ##### 5.1.5. Bounded Context Software Architecture Component Level Diagrams
-
+    <center>
+            <img src="../images/structurizr-86418-Identity and Access Management Component.png">
+    </center>
 ##### 5.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 ###### 5.1.6.1. Bounded Context Domain Layer Class Diagrams
@@ -192,8 +194,12 @@
 </div>
 
 ##### 5.2.5. Bounded Context Software Architecture Component Level Diagrams
-
+<center>
+            <img src="../images/structurizr-86418-Subscription and Payment Component Diagram.png">
+    </center>
 ##### 5.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+
 
 ###### 5.2.6.1. Bounded Context Domain Layer Class Diagrams
 
@@ -316,7 +322,9 @@
 </div>
 
 ##### 5.3.5. Bounded Context Software Architecture Component Level Diagrams
-
+<center>
+            <img src="../images/structurizr-86418-Service Management Component Diagram.png">
+    </center>
 ##### 5.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 ###### 5.3.6.1. Bounded Context Domain Layer Class Diagrams
@@ -391,7 +399,9 @@ El controlador de dispositivos se encargará de gestionar todas las operaciones 
 ##### 5.4.4. Infrastructure Layer
 
 ##### 5.4.5. Bounded Context Software Architecture Component Level Diagrams
-
+<center>
+            <img src="../images/structurizr-86418-Identity and Access Management Component.png">
+    </center>
 ##### 5.4.6. Bounded Context Software Architecture Code Level Diagrams
 
 ###### 5.4.6.1. Bounded Context Domain Layer Class Diagrams
