@@ -91,12 +91,14 @@
         <img align = middle src = "../images/landing_page_wireframe_desktop.png">
     </center>
 </p>
+
 - Tablet:
 <p>
     <center>
         <img align = middle src = "../images/landing_page_wireframe_tablet.png">
     </center>
 </p>
+
 - Mobile:
 <p>
     <center>
@@ -122,12 +124,14 @@
         <img align = middle src = "../images/landing_page_mockups_desktop_3.png">
     </center>
 </p>
+
 - Tablet:
 <p>
     <center>
         <img align = middle src = "../images/landing_page_mockups_tablet.png">
     </center>
 </p>
+
 - Mobile:
 <p>
     <center>
