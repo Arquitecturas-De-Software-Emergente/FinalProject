@@ -75,6 +75,108 @@
 
 ##### 6.2.1. Labeling Systems
 
+- Para el sistema de etiquetado hemos utilizado diferentes formas de etiquetas en un lenguaje sencillo de entender para los usuarios y empresas
+<table>
+  <thead>
+    <tr>
+      <th>Elemento</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>Inicio de Sesión</strong></td>
+    </tr>
+    <tr>
+      <td>Sign up</td>
+      <td>Enlace para registrar una cuenta en la aplicación.</td>
+    </tr>
+    <tr>
+      <td>Login</td>
+      <td>Botón para iniciar sesión en la aplicación.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Panel de Control</strong></td>
+    </tr>
+    <tr>
+      <td>Clientes</td>
+      <td>Lista de clientes conectados a la empresa de remodelación.</td>
+    </tr>
+    <tr>
+      <td>Proyectos</td>
+      <td>Vista de proyectos de remodelación actuales.</td>
+    </tr>
+    <tr>
+      <td>Dispositivos IoT</td>
+      <td>Acceso al control y configuración de dispositivos IoT.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Gestión de Proyectos</strong></td>
+    </tr>
+    <tr>
+      <td>Crear Proyecto</td>
+      <td>Opción para crear un nuevo proyecto de remodelación.</td>
+    </tr>
+    <tr>
+      <td>Detalles del Proyecto</td>
+      <td>Visualización de detalles y progreso de un proyecto específico.</td>
+    </tr>
+    <tr>
+      <td>Documentos</td>
+      <td>Almacenamiento de documentos relevantes del proyecto.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Dispositivos IoT</strong></td>
+    </tr>
+    <tr>
+      <td>Agregar Dispositivo</td>
+      <td>Función para agregar nuevos dispositivos IoT al proyecto.</td>
+    </tr>
+    <tr>
+      <td>Configuración de Dispositivos</td>
+      <td>Ajuste de configuraciones y parámetros de dispositivos IoT.</td>
+    </tr>
+    <tr>
+      <td>Estado de Dispositivos</td>
+      <td>Visualización del estado y datos en tiempo real de los dispositivos IoT.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Comunicación</strong></td>
+    </tr>
+    <tr>
+      <td>Notificaciones</td>
+      <td>Recepción de notificaciones y actualizaciones relevantes.</td>
+    </tr>
+    <tr>
+      <td>Informes</td>
+      <td>Generación de informes detallados sobre el progreso de proyectos y uso de dispositivos IoT.</td>
+    </tr>
+    <tr>
+      <td>Análisis de Datos IoT</td>
+      <td>Herramienta para analizar datos recopilados por dispositivos IoT.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Configuración de Cuenta</strong></td>
+    </tr>
+    <tr>
+      <td>Perfil</td>
+      <td>Edición de información personal y de la empresa.</td>
+    </tr>
+    <tr>
+      <td>Configuración de Dispositivos IoT</td>
+      <td>Gestión de dispositivos IoT, integración y seguridad.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Cerrar Sesión</strong></td>
+    </tr>
+    <tr>
+      <td>Cerrar Sesión</td>
+      <td>Botón para salir de la aplicación y finalizar la sesión.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ##### 6.2.2. Searching Systems
 
 ##### 6.2.3. SEO Tags and Meta Tags
