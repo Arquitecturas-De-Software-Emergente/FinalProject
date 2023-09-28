@@ -188,48 +188,39 @@
 <body>
     <h2>Descripción:</h2>
     <p>El Sistema de Búsqueda es una función esencial en la aplicación que facilita a los usuarios encontrar empresas de remodelación, proyectos y dispositivos IoT de manera rápida y eficiente. Este sistema está diseñado para mejorar la experiencia del usuario y asegurar que los clientes puedan acceder a la información que necesitan de manera oportuna.</p>
-
   <h2>Características Clave:</h2>
-    
   <h3>Búsqueda de Empresas de Remodelación:</h3>
   <ul>
         <li>Los clientes pueden buscar empresas de remodelación por nombre, ubicación, especialidad, calificaciones y otros criterios relevantes.</li>
         <li>Se proporcionan filtros avanzados para refinar la búsqueda, como tamaño de proyecto, presupuesto y disponibilidad.</li>
     </ul>
-
   <h3>Búsqueda de Proyectos de Remodelación:</h3>
     <ul>
         <li>Los clientes pueden buscar proyectos de remodelación activos o pasados utilizando palabras clave, ubicación, tipo de proyecto y más.</li>
         <li>Los filtros permiten a los clientes encontrar proyectos que se ajusten a sus necesidades específicas.</li>
     </ul>
-
 <h3>Búsqueda de Dispositivos IoT:</h3>
     <ul>
         <li>Los usuarios pueden buscar dispositivos IoT disponibles para su uso en proyectos de remodelación.</li>
         <li>Los filtros pueden incluir tipo de dispositivo, compatibilidad, eficiencia energética y otras especificaciones técnicas.</li>
     </ul>
-
   <h3>Resultados Relevantes:</h3>
     <ul>
         <li>El sistema de búsqueda utiliza algoritmos avanzados para ofrecer resultados relevantes y sugerencias basadas en las consultas de los usuarios.</li>
         <li>Los resultados se presentan en un formato claro y fácil de navegar.</li>
     </ul>
-
   <h3>Visualización Detallada:</h3>
     <ul>
         <li>Los usuarios pueden acceder a información detallada sobre empresas de remodelación, proyectos y dispositivos IoT, incluyendo calificaciones, reseñas, imágenes y datos técnicos.</li>
     </ul>
-
   <h3>Gestión de Favoritos</h3>
     <ul>
         <li>Se proporciona un historial de búsqueda de las empresas de remodelación marcadas como favoritos.</li>
     </ul>
-
   <h3>Alertas y Notificaciones:</h3>
     <ul>
         <li>Los usuarios pueden configurar alertas de búsqueda para recibir notificaciones cuando aparezcan nuevos proyectos o empresas que coincidan con sus criterios.</li>
     </ul>
-
   <h2>Beneficios:</h2>
     <ul>
         <li>Facilita a los clientes encontrar rápidamente empresas de remodelación y proyectos que se adapten a sus necesidades.</li>
@@ -237,7 +228,6 @@
         <li>Mejora la visibilidad de las empresas de remodelación y los dispositivos IoT disponibles en la plataforma.</li>
         <li>Fomenta la colaboración y la toma de decisiones informadas al proporcionar información detallada y calificaciones.</li>
     </ul>
-
 </body>
 </html>
 
@@ -252,45 +242,37 @@
 <body>
     <h2>Descripción:</h2>
     <p>Los SEO Tags y Meta Tags son elementos cruciales para mejorar la visibilidad de la aplicación y aumentar su clasificación en los motores de búsqueda. Estas etiquetas se utilizan para optimizar el contenido y facilitar que los motores de búsqueda, como Google, indexen y comprendan la aplicación. A continuación, se detallan cómo se aplican en el modelo de negocio:</p>
-
     <h2>Características Clave:</h2>
-    
     <h3>Optimización de Títulos (Title Tags):</h3>
     <ul>
         <li>Cada página de la aplicación tiene un título único y descriptivo que refleja su contenido.</li>
         <li>Los títulos se ajustan para incluir palabras clave relevantes relacionadas con empresas de remodelación, proyectos y dispositivos IoT.</li>
     </ul>
-
     <h3>Meta Descriptions:</h3>
     <ul>
         <li>Se crean descripciones meta concisas y atractivas para cada página, lo que anima a los usuarios a hacer clic en los resultados del motor de búsqueda.</li>
         <li>Las meta descripciones también incluyen palabras clave relevantes y una breve visión general del contenido.</li>
     </ul>
-
     <h3>Etiquetas de Encabezado (Header Tags):</h3>
     <ul>
         <li>Se utilizan etiquetas de encabezado, como H1, H2 y H3, para estructurar y jerarquizar el contenido de manera lógica.</li>
         <li>Las etiquetas de encabezado ayudan a los motores de búsqueda a comprender la jerarquía de la información y la importancia de cada sección.</li>
     </ul>
-
     <h3>Optimización de Imágenes (Image Alt Tags):</h3>
     <ul>
         <li>Todas las imágenes en la aplicación incluyen etiquetas alt descriptivas que indican el contenido de la imagen.</li>
         <li>Esto mejora la accesibilidad y permite que las imágenes se clasifiquen en las búsquedas de imágenes de Google.</li>
     </ul>
-
     <h3>URLs Amigables para SEO:</h3>
     <ul>
         <li>Las URL de las páginas se diseñan de manera que sean legibles y contengan palabras clave relevantes.</li>
         <li>Las URL amigables para SEO facilitan la indexación y la comprensión del contenido por parte de los motores de búsqueda.</li>
     </ul>
-
     <h3>Sitemap XML:</h3>
     <ul>
         <li>Se genera un mapa del sitio XML que enumera todas las páginas y recursos de la aplicación.</li>
         <li>El mapa del sitio se envía a los motores de búsqueda para ayudarles a rastrear e indexar de manera eficiente el contenido.</li>
     </ul>
-
     <h2>Beneficios:</h2>
     <ul>
         <li>Mejora de la Clasificación en Motores de Búsqueda: La implementación adecuada de SEO Tags y Meta Tags ayuda a la aplicación a aparecer en los resultados de búsqueda de manera más prominente, aumentando la visibilidad y el tráfico.</li>
@@ -313,36 +295,29 @@
 <body>
     <h2>Descripción:</h2>
     <p>Los Sistemas de Navegación son una parte esencial de la aplicación que garantiza una experiencia de usuario fluida y eficiente. Estos sistemas facilitan la navegación de los usuarios a través de la aplicación y les ayudan a encontrar rápidamente la información que necesitan. A continuación, se detallan cómo se aplican en el modelo de negocio:</p>
-
     <h2>Características Clave:</h2>
-    
     <h3>Menú de Navegación Principal:</h3>
     <ul>
         <li>La aplicación cuenta con un menú de navegación principal que proporciona acceso rápido a las secciones clave, como "Inicio", "Solicitudes", "Dispositivos IoT", "Menú" y más.</li>
         <li>El menú se encuentra en la parte superior o lateral de la interfaz para una fácil accesibilidad.</li>
     </ul>
-
     <h3>Búsqueda Integrada:</h3>
     <ul>
         <li>Se incluye una barra de búsqueda en la parte superior de todas las páginas para permitir a los usuarios buscar empresas de remodelación, proyectos, dispositivos IoT y otros contenidos.</li>
     </ul>
-
     <h3>Navegación por Categorías:</h3>
     <ul>
         <li>Las empresas de remodelación, proyectos y dispositivos IoT se organizan en categorías y subcategorías para facilitar la exploración.</li>
     </ul>
-
     <h3>Páginas de Detalles:</h3>
     <ul>
         <li>Cada empresa de remodelación, proyecto y dispositivo IoT tiene su propia página de detalles con información completa.</li>
         <li>Los usuarios pueden acceder a descripciones detalladas, imágenes, reseñas, calificaciones y datos técnicos.</li>
     </ul>
-
     <h3>Botón de Regreso:</h3>
     <ul>
         <li>En todas las páginas, se incluye un botón de "Regreso" que permite a los usuarios volver atrás en su navegación, lo que facilita la exploración de contenido relacionado.</li>
     </ul>
-
     <h2>Beneficios:</h2>
     <ul>
         <li>Experiencia de Usuario Mejorada: Los sistemas de navegación intuitivos y eficientes hacen que la aplicación sea fácil de usar y atractiva para los usuarios.</li>
