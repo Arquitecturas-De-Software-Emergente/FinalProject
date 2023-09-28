@@ -217,6 +217,28 @@
 
 ##### 5.2.3. Application Layer
 
+<p>En el contexto de "Identity Access Management," el Application Layer se enfoca en la autenticación y la autorización de usuarios. Proporciona una interfaz de inicio de sesión y registro para los usuarios, donde pueden ingresar sus credenciales de manera segura. El Application Layer verifica la identidad de los usuarios y garantiza que tengan acceso solo a las funciones y los datos apropiados según sus permisos. Además, se gestionan eventos relacionados con la autenticación, como el inicio de sesión exitoso, para proporcionar una experiencia segura y efectiva.</p>
+
+<div align = justify>
+
+<p><b>Command Handlers:</b></p>
+
+<li>
+    <b>RegisterUserCommandHandler: </b>Procesa la creación de nuevas cuentas de usuario en ModelHouse. Cuando un usuario se registra, este componente crea una cuenta y gestiona las credenciales asociadas.
+</li>
+<li>
+    <b>AuthenticateUserCommandHandler: </b>Se encarga de verificar las credenciales de inicio de sesión de los usuarios. Permite el acceso a las funciones de la aplicación después de una autenticación exitosa.
+</li> <br>
+<p><b>Event Handlers:</b></p>
+<li>
+    <b>UserLoggedInEventHandler: </b>Responde a eventos que indican un inicio de sesión exitoso por parte de un usuario. Actualiza el estado de la sesión del usuario y genera eventos adicionales relacionados con la autenticación.
+</li>
+<li>
+    <b>PermissionsUpdatedEventHandler: </b>Maneja eventos que indican cambios en los permisos de usuario. Cuando se producen cambios en los permisos, este componente actualiza el estado de la autorización y emite eventos de seguridad correspondientes.
+</li> <br>
+
+</div>
+
 ##### 5.2.4. Infrastructure Layer
 
 <div align = justify>
@@ -355,6 +377,30 @@
 
 ##### 5.3.3. Application Layer
 
+<div align =justify>
+
+<p>Dentro del contexto de "Request Service Management," el Application Layer ofrece una interfaz para que los usuarios creen solicitudes de remodelación y realicen un seguimiento de su progreso. Los usuarios pueden enviar solicitudes y consultar el estado de las mismas a través de esta interfaz. Además, el Application Layer permite a las empresas de remodelación gestionar las solicitudes recibidas y responder a ellas. Se generan eventos y notificaciones en tiempo real para mantener a los usuarios actualizados sobre el estado de sus solicitudes.</p>
+
+<p><b>Command Handlers:</b></p>
+
+<li>
+    <b>CreateRemodelingRequestCommandHandler: </b>Se encarga de procesar la creación de nuevas solicitudes de remodelación enviadas por los usuarios. Asigna la solicitud a una empresa de remodelación y actualiza el estado de la solicitud correspondiente.
+</li>
+<li>
+    <b>UpdateRequestStatusCommandHandler: </b>Maneja comandos para modificar el estado de una solicitud específica. Permite que los usuarios actualicen el estado de sus solicitudes de remodelación.
+</li> <br>
+
+<p><b>Event Handlers: </b></p>
+
+<li>
+    <b>RequestCreatedEventHandler: </b>Responde a eventos que indican la creación de una nueva solicitud de remodelación. Notifica a los usuarios interesados y actualiza el estado de la solicitud en la base de datos.
+</li>
+<li>
+    <b>RequestStatusUpdatedEventHandler: </b>Maneja eventos relacionados con cambios en el estado de una solicitud. Proporciona notificaciones en tiempo real a los usuarios y emite eventos de seguimiento para mantenerlos informados.
+</li> <br>
+
+</div>
+
 ##### 5.3.4. Infrastructure Layer
 
 <div align = justify>
@@ -448,6 +494,30 @@ El controlador de dispositivos se encargará de gestionar todas las operaciones 
 </div>
 
 ##### 5.4.3. Application Layer
+
+<div align =justify>
+
+<p>En el contexto de "Smart Home Project Management," el Application Layer se adapta para ofrecer una experiencia móvil a los usuarios. Permite a los usuarios vincular dispositivos inteligentes a proyectos de remodelación específicos y gestionar estos dispositivos desde la aplicación móvil. Los usuarios pueden encender, apagar y ajustar la configuración de los dispositivos a través de la interfaz móvil. Además, se generan eventos para reflejar los cambios de estado de los dispositivos y proporcionar notificaciones a los usuarios móviles.</p>
+
+<p><b>Command Handlers:</b></p>
+
+<li>
+    <b>LinkDeviceToProjectCommandHandler: </b>Procesa comandos para vincular dispositivos inteligentes a proyectos de remodelación específicos en ModelHouse. Actualiza la información de asociación en la base de datos para reflejar estos cambios.
+</li>
+<li>
+    <b>ManageDeviceCommandHandler: </b>Permite a los usuarios administrar dispositivos inteligentes dentro de sus proyectos de remodelación. Permite operaciones como encender, apagar o ajustar la configuración de los dispositivos.
+</li> <br>
+
+<p><b>Event Handlers:</b></p>
+
+<li>
+    <b>DeviceLinkedToProjectEventHandler: </b>Responde a eventos que indican la vinculación exitosa de un dispositivo inteligente a un proyecto de remodelación. Actualiza el estado de los dispositivos y los proyectos en la base de datos.
+</li>
+<li>
+    <b>DeviceStatusUpdatedEventHandler: </b>Maneja eventos relacionados con cambios en el estado de los dispositivos inteligentes, como encendido, apagado o cambios de configuración. Proporciona notificaciones a los usuarios y actualiza el estado en tiempo real.
+</li><br>
+
+</div>
 
 ##### 5.4.4. Infrastructure Layer
 
