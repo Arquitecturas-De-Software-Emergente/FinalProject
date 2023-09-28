@@ -430,7 +430,7 @@ El controlador de dispositivos se encargará de gestionar todas las operaciones 
 
 ##### 5.4.5. Bounded Context Software Architecture Component Level Diagrams
 <center>
-            <img src="../images/structurizr-86418-Identity and Access Management Component.png">
+            <img src="../images/structurizr-86418-Smart Home Project Management Component Diagram.png">
     </center>
 
 ##### 5.4.6. Bounded Context Software Architecture Code Level Diagrams
