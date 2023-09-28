@@ -417,13 +417,13 @@
 
     - Wireframe
 
-    1. Sing In (Inicio de Sesión)
+    1. Sign In (Inicio de Sesión)
 
     <image
         src="../images/Sign In.png"
         alt="">
 
-        2. Sing Up (Registro)
+        2. Sign Up (Registro)
 
     <image
         src="../images/SignUp.png"
@@ -435,7 +435,7 @@
         src="../images/Requests.png"
         alt="">
 
-        4. Proporsal (Propuesta)
+        4. Proposal (Propuesta)
 
     <image
         src="../images/Proposal.png"
@@ -464,13 +464,13 @@
 
   - Wireframe
 
-        1. Sing In (Inicio de Sesión)
+        1. Sign In (Inicio de Sesión)
 
     <image
         src="../images/Sign-In-Wireframe.png"
         alt="">
 
-        2. Sing In (Registro)
+        2. Sign In (Registro)
 
     <image
         src="../images/Sign-up-Wireframe.png"
