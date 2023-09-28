@@ -442,3 +442,23 @@
     <image
         src="../images/Request-Wireframe.png"
         alt="">
+
+         5. Send Requests (Enviar Solicitud)
+
+    <image
+        src="../images/send_request.png"
+        alt="">
+
+        6. Find Device (Buscar dispositivo)
+
+    <image
+        src="../images/find_device.png"
+        alt="">
+
+        7. Device Configuration (Configurar dispositivo)
+
+    <image
+        src="../images/device_configuration.png"
+        alt="">
+        
+
