@@ -107,6 +107,11 @@
 
 ###### 5.1.6.2. Bounded Context Database Design Diagram
 
+<center>
+              <img src="../images/payment db.png">
+    </center>
+
+
 #### 5.2. Bounded Context: Identity Access Management
 
 ##### 5.2.1. Domain Layer
@@ -215,6 +220,11 @@
     </center>
 
 ###### 5.2.6.2. Bounded Context Database Design Diagram
+
+<center>
+            <img src="../images/identity management db.png">
+    </center>
+
 
 #### 5.3. Bounded Context: Service Management
 
@@ -342,7 +352,7 @@
 ###### 5.3.6.1. Bounded Context Domain Layer Class Diagrams
 
 <center>
-            <img src="../images/service management class.png">
+            <img src="../images/service Management db.png">
     </center>
 
 ###### 5.3.6.2. Bounded Context Database Design Diagram
@@ -424,7 +434,7 @@ El controlador de dispositivos se encargará de gestionar todas las operaciones 
 ###### 5.4.6.1. Bounded Context Domain Layer Class Diagrams
 
 <center>
-            <img src="../images/Smart home management class.png">
+            <img src="../images/Smart home db.png">
     </center>
 
 
