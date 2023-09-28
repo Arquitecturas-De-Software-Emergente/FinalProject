@@ -430,7 +430,7 @@
             <img src="../images/service Management db.png">
     </center>
 
-#### 5.4. Bounded Context: Smart Home Project management
+#### 5.4. Bounded Context: Smart Home Project Management
 
 ##### 5.4.1. Domain Layer
 
