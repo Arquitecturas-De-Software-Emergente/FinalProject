@@ -72,7 +72,7 @@
 
 <li>
     <b>SubscriptionsController: </b>Esta clase se encarga de gestionar las suscripciones de los usuarios. Permite a los usuarios ver sus suscripciones activas, actualizar la información de pago asociada a sus suscripciones y gestionar renovaciones automáticas o cancelaciones de suscripciones.
-</li>
+</li> <br>
 
 </div>
 
@@ -80,202 +80,284 @@
 
 ##### 5.1.4. Infrastructure Layer
 
-##### 5.1.6. Bounded Context Software Architecture Component Level Diagrams
+##### 5.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-##### 5.1.7. Bounded Context Software Architecture Code Level Diagrams
+##### 5.1.6. Bounded Context Software Architecture Code Level Diagrams
 
-###### 5.1.7.1. Bounded Context Domain Layer Class Diagrams
+###### 5.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-###### 5.1.7.2. Bounded Context Database Design Diagram
+###### 5.1.6.2. Bounded Context Database Design Diagram
 
-## 5.2. Bounded Context: 
-### Bounded Context: Identity Access Management
+#### 5.2. Bounded Context: Identity Access Management
 
-### 5.2.1. Domain Layer
+##### 5.2.1. Domain Layer
 
-### Entidades de dominio
+<p><b>Entidades de dominio</b></p>
 
-•	Account: Representa una cuenta de usuario en el sistema.
+<li>
+    <b>Account: </b>Representa una cuenta de usuario en el sistema.
+</li>
 
-.   UserProfile: Representa un perfil de usuario en el sistema.
+<li>
+    <b>UserProfile: </b>Representa un perfil de usuario en el sistema.
+</li>
 
-.   BusinessProfile: Representa un perfil empresarial en el sistema proporcionado a rais de una suscripción.
+<li>
+    <b>BusinessProfile: </b>Representa un perfil empresarial en el sistema proporcionado a rais de una suscripción.
+</li>
 
-.   Projects: Representa un proyecto creado a partir de la conclusion de un servicio de proyecto.
+<li>
+    <b>Projects: </b>Representa un proyecto creado a partir de la conclusion de un servicio de proyecto.
+</li> <br>
 
-### Agregados
-•	Autenticador: Maneja la autenticación de los usuarios, verificando sus credenciales y emitiendo tokens de acceso.
+<p><b>Agregados</b></p>
 
-•	Autorizador: Maneja la autorización de los usuarios, verificando que tienen los permisos necesarios para realizar una acción en
+<li>
+    <b>Autenticador: </b>Maneja la autenticación de los usuarios, verificando sus credenciales y emitiendo tokens de acceso.
+</li>
 
-### Repositorios
+<li>
+    <b>Autorizador: </b>Maneja la autorización de los usuarios, verificando que tienen los permisos necesarios para realizar una acción en
+</li> <br>
 
-•	AccountRepository: Maneja la persistencia de las cuentas de usuario.
+<p><b>Repositorios</b></p>
 
-•	Servicios de dominio
+<li>
+    <b>AccountRepository: </b>Maneja la persistencia de las cuentas de usuario.
+</li>
 
-•	UserProfileRepository: Maneja la persistencia de los perfiles de usuario.
+<li>
+    <b>Servicios de dominio</b>
+</li>
 
-•	BusinessProfileRepository: Maneja la persistencia de los perfiles empresariales.
+<li>
+    <b>UserProfileRepository: </b>Maneja la persistencia de los perfiles de usuario.
+</li>
 
-•	ProjectsRepository: Maneja la persistencia de los proyectos realizados.
+<li>
+    <b>BusinessProfileRepository: </b>Maneja la persistencia de los perfiles empresariales.
+</li>
 
-### 5.2.2. Interface Layer
+<li>
+    <b>ProjectsRepository: </b>Maneja la persistencia de los proyectos realizados.
+</li> <br>
+
+##### 5.2.2. Interface Layer
+
 <div align=justify>
-- AccountController:
 
-El AccountController maneja las operaciones relacionadas con la gestión de cuentas de usuario, como la creación de cuentas, la autenticación y el cierre de sesiones.
+<li>
+    <b>AccountController: </b>El AccountController maneja las operaciones relacionadas con la gestión de cuentas de usuario, como la creación de cuentas, la autenticación y el cierre de sesiones.
+</li> <br>
 
-- BusinessProfileController:
+<li>
+    <b>BusinessProfileController: </b>Esta clase se encarga de gestionar los perfiles empresariales en el contexto de Identity Access Management, lo que incluye crear y actualizar perfiles empresariales y definir roles y permisos relacionados con la empresa.
+</li> <br>
 
-Esta clase se encarga de gestionar los perfiles empresariales en el contexto de Identity Access Management, lo que incluye crear y actualizar perfiles empresariales y definir roles y permisos relacionados con la empresa.
+<li>
+    <b>ProjectController: </b>El ProjectController gestiona las operaciones relacionadas con la gestión de proyectos dentro del contexto de Identity Access Management, permitiendo a los usuarios crear, editar y administrar proyectos.
+</li> <br>
 
-- ProjectController:
+<li>
+    <b>UserController: </b>Esta clase maneja las operaciones de gestión de usuarios, incluyendo el registro, autenticación, actualización de perfiles y eliminación de cuentas.
+</li> <br>
 
-El ProjectController gestiona las operaciones relacionadas con la gestión de proyectos dentro del contexto de Identity Access Management, permitiendo a los usuarios crear, editar y administrar proyectos.
+<li>
+    <b>UserProfileController: </b>El UserProfileController está encargado de las operaciones específicas relacionadas con los perfiles de usuario, como la actualización de la información personal del usuario.
+</li> <br>
 
-- UserController:
-
-Esta clase maneja las operaciones de gestión de usuarios, incluyendo el registro, autenticación, actualización de perfiles y eliminación de cuentas.
-
-- UserProfileController:
-
-El UserProfileController está encargado de las operaciones específicas relacionadas con los perfiles de usuario, como la actualización de la información personal del usuario.
 </div>
 
-### 5.2.3. Application Layer
+##### 5.2.3. Application Layer
 
-### 5.2.4. Infrastructure Layer
+##### 5.2.4. Infrastructure Layer
 
-### 5.2.6. Bounded Context Software Architecture Component Level Diagrams
+##### 5.2.5. Bounded Context Software Architecture Component Level Diagrams
 
-### 5.2.7. Bounded Context Software Architecture Code Level Diagrams
+##### 5.2.6. Bounded Context Software Architecture Code Level Diagrams
 
-#### 5.2.7.1. Bounded Context Domain Layer Class Diagrams
+###### 5.2.6.1. Bounded Context Domain Layer Class Diagrams
 
-#### 5.2.7.2. Bounded Context Database Design Diagram
+###### 5.2.6.2. Bounded Context Database Design Diagram
 
-## 5.3. Bounded Context: 
-### Bounded Context: Service Management
+#### 5.3. Bounded Context: Service Management
 
-### 5.3.1. Domain Layer
+##### 5.3.1. Domain Layer
 
-### Entidades de dominio
+<div align = justify>
 
-•	Requests: Representa una solicitud de servicio de remodelación.
+<p><b>Entidades de dominio</b></p>
 
-.   Notification: Representa una notificación enviada tras relizarse alguna interacción den solicitud, propuesta o servicio de proyecto.
+<li>
+    <b>Request: </b>Representa una solicitud de servicio de remodelación.
+</li>
 
-.   Reviews: Representa una reseña realizada por un usuario sobre un servicio de proyecto.
+<li>
+    <b>Notification: </b>Representa una notificación enviada tras relizarse alguna interacción den solicitud, propuesta o servicio de proyecto.
+</li>
 
-.   Proposals: Representa una propuesta realizada por una empresa de servicios sobre una solicitud de servicio.
+<li>
+    <b>Reviews: </b>Representa una reseña realizada por un usuario sobre un servicio de proyecto.
+</li>
 
-.   ServiceProject: Representa un servicio de proyecto realizado por una empresa de servicios.
+<li>
+    <b>Proposals: </b>Representa una propuesta realizada por una empresa de servicios sobre una solicitud de servicio.
+</li>
 
-.   ProjectResource: Representa un recurso o activo utilizado en un servicio de proyecto.
+<li>
+    <b>ServiceProject: </b>Representa un servicio de proyecto realizado por una empresa de servicios.
+</li>
 
-.   ProjectActivity: Representa una actividad realizada en un servicio de proyecto.
+<li>
+    <b>ProjectResource: </b>Representa un recurso o activo utilizado en un servicio de proyecto.
+</li>
 
-### Repositorios
-    Repository
+<li>
+    <b>ProjectActivity: </b>Representa una actividad realizada en un servicio de proyecto.
+</li> <br>
 
-•	RequestsRepository: Maneja la persistencia de las suscripciones.
+<p><b>Repositorios</b></p>
 
-•	Servicios de dominio
+<li>
+    <b>RequestsRepository: </b>Maneja la persistencia de las suscripciones.
+</li>
 
-•	NotificationRepository: Maneja la persistencia de los pagos.
+<li>
+    <b>Servicios de dominio</b>
+</li>
 
-•	ReviewsRepository: Maneja la persistencia de los planes de suscripción.
+<li>
+    <b>NotificationRepository: </b>Maneja la persistencia de los pagos.
+</li>
 
-•	ProposalsRepository: Maneja la persistencia de las suscripciones.
+<li>
+    <b>ReviewsRepository: </b>Maneja la persistencia de los planes de suscripción.
+</li>
 
-•	ServiceProjectRepository: 
+<li>
+    <b>ProposalsRepository: </b>Maneja la persistencia de las suscripciones.
+</li>
 
-•	ProjectResourceRepository: Maneja la persistencia de los pagos.
+<li>
+    <b>ServiceProjectRepository</b>
+</li>
 
-•	ProjectActivityRepository: Maneja la persistencia de los planes de suscripción.
+<li>
+    <b>ProjectResourceRepository: </b>Maneja la persistencia de los pagos.
+</li>
 
-### 5.3.2. Interface Layer
-<div align=justify>
-- ProjectActivityController:
+<li>
+    <b>ProjectActivityRepository: </b>Maneja la persistencia de los planes de suscripción.
+</li> <br>
 
-Esta clase gestiona las actividades relacionadas con proyectos en el contexto de Service Management, permitiendo la creación, edición y seguimiento de actividades asociadas a proyectos.
-
-- ProjectResourceController:
-
-El ProjectResourceController está encargado de la gestión de recursos o activos relacionados con proyectos, como la asignación de recursos a proyectos específicos.
-
-- ProposalController:
-
-Esta clase gestiona las propuestas relacionadas con proyectos o servicios, incluyendo la creación, revisión y aceptación de propuestas.
-
-- RequestController:
-
-El RequestController maneja las solicitudes de servicio o proyectos, permitiendo a los usuarios crear solicitudes, realizar seguimiento y recibir respuestas de proveedores de servicios.
 </div>
 
-### 5.3.3. Application Layer
+##### 5.3.2. Interface Layer
 
-### 5.3.4. Infrastructure Layer
-
-### 5.3.6. Bounded Context Software Architecture Component Level Diagrams
-
-### 5.3.7. Bounded Context Software Architecture Code Level Diagrams
-
-#### 5.3.7.1. Bounded Context Domain Layer Class Diagrams
-
-#### 5.3.7.2. Bounded Context Database Design Diagram
-
-## 5.4. Bounded Context:
-### Bounded Context: Smart Home Project management
-
-### 5.4.1. Domain Layer
-
-### Entidades de dominio
-
-•	Device: Representa un dispositivo a partir de la instalación de un servicio de proyecto.
-
-.   Routine: Representa una rutina realizada por un usuario a partir de un dispositivo instalado.
-
-.   Room: Representa una habitación de una casa a donde está instalado el dispositivo.
-
-### Repositorios
-
-•	Servicios de dominio
-
-•	DeviceRepository: Maneja la persistencia de las suscripciones.
-
-•	RoutineRepository: Maneja la persistencia de los pagos.
-
-•	RoomRepository: Maneja la persistencia de los planes de suscripción.
-
-### 5.4.2. Interface Layer
 <div align=justify>
-- ProjectActivityController:
 
-Esta clase gestiona las actividades relacionadas con proyectos en el contexto de Service Management, permitiendo la creación, edición y seguimiento de actividades asociadas a proyectos.
+<li> 
+    <b>ProjectActivityController: </b>Esta clase gestiona las actividades relacionadas con proyectos en el contexto de Service Management, permitiendo la creación, edición y seguimiento de actividades asociadas a proyectos.
+</li> <br>
 
-- ProjectResourceController:
+<li> 
+    <b>ProjectResourceController: </b>El ProjectResourceController está encargado de la gestión de recursos o activos relacionados con proyectos, como la asignación de recursos a proyectos específicos.
+</li> <br>
 
-El ProjectResourceController está encargado de la gestión de recursos o activos relacionados con proyectos, como la asignación de recursos a proyectos específicos.
+<li> 
+    <b>ProposalController: </b>Esta clase gestiona las propuestas relacionadas con proyectos o servicios, incluyendo la creación, revisión y aceptación de propuestas.
+</li> <br>
 
-- ProposalController:
+<li> 
+    <b>RequestController: </b>El RequestController maneja las solicitudes de servicio o proyectos, permitiendo a los usuarios crear solicitudes, realizar seguimiento y recibir respuestas de proveedores de servicios.
+</li> <br>
 
-Esta clase gestiona las propuestas relacionadas con proyectos o servicios, incluyendo la creación, revisión y aceptación de propuestas.
-
-- RequestController:
-
-El RequestController maneja las solicitudes de servicio o proyectos, permitiendo a los usuarios crear solicitudes, realizar seguimiento y recibir respuestas de proveedores de servicios.
 </div>
 
-### 5.4.3. Application Layer
+##### 5.3.3. Application Layer
 
-### 5.4.4. Infrastructure Layer
+##### 5.3.4. Infrastructure Layer
 
-### 5.4.6. Bounded Context Software Architecture Component Level Diagrams
+##### 5.3.5. Bounded Context Software Architecture Component Level Diagrams
 
-### 5.4.7. Bounded Context Software Architecture Code Level Diagrams
+##### 5.3.6. Bounded Context Software Architecture Code Level Diagrams
 
-#### 5.4.7.1. Bounded Context Domain Layer Class Diagrams
+###### 5.3.6.1. Bounded Context Domain Layer Class Diagrams
 
-#### 5.4.7.2. Bounded Context Database Design Diagram
+###### 5.3.6.2. Bounded Context Database Design Diagram
+
+#### 5.4. Bounded Context: Smart Home Project management
+
+##### 5.4.1. Domain Layer
+
+<div align = justify>
+
+<p><b>Entidades de dominio</b></p>
+
+<li>
+    <b>Device: </b>Representa un dispositivo a partir de la instalación de un servicio de proyecto.
+</li>
+
+<li>
+    <b>Routine: </b>Representa una rutina realizada por un usuario a partir de un dispositivo instalado.
+</li>
+
+<li>
+    <b>Room: </b>Representa una habitación de una casa a donde está instalado el dispositivo.
+</li> <br>
+  
+
+<p><b>Repositorios</b></p>
+
+<li>
+    <b>Servicios de dominio</b>
+</li>
+
+<li>
+    <b>DeviceRepository: </b>Maneja la persistencia de las suscripciones.
+</li>
+
+<li>
+    <b>RoutineRepository: </b>Maneja la persistencia de los pagos.
+</li>
+
+<li>
+    <b>RoomRepository: </b>Maneja la persistencia de los planes de suscripción.
+</li> <br>
+
+</div>
+
+##### 5.4.2. Interface Layer
+
+<div align=justify>
+
+<li>
+    <b>ProjectActivityController: </b>Esta clase gestiona las actividades relacionadas con proyectos en el contexto de Service Management, permitiendo la creación, edición y seguimiento de actividades asociadas a proyectos.
+</li> <br>
+
+<li>
+    <b>ProjectResourceController: </b>El ProjectResourceController está encargado de la gestión de recursos o activos relacionados con proyectos, como la asignación de recursos a proyectos específicos.
+</li> <br>
+
+<li>
+    <b>ProposalController: </b>Esta clase gestiona las propuestas relacionadas con proyectos o servicios, incluyendo la creación, revisión y aceptación de propuestas.
+</li> <br>
+
+<li>
+    <b>RequestController:</b>El RequestController maneja las solicitudes de servicio o proyectos, permitiendo a los usuarios crear solicitudes, realizar seguimiento y recibir respuestas de proveedores de servicios.
+</li> <br>
+
+
+</div>
+
+##### 5.4.3. Application Layer
+
+##### 5.4.4. Infrastructure Layer
+
+##### 5.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+##### 5.4.6. Bounded Context Software Architecture Code Level Diagrams
+
+###### 5.4.6.1. Bounded Context Domain Layer Class Diagrams
+
+###### 5.4.6.2. Bounded Context Database Design Diagram
