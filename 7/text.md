@@ -252,9 +252,78 @@ Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en
         <img align = middle src = "../images/EvidenciaSprintBacklog.png">
     </center>
 </p>
+
 ###### 7.2.1.4. Testing Suite Evidence for Sprint Review
 
+<div style="text-align: justify align-items: center">
+<table>
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit Id</th>
+            <th>Commit Mesagge Body</th>
+            <th>Commited on (Date)</th>
+        </tr>
+        <tr>
+            <th>
+                <a href="https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV2">https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV2</a>
+            </th>
+            <th>main</th>
+            <th>c8f4600a4fbee7f2b25f221bd7c1ccc6234b5357</th>
+            <th>Merge branch 'master' of https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV2</th>
+            <th>03/11/2023</th>
+        </tr>
+        <tr>
+            <th>
+                <a href="https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV1">https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV1</a>
+            </th>
+            <th>main</th>
+            <th>ce58a230fd6667022c3f4a677b1274b96a74774b</th>
+            <th>feat: added package-lock json</th>
+            <th>03/11/2023</th>
+        </tr>
+    </thead>
+</table>
+</div>
+
 ###### 7.2.1.5. Execution Evidence for Sprint Review.
+
+<div style="text-align: justify align-items: center">
+    <b>Security:</b><br>
+    <center>
+        <img align = middle src = "../images/Sec1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Sec2.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Sec3.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Sec4.png">
+    </center><br>
+    <b>Service Management:</b><br>
+    <center>
+        <img align = middle src = "../images/SM1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SM2.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SM3.png">
+    </center><br>
+    <b>Mobile app:</b>
+    <center>
+        <img align = middle src = "../images/Movil1.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil2.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil3.jpeg">
+    </center><br>
+</div>
 
 ###### 7.2.1.6. Services Documentation Evidence for Sprint Review
 
