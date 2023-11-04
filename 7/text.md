@@ -236,7 +236,16 @@ src
 ###### 7.2.1.6. Services Documentation Evidence for Sprint Review
 
 ###### 7.2.1.7. Software Deployment Evidence for Sprint Review
+Para el despliegue se utilizó una máquina virtual para su persistencia considerando una arquitectura modular. También se ha desarrollado el frotend del web y móvil.
 
+Despliegue del backend:
+http://modelhouse0.westus3.cloudapp.azure.com:8080/security/swagger-ui/index.html#/
+http://modelhouse0.westus3.cloudapp.azure.com:8081/service-management/swagger-ui/index.html#/ 
+http://modelhouse0.westus3.cloudapp.azure.com:8082/subscription-payment/swagger-ui/index.html#/
+Despliegue del frontend web:
+https://kaleidoscopic-bublanina-08fd5d.netlify.app
+Despliegue del frontend móvil:
+https://drive.google.com/file/d/1nR_UX8ezpHOfDGaK2Tb7lVoBrTcrIgl0/view?usp=sharing
 ###### 7.2.1.8. Team Collaboration Insights during Sprint
 
 #### 7.3. Validation Interviews
