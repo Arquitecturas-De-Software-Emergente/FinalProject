@@ -299,6 +299,8 @@ https://arquitecturas-de-software-emergente.github.io/LandingPage/
 </p>
 
 #### 7.3. Validation Interviews
+
+##### 7.3.1. Diseño de Entrevistas
 Las entrevistas a realizar sobre "Validation", se harán presentándole al usuario nuestra solución. Se le explicará la funcionalidad y se pedirá que use y navegue dentro de esta, para de esta manera realizar las validaciones con los usuarios. Las preguntas son las siguientes:
 ## Preguntas generales a la empresa:
 1.	¿Cuál es la visión y el objetivo principal de la aplicación intermedia que conecta empresas de remodelación y sus clientes?
@@ -334,7 +336,7 @@ Las entrevistas a realizar sobre "Validation", se harán presentándole al usuar
 8.	¿Qué información personal estás dispuesto a compartir en la aplicación para recibir servicios de remodelación?
 9.	¿Cómo te gustaría que se gestionen las citas o programaciones de trabajos con las empresas de remodelación?
 10.	¿Tienes alguna preferencia en cuanto a la forma en que se autenticarán y protegerán tus datos en la aplicación?
-##### 7.3.1. Diseño de Entrevistas
+
 
 ##### 7.3.2. Registro de Entrevistas
 
