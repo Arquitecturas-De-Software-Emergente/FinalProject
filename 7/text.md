@@ -259,6 +259,30 @@ Para el despliegue se utilizó una máquina virtual para su persistencia conside
 - https://drive.google.com/file/d/1nR_UX8ezpHOfDGaK2Tb7lVoBrTcrIgl0/view?usp=sharing
 ###### 7.2.1.8. Team Collaboration Insights during Sprint
 
+## Networking del backend:
+
+<p>
+    <center>
+        <img align = middle src = "../images/network-backend.png">
+    </center>
+</p>
+
+## Networking del frontend web:
+
+<p>
+    <center>
+        <img align = middle src = "../images/network-frontend-web.png">
+    </center>
+</p>
+
+## Networking del frontend móvil:
+
+<p>
+    <center>
+        <img align = middle src = "../images/network-frontend-movil.png">
+    </center>
+</p>
+
 #### 7.3. Validation Interviews
 
 ##### 7.3.1. Diseño de Entrevistas
