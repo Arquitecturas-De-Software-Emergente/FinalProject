@@ -488,6 +488,108 @@
         src="../images/Request-Wireframe.png"
         alt="">
 
+*************
 
-        
+##### 6.4.3. Applications Mock-ups
 
+- Mobile: https://www.figma.com/file/kivHthcakDSaRzEzV8ffwD/Model-House?type=design&node-id=236%3A1850&mode=design&t=1xxiJXoh6qcg2kkJ-1
+
+<div>
+    <center>
+        <img align = middle src = "../images/mockups-mobile.png">
+    </center>
+</div>
+
+#
+
+- Web: https://www.figma.com/file/KMrE6lFAp7kPnFdC7w5Oi3/Untitled?type=design&node-id=1%3A2&mode=design&t=vrWGe1mWKnRxxCGI-1
+
+<div>
+    <center>
+        <img align = middle src = "../images/mockups-web.png">
+    </center>
+</div>
+
+##### 6.4.4. Applications User Flows Diagrams
+
+- Mobile
+
+    - User Flows
+
+    1. Sign In (Inicio de Sesión)
+
+    <image
+        src="../images/mockups/Sign In-Mock.png"
+        alt="">
+
+        2. Sign Up (Registro)
+
+    <image
+        src="../images/mockups/SignUp-Mock.png"
+        alt="">
+
+        3. Request (Solicitud)
+
+    <image
+        src="../images/mockups/Requests-Mock.png"
+        alt="">
+
+        4. Proposal (Propuesta)
+
+    <image
+        src="../images/mockups/Proposal-Mock.png"
+        alt="">
+
+         5. Send Requests (Enviar Solicitud)
+
+    <image
+        src="../images/mockups/send request-Mock.png"
+        alt="">
+
+        6. Find Device (Buscar dispositivo)
+
+    <image
+        src="../images/mockups/find device-Mock.png"
+        alt="">
+
+        7. Device Configuration (Configurar dispositivo)
+
+    <image
+        src="../images/mockups/device configuration-Mock.png"
+        alt="">
+
+
+- Web
+
+  - User Flows
+
+        1. Sign In (Inicio de Sesión)
+
+    <image
+        src="../images/mockups/Sign-In.png"
+        alt="">
+
+        2. Sign In (Registro)
+
+    <image
+        src="../images/mockups/Sign-up.png"
+        alt="">
+
+        3. Profile (Edición de Perfil)
+
+    <image
+        src="../images/mockups/Profile.png"
+        alt="">
+
+        4. Request (Solicitud)
+
+    <image
+        src="../images/mockups/Request.png"
+        alt="">
+
+
+#### 6.5. Applications Prototyping
+
+ <image
+        src="../images/mockups/Prototype.png"
+        alt="">
