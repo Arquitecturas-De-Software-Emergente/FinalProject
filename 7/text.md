@@ -237,25 +237,26 @@ Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en
 
 
 ###### 7.2.1.2. Sprint Backlog 1
-| Sprint 1 | User Story                | Work - item / Task | ID  | Title                             | Description                                               | Estimation (Hours) | Assigned To       | Status |
-|----------|---------------------------|--------------------|-----|-----------------------------------|-----------------------------------------------------------|--------------------|-------------------|--------|
-|          | US02                      | Registro en la aplicación | Task01 | Creación de la entidad, User    | Se creará la capa de persistencia, servicios y controlador de la entidad User | 1h | Luis Li | To do |
-|          | HU03                      | Publicar empresa          | WI03 | Publicación y creación de empresas | Se permite crear un perfil de empresa                          | 3H | Sebastián Vivanco | Done   |
-|          | HU04                      | Editar información de empresa | WI04 | Se permite editar información del perfil empresa | El usuario empresa puede editar su información       | 3H | Sebastián Vivanco | To do |
-|          | HU05                      | Crear cuenta como cliente | WI05 | Register para cliente            | El cliente puede crear su cuenta en la aplicación           | 4H | Sebastián Vivanco | Done   |
-|          | US14                      | Editar perfil             | Task01 | Añadir la función para editar los datos | Se implementará la funcionalidad para editar los datos del perfil | 1h | Luis Li | To do |
+| Sprint 1 | User Story                | Work - item / Task | ID  | Title                             | Description                                               | Estimation (Hours) | Assigned To      | Status |
+|----------|---------------------------|--------------------|-----|-----------------------------------|-----------------------------------------------------------|--------------------|------------------|--------|
+|          | US02                      | Registro en la aplicación | Task01 | Creación de la entidad, User    | Se creará la capa de persistencia, servicios y controlador de la entidad User | 1h | Luis Li          | To do |
+|          | HU03                      | Publicar empresa          | WI03 | Publicación y creación de empresas | Se permite crear un perfil de empresa                          | 3H | Diego Porta      | Done   |
+|          | HU04                      | Editar información de empresa | WI04 | Se permite editar información del perfil empresa | El usuario empresa puede editar su información       | 3H | Miguel García    | To do |
+|          | HU05                      | Crear cuenta como cliente | WI05 | Register para cliente            | El cliente puede crear su cuenta en la aplicación           | 4H | Jasmin Pomasonco | Done   |
+|          | US14                      | Editar perfil             | Task01 | Añadir la función para editar los datos | Se implementará la funcionalidad para editar los datos del perfil | 1h | Luis Li          | To do |
 
 
 ###### 7.2.1.3. Development Evidence for Sprint Review
-<p>
-    <center>
-        <img align = middle src = "../images/EvidenciaSprintBacklog.png">
-    </center>
-</p>
+| Repository                                                                                                    | Branch | Commit Id                                      | Commit Message                    | Committed on (Date) |
+|---------------------------------------------------------------------------------------------------------------|--------|-----------------------------------------------|-----------------------------------|----------------------|
+| [Arquitecturas-De-Software-Emergente/ModelHouseV1](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV1)      | main   | 64b38cbaf292294147e44f6fb9ed323718f14600 | Merge pull request #8 from Model-House/develop | 05/05/2023           |
+| [Arquitecturas-De-Software-Emergente/ModelHouseV2](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV2)       | main   | 5bcc5b602d412d2d9df190269725a5ca71b5879a | Merge pull request #4 from Model-House/develop | 05/05/2023           |
+| [Arquitecturas-De-Software-Emergente/LandingPage](https://github.com/Arquitecturas-De-Software-Emergente/LandingPage) | main   | 5bcc5b602d412d2d9df190269725a5ca71b5879a | Merge pull request #4 from Model-House/develop | 05/05/2023           |
+
 
 ###### 7.2.1.4. Testing Suite Evidence for Sprint Review
 
-<div style="text-align: justify align-items: center">
+<div style="text-align: justify; align-items: center">
 <table>
     <thead>
         <tr>
@@ -289,7 +290,7 @@ Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en
 
 ###### 7.2.1.5. Execution Evidence for Sprint Review.
 
-<div style="text-align: justify align-items: center">
+<div style="text-align: justify; align-items: center">
     <b>Security:</b><br>
     <center>
         <img align = middle src = "../images/Sec1.png">
@@ -408,7 +409,177 @@ Las entrevistas a realizar sobre "Validation", se harán presentándole al usuar
 
 
 ##### 7.3.2. Registro de Entrevistas
+### 2.2.2 Registro de entrevistas
 
-##### 7.3.3. Evaluaciones según heurísticas
+**Usuario cliente**
+
+**Entrevista 1**
+
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Edad</th>
+        <th>Distrito</th>
+    </tr>
+    <tr>
+        <td>Eduardo</td>
+        <td>-</td>
+        <td>25 años</td>
+        <td>El Agustino</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><img src="../images/Entrevista1_jasmin.png"></td>
+    </tr>
+    <tr>
+        <td colspan="4">URL: <a href="https://www.youtube.com/watch?v=h5nkNlMRuy4">https://www.youtube.com/watch?v=h5nkNlMRuy4</a></td>
+    </tr>
+    <tr> <td colspan="4" align="justify">
+      Eduardo en remodelar de inmueble que recien se encuentra conociendo en el mercado, al mostrar la aplicación el nos comenta que la aplicación deber ser mas vistosa y que debe contener más imágenes, ademas que se deben clasificar los proyecto porque tan grande puede ser este. 
+También nos recomienda que debe funcionar de manera fluida que con alertas que le indique cuál es el uso de cada funcionalidad.
+</td> </tr>
+</table>
+
+**Entrevista 2**
+
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Edad</th>
+        <th>Distrito</th>
+    </tr>
+    <tr>
+        <td>Daniel</td>
+        <td> - </td>
+        <td>26 años</td>
+        <td>San Borja</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><img src="../images/EntrevistaLuis1.png"></td>
+    </tr>
+    <tr>
+        <td colspan="4">URL: <a href="https://youtu.be/EkHPd9EtGG0">https://youtu.be/EkHPd9EtGG0</a></td>
+    </tr>
+    <tr> <td colspan="4" align="justify">
+      Eduardo en remodelar de inmueble que recién se encuentra conociendo en el mercado, al mostrar la aplicación él nos comenta que la aplicación deber ser mas vistosa y que debe contener más imágenes, ademas que se deben clasificar los proyecto porque tan grande puede ser este. 
+También nos recomienda que debe funcionar de manera fluida que con alertas que le indique cuál es el uso de cada funcionalidad.
+</td> </tr>
+</table>
+
+# 7.3.3. Evaluaciones según heurísticas
+
+# Evaluación de Heurísticas y Principios de UX
+
+## Usabilidad, Diseño Inclusivo, y Arquitectura de la Información
+
+*Carrera:* Ingeniería de Software
+
+*Curso:* Arquitectura de Software Emergentes
+
+*Profesores:* Todos
+
+*Sitio o App a Evaluar:* ModelHouse
+
+### Tareas a Evaluar
+
+1. Botón de 'Deshacer Requests' para retroceder acciones
+2. Falta de opción clara para eliminar la cuenta del usuario
+3. Atajos de teclado y opciones avanzadas para eficiencia
+4. Acceso a tutoriales, preguntas frecuentes y chat en vivo
+5. Retroalimentación clara al completar acciones importantes
+6. Carga eficiente y respuesta rápida
+<table>
+  <tr>
+    <th>Número de Tarea</th>
+    <th>Problema</th>
+    <th>Escala de Severidad</th>
+    <th>Heurística/Principio Violado</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Botón de 'Deshacer Requests' para retroceder acciones</td>
+    <td>3</td>
+    <td>Control y libertad del usuario</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Falta de opción clara para eliminar la cuenta del usuario</td>
+    <td>4</td>
+    <td>Prevención de Errores</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Atajos de teclado y opciones avanzadas para eficiencia</td>
+    <td>2</td>
+    <td>Flexibilidad y eficiencia de uso</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Acceso a tutoriales, preguntas frecuentes y chat en vivo</td>
+    <td>2</td>
+    <td>Ayuda y documentación</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Retroalimentación clara al completar acciones importantes</td>
+    <td>1</td>
+    <td>Feedback de confirmación</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Carga eficiente y respuesta rápida</td>
+    <td>1</td>
+    <td>Eficiencia en la carga y rendimiento</td>
+</tr>
+</table>
+# Control y libertad del usuario
+
+## PROBLEMA #1:
+
+- *Severidad:* Moderada
+- *Usability:* La aplicación proporciona un botón de 'Deshacer Requests', lo que permite a los usuarios retroceder en su navegación. Sin embargo, su visibilidad y ubicación pueden ser mejoradas para hacerlo más fácilmente accesible.
+- *Problema:* El botón de 'Deshacer Requests' existe, pero su ubicación y visibilidad no son óptimas, lo que podría dificultar que los usuarios lo encuentren rápidamente.
+
+## Prevención de Errores
+
+## PROBLEMA #2:
+
+- *Severidad:* Alta
+- *Usability:* La plataforma no proporciona una forma clara y sencilla de eliminar una cuenta de usuario, lo que puede dar lugar a errores y frustración por parte de los usuarios que desean dar de baja su cuenta.
+- *Problema:* La falta de una opción clara para eliminar la cuenta de usuario puede resultar en errores y confusión para los usuarios que intentan realizar esta acción.
+
+## Flexibilidad y eficiencia de uso
+
+## PROBLEMA #3:
+
+- *Severidad:* Moderada
+- *Usability:* La aplicación web no proporciona atajos de teclado y opciones avanzadas para mejorar la eficiencia de uso, lo que podría dificultar la experiencia de usuarios experimentados.
+- *Problema:* La falta de atajos de teclado y opciones avanzadas podría reducir la eficiencia de uso para usuarios experimentados.
+
+## Ayuda y documentación
+
+## PROBLEMA #4:
+
+- *Severidad:* Baja
+- *Usability:* La aplicación web ofrece acceso a tutoriales, preguntas frecuentes y chat en vivo, lo que es positivo. Sin embargo, la visibilidad y la navegación de estos recursos podrían mejorarse para una mejor accesibilidad.
+- *Problema:* Los recursos de ayuda y documentación existen, pero su visibilidad y navegación pueden no ser óptimas, lo que podría dificultar que los usuarios encuentren la asistencia que necesitan.
+
+## Feedback de confirmación
+
+## PROBLEMA #5:
+
+- *Severidad:* Moderada
+- *Usability:* La aplicación proporciona retroalimentación clara al completar acciones importantes, lo que es positivo. Sin embargo, esta retroalimentación podría ser más destacada y visible.
+- *Problema:* La retroalimentación al completar acciones importantes es proporcionada, pero su visibilidad podría mejorarse para asegurarse de que los usuarios comprendan que la acción se ha realizado con éxito.
+
+## Eficiencia en la carga y rendimiento
+
+## PROBLEMA #6:
+
+- *Severidad:* Alta
+- *Usability:* La aplicación web no carga de manera eficiente ni responde rápidamente, lo que puede afectar negativamente la usabilidad.
+- *Problema:* Los tiempos de carga largos y los retrasos en la respuesta de la aplicación afectan negativamente la usabilidad, lo que puede resultar en una experiencia frustrante para los usuarios.
 
 ##### 7.4. Video About-the-Product
+Link: 
