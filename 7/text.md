@@ -313,7 +313,14 @@ Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en
     <center>
         <img align = middle src = "../images/SM3.png">
     </center><br>
-    <b>Mobile app:</b>
+    <b>Subscription Payment:</b><br>
+    <center>
+        <img align = middle src = "../images/SP1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SP2.png">
+    </center><br>
+    <b>Mobile app:</b><br>
     <center>
         <img align = middle src = "../images/Movil1.jpeg">
     </center><br>
@@ -323,9 +330,68 @@ Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en
     <center>
         <img align = middle src = "../images/Movil3.jpeg">
     </center><br>
+    <b>Web app:</b><br>
+    <center>
+        <img align = middle src = "../images/Web1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web2.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web3.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web4.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web5.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web6.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web7.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web8.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web9.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web10.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web11.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web12.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web13.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web14.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web15.png">
+    </center><br>
 </div>
 
 ###### 7.2.1.6. Services Documentation Evidence for Sprint Review
+
+<div>
+    <p>Entre ellos el core principal de negocio son los orders que son las solicitudes de servicio de remodelación del cliente aceptadas y los projects son los proyectos mostrados en su información de perfil detallada por parte de las empresas para captar la atención de sus clientes potenciales.</p><br>
+    <center>
+        <img align = middle src = "../images/SM1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SM2.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SM3.png">
+    </center><br>
+</div>
 
 ###### 7.2.1.7. Software Deployment Evidence for Sprint Review
 Para el despliegue se utilizó una máquina virtual para su persistencia considerando una arquitectura modular. También se ha desarrollado el frotend del web y móvil.
