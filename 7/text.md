@@ -269,7 +269,10 @@ Para el despliegue se utilizó una máquina virtual para su persistencia conside
 - https://kaleidoscopic-bublanina-08fd5d.netlify.app
 ## Despliegue del frontend móvil:
 - https://drive.google.com/file/d/1nR_UX8ezpHOfDGaK2Tb7lVoBrTcrIgl0/view?usp=sharing
-###### 7.2.1.8. Team Collaboration Insights during Sprint
+## Despliegue del landing page:
+https://arquitecturas-de-software-emergente.github.io/LandingPage/
+
+##### 7..1.8.Team Collaboration Insights during Sprint
 
 ## Networking del backend:
 
