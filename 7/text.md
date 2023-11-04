@@ -284,7 +284,41 @@ Para el despliegue se utilizó una máquina virtual para su persistencia conside
 </p>
 
 #### 7.3. Validation Interviews
-
+Las entrevistas a realizar sobre "Validation", se harán presentándole al usuario nuestra solución. Se le explicará la funcionalidad y se pedirá que use y navegue dentro de esta, para de esta manera realizar las validaciones con los usuarios. Las preguntas son las siguientes:
+## Preguntas generales a la empresa:
+1.	¿Cuál es la visión y el objetivo principal de la aplicación intermedia que conecta empresas de remodelación y sus clientes?
+2.	¿Cuál es el alcance geográfico de su plataforma? ¿En qué regiones o países planean operar?
+3.	¿Qué desafíos específicos enfrenta su empresa en la industria de remodelación que espera resolver con esta aplicación?
+4.	¿Cuál es su modelo de negocio para esta plataforma? ¿Cómo planean monetizarla?
+5.	¿Qué tecnologías o frameworks específicos se utilizan actualmente en el desarrollo de la aplicación?
+## Preguntas adicionales sobre el proyecto para la empresa:
+11.	¿Cuál es su enfoque en cuanto a la escalabilidad de la aplicación? ¿Esperan un crecimiento significativo en el número de usuarios?
+12.	¿Cómo se gestionará la retroalimentación de los usuarios y las posibles mejoras en la aplicación una vez que esté en funcionamiento?
+13.	¿Tienen algún requisito específico en cuanto a la velocidad y rendimiento de la aplicación, especialmente en dispositivos móviles?
+14.	¿Cuál es su estrategia de respaldo y recuperación de datos en caso de fallos del sistema o pérdida de información crítica?
+15.	¿Tienen consideraciones específicas en cuanto a la compatibilidad con múltiples navegadores y dispositivos móviles?
+16.	¿Qué medidas se tomarán para garantizar la igualdad de oportunidades para las empresas de remodelación en su plataforma?
+17.	¿Tienen algún requisito de cumplimiento normativo o legal que debamos tener en cuenta en el desarrollo de la aplicación?
+18.	¿Cuál es la estrategia para garantizar la calidad y la prueba de la aplicación antes de su lanzamiento?
+19.	¿Cuáles son las expectativas en cuanto al soporte técnico y el mantenimiento continuo de la aplicación?
+20.	¿Cómo planean mantenerse al tanto de las tendencias tecnológicas y las necesidades cambiantes de los usuarios a lo largo del tiempo?
+## Preguntas generales al cliente:
+1.	¿Cuál es el motivo principal de buscar una aplicación intermediaria para conectarse con empresas de remodelación?
+2.	¿Qué características o funcionalidades específicas esperas que tenga esta aplicación?
+3.	¿Tienes alguna preferencia en cuanto a la plataforma móvil (iOS, Android) en la que debería estar disponible la aplicación?
+4.	¿Qué tipo de presupuesto tienes disponible para este proyecto?
+5.	¿Tienes algún plazo específico en mente para tener la aplicación en funcionamiento?
+## Preguntas adicionales sobre el proyecto para el cliente:
+11.	¿Tienes alguna preferencia en cuanto a la integración de funciones de geolocalización o mapas para encontrar empresas de remodelación cercanas?
+12.	¿Qué tipo de información te gustaría ver en los perfiles de las empresas de remodelación dentro de la aplicación?
+13.	¿Tienes algún requisito específico en cuanto a la capacidad de recibir y comparar cotizaciones de diferentes empresas de remodelación?
+14.	¿Cómo te gustaría que se gestionara el proceso de pago y facturación con las empresas de remodelación?
+15.	¿Tienes preferencias en cuanto a la posibilidad de calificar y dejar reseñas sobre las empresas de remodelación?
+16.	¿Qué tipo de notificaciones o alertas te gustaría recibir de la aplicación, si es que alguna?
+17.	¿Tienes algún requisito en cuanto a la comunicación y mensajería entre los clientes y las empresas de remodelación?
+18.	¿Qué información personal estás dispuesto a compartir en la aplicación para recibir servicios de remodelación?
+19.	¿Cómo te gustaría que se gestionen las citas o programaciones de trabajos con las empresas de remodelación?
+20.	¿Tienes alguna preferencia en cuanto a la forma en que se autenticarán y protegerán tus datos en la aplicación?
 ##### 7.3.1. Diseño de Entrevistas
 
 ##### 7.3.2. Registro de Entrevistas
