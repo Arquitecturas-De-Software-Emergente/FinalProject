@@ -237,6 +237,13 @@ Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en
 
 
 ###### 7.2.1.2. Sprint Backlog 1
+| Sprint 1 | User Story                | Work - item / Task | ID  | Title                             | Description                                               | Estimation (Hours) | Assigned To       | Status |
+|----------|---------------------------|--------------------|-----|-----------------------------------|-----------------------------------------------------------|--------------------|-------------------|--------|
+|          | US02                      | Registro en la aplicación | Task01 | Creación de la entidad, User    | Se creará la capa de persistencia, servicios y controlador de la entidad User | 1h | Luis Li | To do |
+|          | HU03                      | Publicar empresa          | WI03 | Publicación y creación de empresas | Se permite crear un perfil de empresa                          | 3H | Sebastián Vivanco | Done   |
+|          | HU04                      | Editar información de empresa | WI04 | Se permite editar información del perfil empresa | El usuario empresa puede editar su información       | 3H | Sebastián Vivanco | To do |
+|          | HU05                      | Crear cuenta como cliente | WI05 | Register para cliente            | El cliente puede crear su cuenta en la aplicación           | 4H | Sebastián Vivanco | Done   |
+|          | US14                      | Editar perfil             | Task01 | Añadir la función para editar los datos | Se implementará la funcionalidad para editar los datos del perfil | 1h | Luis Li | To do |
 
 
 ###### 7.2.1.3. Development Evidence for Sprint Review
