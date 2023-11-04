@@ -381,7 +381,7 @@ Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en
 
 ###### 7.2.1.6. Services Documentation Evidence for Sprint Review
 
-<div>
+<div style="text-align: justify; align-items: center">
     <p>Entre ellos el core principal de negocio son los orders que son las solicitudes de servicio de remodelación del cliente aceptadas y los projects son los proyectos mostrados en su información de perfil detallada por parte de las empresas para captar la atención de sus clientes potenciales.</p><br>
     <center>
         <img align = middle src = "../images/SM1.png">
