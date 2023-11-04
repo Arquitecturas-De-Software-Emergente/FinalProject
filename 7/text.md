@@ -222,11 +222,9 @@ src
 #### 7.2. Solution Implementation
 
 ##### 7.2.1. Sprint 1
-
-###### 7.2.1.1. Sprint Planning 1
 Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en lograr los siguientes objetivos clave: lanzar la primera versión de nuestro Landing Page, desarrollar un producto mínimo viable de nuestra plataforma que incluya sus características esenciales, lo cual implica el despliegue inicial de las versiones frontend y backend. Nos concentraremos en desarrollar las funcionalidades para los usuarios usuarios y empresas.
 
-###### 7.2.1.2. Sprint Backlog 1
+###### 7.2.1.1. Sprint Planning 1
 | Sprint #                    | 1                                                                        |
 |-----------------------------|--------------------------------------------------------------------------|
 | Sprint Planning Background  |                                                                        |
@@ -236,6 +234,9 @@ Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en
 | Prepared by                 | Miguel Garcia                                                            |
 | Attendees (to planning meeting) | Diego Porta, Luis Li  y Samuel Maucille          |
 | Sprint Review Summary       | Se revisaron los puntos a mejorar y lo que había que avanzar en con respecto al desarrollo de las plataformas |
+
+
+###### 7.2.1.2. Sprint Backlog 1
 
 
 ###### 7.2.1.3. Development Evidence for Sprint Review
