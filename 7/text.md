@@ -247,7 +247,11 @@ Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en
 
 
 ###### 7.2.1.3. Development Evidence for Sprint Review
-
+<p>
+    <center>
+        <img align = middle src = "../images/EvidenciaSprintBacklog.png">
+    </center>
+</p>
 ###### 7.2.1.4. Testing Suite Evidence for Sprint Review
 
 ###### 7.2.1.5. Execution Evidence for Sprint Review.
