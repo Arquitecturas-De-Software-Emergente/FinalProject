@@ -5,7 +5,10 @@
 ### Product Implementation, Validation & Deployment
 
 #### 7.1. Software Configuration Management
-# Procedimiento de Identificación del Entorno de Desarrollo del Software
+
+##### 7.1.1. Software Development Environment Configuration
+
+### Procedimiento de Identificación del Entorno de Desarrollo del Software
 
 ### Selección de Elementos de Configuración
 
@@ -64,9 +67,9 @@ Para este proyecto, se utiliza el siguiente esquema para la codificación de los
 - Sprint Backlog: FW-RKG-REQ-SB-1.0.0
 - Product Backlog: FW-RKG-REQ-PB-1.0.0
 
-##### 7.1.1. Software Development Environment Configuration
+##### 7.1.2. Source Code Management
 
-## Modelo de Creación de Ramas Gitflow
+### Modelo de Creación de Ramas Gitflow
 
 Este proyecto utiliza el modelo de creación de ramas Gitflow para el desarrollo y gestión de versiones en GitHub.
 
@@ -90,11 +93,9 @@ Este proyecto utiliza el modelo de creación de ramas Gitflow para el desarrollo
 - **Develop Branch:** Esta rama sigue en desarrollo y se utilizan para solucionar distintos problemas o requerimientos en desarrollo. Cuando esta rama está lista para un sprint, pasa a la rama Release.
 
 - **Feature Branch:** Estas ramas se crean según sea necesario para agregar nuevas funcionalidades a la aplicación móvil.
-    - Deben derivarse de la rama develop.
-    - Deben fusionarse de vuelta a la rama develop.
-    - Notación: `Name of feature`
-
-##### 7.1.2. Source Code Management
+  - Deben derivarse de la rama develop.
+  - Deben fusionarse de vuelta a la rama develop.
+  - Notación: `Name of feature`
 
 ##### 7.1.3. Source Code Style Guide & Conventions
 
