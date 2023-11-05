@@ -647,4 +647,4 @@ También nos recomienda que debe funcionar de manera fluida que con alertas que 
 - *Problema:* Los tiempos de carga largos y los retrasos en la respuesta de la aplicación afectan negativamente la usabilidad, lo que puede resultar en una experiencia frustrante para los usuarios.
 
 ##### 7.4. Video About-the-Product
-Link: 
+Link: https://youtu.be/EMHohbwrXDw
