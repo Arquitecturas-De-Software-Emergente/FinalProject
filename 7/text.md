@@ -528,8 +528,7 @@ También nos recomienda que debe funcionar de manera fluida que con alertas que 
         <td colspan="4">URL: <a href="https://youtu.be/EkHPd9EtGG0">https://youtu.be/EkHPd9EtGG0</a></td>
     </tr>
     <tr> <td colspan="4" align="justify">
-      Eduardo en remodelar de inmueble que recién se encuentra conociendo en el mercado, al mostrar la aplicación él nos comenta que la aplicación deber ser mas vistosa y que debe contener más imágenes, ademas que se deben clasificar los proyecto porque tan grande puede ser este. 
-También nos recomienda que debe funcionar de manera fluida que con alertas que le indique cuál es el uso de cada funcionalidad.
+      Daniel una persona que esta interesada en remodelar su hogar, al mostrar la aplicación él nos comenta que la aplicación deber ser mas vistosa y que debe contener más imágenes, ademas que se deben clasificar los proyecto porque tan grande puede ser este. También nos recomienda que debe funcionar de manera fluida que con alertas que le indique cuál es el uso de cada funcionalidad.
 </td> </tr>
 </table>
 
