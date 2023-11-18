@@ -75,12 +75,12 @@ Este proyecto utiliza el modelo de creación de ramas Gitflow para el desarrollo
 
 ### Repositorios
 
-| Nombre           | Enlace                                                                                                            |
-|------------------|-------------------------------------------------------------------------------------------------------------------|
-| Back-end         | [Arquitecturas-De-Software-Emergente/ModelHouseV2](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV2)           |
-| Front-end mobile | [Arquitecturas-De-Software-Emergente/ModelHouseMovil](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseMovil)       |
-| Front-end Web    | [Arquitecturas-De-Software-Emergente/ModelHouseV1](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV1) |
-| Landing Page     | [Arquitecturas-De-Software-Emergente/LandingPage](https://github.com/Arquitecturas-De-Software-Emergente/LandingPage)        |
+| Nombre           | Enlace                                                                                                                        |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Back-end         | [Arquitecturas-De-Software-Emergente/ModelHouseV2](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV2)       |
+| Front-end mobile | [Arquitecturas-De-Software-Emergente/ModelHouseMovil](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseMovil) |
+| Front-end Web    | [Arquitecturas-De-Software-Emergente/ModelHouseV1](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV1)       |
+| Landing Page     | [Arquitecturas-De-Software-Emergente/LandingPage](https://github.com/Arquitecturas-De-Software-Emergente/LandingPage)         |
 
 ### Ramas en el Modelo Gitflow
 
@@ -222,37 +222,38 @@ src
 #### 7.2. Solution Implementation
 
 ##### 7.2.1. Sprint 1
+
 Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en lograr los siguientes objetivos clave: lanzar la primera versión de nuestro Landing Page, desarrollar un producto mínimo viable de nuestra plataforma que incluya sus características esenciales, lo cual implica el despliegue inicial de las versiones frontend y backend. Nos concentraremos en desarrollar las funcionalidades para los usuarios usuarios y empresas.
 
 ###### 7.2.1.1. Sprint Planning 1
-| Sprint #                    | 1                                                                        |
-|-----------------------------|--------------------------------------------------------------------------|
-| Sprint Planning Background  |                                                                        |
-| Date                        | 04/10/2023                                                               |
-| Time                        | 13:00                                                                    |
-| Location                    | Se usó la plataforma Discord                                              |
-| Prepared by                 | Miguel Garcia                                                            |
-| Attendees (to planning meeting) | Diego Porta, Luis Li  y Samuel Maucille          |
-| Sprint Review Summary       | Se revisaron los puntos a mejorar y lo que había que avanzar en con respecto al desarrollo de las plataformas |
 
+| Sprint #                        | 1                                                                                                             |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background      |                                                                                                               |
+| Date                            | 04/10/2023                                                                                                    |
+| Time                            | 13:00                                                                                                         |
+| Location                        | Se usó la plataforma Discord                                                                                  |
+| Prepared by                     | Miguel Garcia                                                                                                 |
+| Attendees (to planning meeting) | Diego Porta, Luis Li y Samuel Maucille                                                                        |
+| Sprint Review Summary           | Se revisaron los puntos a mejorar y lo que había que avanzar en con respecto al desarrollo de las plataformas |
 
 ###### 7.2.1.2. Sprint Backlog 1
-| Sprint 1 | User Story                | Work - item / Task | ID  | Title                             | Description                                               | Estimation (Hours) | Assigned To      | Status |
-|----------|---------------------------|--------------------|-----|-----------------------------------|-----------------------------------------------------------|--------------------|------------------|--------|
-|          | US02                      | Registro en la aplicación | Task01 | Creación de la entidad, User    | Se creará la capa de persistencia, servicios y controlador de la entidad User | 1h | Luis Li          | To do |
-|          | HU03                      | Publicar empresa          | WI03 | Publicación y creación de empresas | Se permite crear un perfil de empresa                          | 3H | Diego Porta      | Done   |
-|          | HU04                      | Editar información de empresa | WI04 | Se permite editar información del perfil empresa | El usuario empresa puede editar su información       | 3H | Miguel García    | To do |
-|          | HU05                      | Crear cuenta como cliente | WI05 | Register para cliente            | El cliente puede crear su cuenta en la aplicación           | 4H | Jasmin Pomasonco | Done   |
-|          | US14                      | Editar perfil             | Task01 | Añadir la función para editar los datos | Se implementará la funcionalidad para editar los datos del perfil | 1h | Luis Li          | To do |
 
+| Sprint 1 | User Story | Work - item / Task            | ID     | Title                                            | Description                                                                   | Estimation (Hours) | Assigned To      | Status |
+| -------- | ---------- | ----------------------------- | ------ | ------------------------------------------------ | ----------------------------------------------------------------------------- | ------------------ | ---------------- | ------ |
+|          | US02       | Registro en la aplicación     | Task01 | Creación de la entidad, User                     | Se creará la capa de persistencia, servicios y controlador de la entidad User | 1h                 | Luis Li          | To do  |
+|          | HU03       | Publicar empresa              | WI03   | Publicación y creación de empresas               | Se permite crear un perfil de empresa                                         | 3H                 | Diego Porta      | Done   |
+|          | HU04       | Editar información de empresa | WI04   | Se permite editar información del perfil empresa | El usuario empresa puede editar su información                                | 3H                 | Miguel García    | To do  |
+|          | HU05       | Crear cuenta como cliente     | WI05   | Register para cliente                            | El cliente puede crear su cuenta en la aplicación                             | 4H                 | Jasmin Pomasonco | Done   |
+|          | US14       | Editar perfil                 | Task01 | Añadir la función para editar los datos          | Se implementará la funcionalidad para editar los datos del perfil             | 1h                 | Luis Li          | To do  |
 
 ###### 7.2.1.3. Development Evidence for Sprint Review
-| Repository                                                                                                    | Branch | Commit Id                                      | Commit Message                    | Committed on (Date) |
-|---------------------------------------------------------------------------------------------------------------|--------|-----------------------------------------------|-----------------------------------|----------------------|
-| [Arquitecturas-De-Software-Emergente/ModelHouseV1](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV1)      | main   | 64b38cbaf292294147e44f6fb9ed323718f14600 | Merge pull request #8 from Model-House/develop | 05/05/2023           |
-| [Arquitecturas-De-Software-Emergente/ModelHouseV2](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV2)       | main   | 5bcc5b602d412d2d9df190269725a5ca71b5879a | Merge pull request #4 from Model-House/develop | 05/05/2023           |
-| [Arquitecturas-De-Software-Emergente/LandingPage](https://github.com/Arquitecturas-De-Software-Emergente/LandingPage) | main   | 5bcc5b602d412d2d9df190269725a5ca71b5879a | Merge pull request #4 from Model-House/develop | 05/05/2023           |
 
+| Repository                                                                                                              | Branch | Commit Id                                | Commit Message                                 | Committed on (Date) |
+| ----------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------- | ---------------------------------------------- | ------------------- |
+| [Arquitecturas-De-Software-Emergente/ModelHouseV1](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV1) | main   | 64b38cbaf292294147e44f6fb9ed323718f14600 | Merge pull request #8 from Model-House/develop | 05/05/2023          |
+| [Arquitecturas-De-Software-Emergente/ModelHouseV2](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV2) | main   | 5bcc5b602d412d2d9df190269725a5ca71b5879a | Merge pull request #4 from Model-House/develop | 05/05/2023          |
+| [Arquitecturas-De-Software-Emergente/LandingPage](https://github.com/Arquitecturas-De-Software-Emergente/LandingPage)   | main   | 5bcc5b602d412d2d9df190269725a5ca71b5879a | Merge pull request #4 from Model-House/develop | 05/05/2023          |
 
 ###### 7.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -395,20 +396,28 @@ Durante la reunión de Sprint Planning 1 se acordó que el equipo se enfocara en
 </div>
 
 ###### 7.2.1.7. Software Deployment Evidence for Sprint Review
+
 Para el despliegue se utilizó una máquina virtual para su persistencia considerando una arquitectura modular. También se ha desarrollado el frotend del web y móvil.
 
 ## Despliegue del backend:
+
 - http://modelhouse0.westus3.cloudapp.azure.com:8080/security/swagger-ui/index.html#/
-- http://modelhouse0.westus3.cloudapp.azure.com:8081/service-management/swagger-ui/index.html#/ 
+- http://modelhouse0.westus3.cloudapp.azure.com:8081/service-management/swagger-ui/index.html#/
 - http://modelhouse0.westus3.cloudapp.azure.com:8082/subscription-payment/swagger-ui/index.html#/
+
 ## Despliegue del frontend web:
+
 - https://kaleidoscopic-bublanina-08fd5d.netlify.app
+
 ## Despliegue del frontend móvil:
+
 - https://drive.google.com/file/d/1nR_UX8ezpHOfDGaK2Tb7lVoBrTcrIgl0/view?usp=sharing
+
 ## Despliegue del landing page:
+
 https://arquitecturas-de-software-emergente.github.io/LandingPage/
 
-##### 7..1.8.Team Collaboration Insights during Sprint
+##### 7.1.8.Team Collaboration Insights during Sprint
 
 ## Networking del backend:
 
@@ -434,47 +443,264 @@ https://arquitecturas-de-software-emergente.github.io/LandingPage/
     </center>
 </p>
 
+##### 7.2.2. Sprint 2
+
+Durante la reunión de Sprint Planning 2, se estableció como prioridad para el equipo la consecución de los siguientes hitos clave: culminar el lanzamiento de las versiones definitivas de nuestro Landing Page y aplicación móvil. Simultáneamente, se acordó la creación de un producto mínimo viable de nuestra plataforma, abarcando sus funcionalidades esenciales y culminando con la implementación final tanto del frontend como del backend. El enfoque principal se centrará en el desarrollo de características dirigidas tanto a usuarios individuales como a empresas, complementado con mejoras en los estilos del conjunto.
+
+###### 7.2.2.1. Sprint Planning 2.
+
+| Sprint #                        | 2                                                                                                             |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background      |                                                                                                               |
+| Date                            | 16/11/2023                                                                                                    |
+| Time                            | 20:00                                                                                                         |
+| Location                        | Se usó la plataforma Discord                                                                                  |
+| Prepared by                     | Miguel Garcia                                                                                                 |
+| Attendees (to planning meeting) | Diego Porta, Luis Li, Jasmin Pomasoncco ,Samuel Maucille y Diego De La Flor                                   |
+| Sprint Review Summary           | Se revisaron los puntos a mejorar y lo que había que avanzar en con respecto al desarrollo de las plataformas |
+
+###### 7.2.2.2. Sprint Backlog 2.
+
+| Sprint 2 | User Story | Work - item / Task                                           | ID     | Title                                            | Description                                                                   | Estimation (Hours) | Assigned To      | Status |
+| -------- | ---------- | ------------------------------------------------------------ | ------ | ------------------------------------------------ | ----------------------------------------------------------------------------- | ------------------ | ---------------- | ------ |
+|          | US02       | Registro en la aplicación                                    | Task01 | Creación de la entidad, User                     | Se creará la capa de persistencia, servicios y controlador de la entidad User | 1h                 | Luis Li          | Done   |
+|          | HU03       | Publicar empresa                                             | WI03   | Publicación y creación de empresas               | Se permite crear un perfil de empresa                                         | 3H                 | Diego Porta      | Done   |
+|          | HU04       | Editar información de empresa                                | WI04   | Se permite editar información del perfil empresa | El usuario empresa puede editar su información                                | 3H                 | Miguel García    | To do  |
+|          | HU05       | Crear cuenta como cliente                                    | WI05   | Register para cliente                            | El cliente puede crear su cuenta en la aplicación                             | 4H                 | Jasmin Pomasonco | Done   |
+|          | US14       | Editar perfil                                                | Task01 | Añadir la función para editar los datos          | Se implementará la funcionalidad para editar los datos del perfil             | 1h                 | Luis Li          | To do  |
+|          | US07       | Enviar una petición a una empresa                            | WI07   | Envío del request                                | Se implementará la funcionalidad para editar los datos del perfil             | 3h                 | Diego Porta      | Done   |
+|          | US08       | Poder recibir, aceptar o denegar los pedidos de mis clientes | WI08   | Se permite aceptar o denegar los request         | La empresa puede aceptar o denegar los request recibidos por el cliente       | 3h                 | Diego Porta      | Done   |
+
+###### 7.2.2.3. Development Evidence for Sprint Review.
+
+| Repository                                                                                                                    | Branch   | Commit Id                                | Commit Message                                                 | Committed on (Date) |
+| ----------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------- | -------------------------------------------------------------- | ------------------- |
+| [Arquitecturas-De-Software-Emergente/ModelHouseV1](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV1)       | develop  | b2411b10c23d8419099fd2e9214bd6f13e8d3c16 | Update business card dimensions                                | 17/11/2023          |
+| [Arquitecturas-De-Software-Emergente/ModelHouseV2](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseV2)       | develop  | 8fca93d9c6f6d6e8a402f82e771cf3aebfcf0bc6 | feat: Update service in security and service management module | 17/11/2023          |
+| [Arquitecturas-De-Software-Emergente/LandingPage](https://github.com/Arquitecturas-De-Software-Emergente/LandingPage)         | gh-pages | 647ce7643beef70348e205ff0baf3e66c420fff9 | feat: Videos added                                             | 24/10/2023          |
+| [Arquitecturas-De-Software-Emergente/ModelHouseMovil](https://github.com/Arquitecturas-De-Software-Emergente/ModelHouseMovil) | develop  | 51d1cc9974ad4ee9bd0c9329194647b0dc98e821 | feat: Update service in security and service management module | 24/10/2023          |
+
+###### 7.2.2.4. Testing Suite Evidence for Sprint Review.
+
+<div style="text-align: justify; align-items: center">
+    <b>Security:</b><br>
+    <center>
+        <img align = middle src = "../images/Sec1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Sec2.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Sec3.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Sec4.png">
+    </center><br>
+    <b>Service Management:</b><br>
+    <center>
+        <img align = middle src = "../images/SM1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SM2.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SM3.png">
+    </center><br>
+    <b>Subscription Payment:</b><br>
+    <center>
+        <img align = middle src = "../images/SP1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SP2.png">
+    </center><br>
+    <b>Mobile app:</b><br>
+    <center>
+        <img align = middle src = "../images/Movil1.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil2.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil3.jpeg">
+    </center><br>
+    <b>Web app:</b><br>
+    <center>
+        <img align = middle src = "../images/Web1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web2.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web3.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web4.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web5.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web6.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web7.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web8.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web9.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web10.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web11.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web12.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web13.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web14.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Web15.png">
+    </center><br>
+</div>
+
+###### 7.2.2.5. Execution Evidence for Sprint Review.
+
+<div style="text-align: justify; align-items: center">
+    <b>Security:</b><br>
+    <center>
+        <img align = middle src = "../images/Sec1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Sec2.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Sec3.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Sec4.png">
+    </center><br>
+    <b>Service Management:</b><br>
+    <center>
+        <img align = middle src = "../images/SM1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SM2.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SM3.png">
+    </center><br>
+    <b>Subscription Payment:</b><br>
+    <center>
+        <img align = middle src = "../images/SP1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SP2.png">
+    </center><br>
+</div>
+
+###### 7.2.2.6. Services Documentation Evidence for Sprint Review.
+
+<div style="text-align: justify; align-items: center">
+    <p>Entre ellos el core principal de negocio son los orders que son las solicitudes de servicio de remodelación del cliente aceptadas y los projects son los proyectos mostrados en su información de perfil detallada por parte de las empresas para captar la atención de sus clientes potenciales.</p><br>
+    <center>
+        <img align = middle src = "../images/SM1.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SM2.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/SM3.png">
+    </center><br>
+</div>
+
+###### 7.2.2.7. Software Deployment Evidence for Sprint Review.
+
+<p align = justify>Para el despliegue se utilizó una máquina virtual para su persistencia considerando una arquitectura modular. También se ha desarrollado el frotend del web y móvil.
+
+###### 7.2.2.8. Team Collaboration Insights during Sprint.
+
+## Networking del backend:
+
+<p>
+    <center>
+        <img align = middle src = "../images/network-backend(2).png">
+    </center>
+</p>
+
+## Networking del frontend web:
+
+<p>
+    <center>
+        <img align = middle src = "../images/network-frontend-web(2).png">
+    </center>
+</p>
+
+## Networking del frontend móvil:
+
+<p>
+    <center>
+        <img align = middle src = "../images/network-frontend-movil(2).png">
+    </center>
+</p>
+
 #### 7.3. Validation Interviews
 
 ##### 7.3.1. Diseño de Entrevistas
-Las entrevistas a realizar sobre "Validation", se harán presentándole al usuario nuestra solución. Se le explicará la funcionalidad y se pedirá que use y navegue dentro de esta, para de esta manera realizar las validaciones con los usuarios. Las preguntas son las siguientes:
-## Preguntas generales a la empresa:
-1.	¿Cuál es la visión y el objetivo principal de la aplicación intermedia que conecta empresas de remodelación y sus clientes?
-2.	¿Cuál es el alcance geográfico de su plataforma? ¿En qué regiones o países planean operar?
-3.	¿Qué desafíos específicos enfrenta su empresa en la industria de remodelación que espera resolver con esta aplicación?
-4.	¿Cuál es su modelo de negocio para esta plataforma? ¿Cómo planean monetizarla?
-5.	¿Qué tecnologías o frameworks específicos se utilizan actualmente en el desarrollo de la aplicación?
-## Preguntas adicionales sobre el proyecto para la empresa:
-1.	¿Cuál es su enfoque en cuanto a la escalabilidad de la aplicación? ¿Esperan un crecimiento significativo en el número de usuarios?
-2.	¿Cómo se gestionará la retroalimentación de los usuarios y las posibles mejoras en la aplicación una vez que esté en funcionamiento?
-3.	¿Tienen algún requisito específico en cuanto a la velocidad y rendimiento de la aplicación, especialmente en dispositivos móviles?
-4.	¿Cuál es su estrategia de respaldo y recuperación de datos en caso de fallos del sistema o pérdida de información crítica?
-5.	¿Tienen consideraciones específicas en cuanto a la compatibilidad con múltiples navegadores y dispositivos móviles?
-6.	¿Qué medidas se tomarán para garantizar la igualdad de oportunidades para las empresas de remodelación en su plataforma?
-7.	¿Tienen algún requisito de cumplimiento normativo o legal que debamos tener en cuenta en el desarrollo de la aplicación?
-8.	¿Cuál es la estrategia para garantizar la calidad y la prueba de la aplicación antes de su lanzamiento?
-9.	¿Cuáles son las expectativas en cuanto al soporte técnico y el mantenimiento continuo de la aplicación?
-10.	¿Cómo planean mantenerse al tanto de las tendencias tecnológicas y las necesidades cambiantes de los usuarios a lo largo del tiempo?
-## Preguntas generales al cliente:
-1.	¿Cuál es el motivo principal de buscar una aplicación intermediaria para conectarse con empresas de remodelación?
-2.	¿Qué características o funcionalidades específicas esperas que tenga esta aplicación?
-3.	¿Tienes alguna preferencia en cuanto a la plataforma móvil (iOS, Android) en la que debería estar disponible la aplicación?
-4.	¿Qué tipo de presupuesto tienes disponible para este proyecto?
-5.	¿Tienes algún plazo específico en mente para tener la aplicación en funcionamiento?
-## Preguntas adicionales sobre el proyecto para el cliente:
-1.	¿Tienes alguna preferencia en cuanto a la integración de funciones de geolocalización o mapas para encontrar empresas de remodelación cercanas?
-2.	¿Qué tipo de información te gustaría ver en los perfiles de las empresas de remodelación dentro de la aplicación?
-3.	¿Tienes algún requisito específico en cuanto a la capacidad de recibir y comparar cotizaciones de diferentes empresas de remodelación?
-4.	¿Cómo te gustaría que se gestionara el proceso de pago y facturación con las empresas de remodelación?
-5.	¿Tienes preferencias en cuanto a la posibilidad de calificar y dejar reseñas sobre las empresas de remodelación?
-6.	¿Qué tipo de notificaciones o alertas te gustaría recibir de la aplicación, si es que alguna?
-7.	¿Tienes algún requisito en cuanto a la comunicación y mensajería entre los clientes y las empresas de remodelación?
-8.	¿Qué información personal estás dispuesto a compartir en la aplicación para recibir servicios de remodelación?
-9.	¿Cómo te gustaría que se gestionen las citas o programaciones de trabajos con las empresas de remodelación?
-10.	¿Tienes alguna preferencia en cuanto a la forma en que se autenticarán y protegerán tus datos en la aplicación?
 
+Las entrevistas a realizar sobre "Validation", se harán presentándole al usuario nuestra solución. Se le explicará la funcionalidad y se pedirá que use y navegue dentro de esta, para de esta manera realizar las validaciones con los usuarios. Las preguntas son las siguientes:
+
+## Preguntas generales a la empresa:
+
+1. ¿Cuál es la visión y el objetivo principal de la aplicación intermedia que conecta empresas de remodelación y sus clientes?
+2. ¿Cuál es el alcance geográfico de su plataforma? ¿En qué regiones o países planean operar?
+3. ¿Qué desafíos específicos enfrenta su empresa en la industria de remodelación que espera resolver con esta aplicación?
+4. ¿Cuál es su modelo de negocio para esta plataforma? ¿Cómo planean monetizarla?
+5. ¿Qué tecnologías o frameworks específicos se utilizan actualmente en el desarrollo de la aplicación?
+
+## Preguntas adicionales sobre el proyecto para la empresa:
+
+1. ¿Cuál es su enfoque en cuanto a la escalabilidad de la aplicación? ¿Esperan un crecimiento significativo en el número de usuarios?
+2. ¿Cómo se gestionará la retroalimentación de los usuarios y las posibles mejoras en la aplicación una vez que esté en funcionamiento?
+3. ¿Tienen algún requisito específico en cuanto a la velocidad y rendimiento de la aplicación, especialmente en dispositivos móviles?
+4. ¿Cuál es su estrategia de respaldo y recuperación de datos en caso de fallos del sistema o pérdida de información crítica?
+5. ¿Tienen consideraciones específicas en cuanto a la compatibilidad con múltiples navegadores y dispositivos móviles?
+6. ¿Qué medidas se tomarán para garantizar la igualdad de oportunidades para las empresas de remodelación en su plataforma?
+7. ¿Tienen algún requisito de cumplimiento normativo o legal que debamos tener en cuenta en el desarrollo de la aplicación?
+8. ¿Cuál es la estrategia para garantizar la calidad y la prueba de la aplicación antes de su lanzamiento?
+9. ¿Cuáles son las expectativas en cuanto al soporte técnico y el mantenimiento continuo de la aplicación?
+10. ¿Cómo planean mantenerse al tanto de las tendencias tecnológicas y las necesidades cambiantes de los usuarios a lo largo del tiempo?
+
+## Preguntas generales al cliente:
+
+1. ¿Cuál es el motivo principal de buscar una aplicación intermediaria para conectarse con empresas de remodelación?
+2. ¿Qué características o funcionalidades específicas esperas que tenga esta aplicación?
+3. ¿Tienes alguna preferencia en cuanto a la plataforma móvil (iOS, Android) en la que debería estar disponible la aplicación?
+4. ¿Qué tipo de presupuesto tienes disponible para este proyecto?
+5. ¿Tienes algún plazo específico en mente para tener la aplicación en funcionamiento?
+
+## Preguntas adicionales sobre el proyecto para el cliente:
+
+1. ¿Tienes alguna preferencia en cuanto a la integración de funciones de geolocalización o mapas para encontrar empresas de remodelación cercanas?
+2. ¿Qué tipo de información te gustaría ver en los perfiles de las empresas de remodelación dentro de la aplicación?
+3. ¿Tienes algún requisito específico en cuanto a la capacidad de recibir y comparar cotizaciones de diferentes empresas de remodelación?
+4. ¿Cómo te gustaría que se gestionara el proceso de pago y facturación con las empresas de remodelación?
+5. ¿Tienes preferencias en cuanto a la posibilidad de calificar y dejar reseñas sobre las empresas de remodelación?
+6. ¿Qué tipo de notificaciones o alertas te gustaría recibir de la aplicación, si es que alguna?
+7. ¿Tienes algún requisito en cuanto a la comunicación y mensajería entre los clientes y las empresas de remodelación?
+8. ¿Qué información personal estás dispuesto a compartir en la aplicación para recibir servicios de remodelación?
+9. ¿Cómo te gustaría que se gestionen las citas o programaciones de trabajos con las empresas de remodelación?
+10. ¿Tienes alguna preferencia en cuanto a la forma en que se autenticarán y protegerán tus datos en la aplicación?
 
 ##### 7.3.2. Registro de Entrevistas
+
 ### 2.2.2 Registro de entrevistas
 
 **Usuario cliente**
@@ -538,13 +764,13 @@ También nos recomienda que debe funcionar de manera fluida que con alertas que 
 
 ## Usabilidad, Diseño Inclusivo, y Arquitectura de la Información
 
-*Carrera:* Ingeniería de Software
+_Carrera:_ Ingeniería de Software
 
-*Curso:* Arquitectura de Software Emergentes
+_Curso:_ Arquitectura de Software Emergentes
 
-*Profesores:* Todos
+_Profesores:_ Todos
 
-*Sitio o App a Evaluar:* ModelHouse
+_Sitio o App a Evaluar:_ ModelHouse
 
 ### Tareas a Evaluar
 
@@ -598,53 +824,55 @@ También nos recomienda que debe funcionar de manera fluida que con alertas que 
     <td>Eficiencia en la carga y rendimiento</td>
 </tr>
 </table>
+
 # Control y libertad del usuario
 
 ## PROBLEMA #1:
 
-- *Severidad:* Moderada
-- *Usability:* La aplicación proporciona un botón de 'Deshacer Requests', lo que permite a los usuarios retroceder en su navegación. Sin embargo, su visibilidad y ubicación pueden ser mejoradas para hacerlo más fácilmente accesible.
-- *Problema:* El botón de 'Deshacer Requests' existe, pero su ubicación y visibilidad no son óptimas, lo que podría dificultar que los usuarios lo encuentren rápidamente.
+- _Severidad:_ Moderada
+- _Usability:_ La aplicación proporciona un botón de 'Deshacer Requests', lo que permite a los usuarios retroceder en su navegación. Sin embargo, su visibilidad y ubicación pueden ser mejoradas para hacerlo más fácilmente accesible.
+- _Problema:_ El botón de 'Deshacer Requests' existe, pero su ubicación y visibilidad no son óptimas, lo que podría dificultar que los usuarios lo encuentren rápidamente.
 
 ## Prevención de Errores
 
 ## PROBLEMA #2:
 
-- *Severidad:* Alta
-- *Usability:* La plataforma no proporciona una forma clara y sencilla de eliminar una cuenta de usuario, lo que puede dar lugar a errores y frustración por parte de los usuarios que desean dar de baja su cuenta.
-- *Problema:* La falta de una opción clara para eliminar la cuenta de usuario puede resultar en errores y confusión para los usuarios que intentan realizar esta acción.
+- _Severidad:_ Alta
+- _Usability:_ La plataforma no proporciona una forma clara y sencilla de eliminar una cuenta de usuario, lo que puede dar lugar a errores y frustración por parte de los usuarios que desean dar de baja su cuenta.
+- _Problema:_ La falta de una opción clara para eliminar la cuenta de usuario puede resultar en errores y confusión para los usuarios que intentan realizar esta acción.
 
 ## Flexibilidad y eficiencia de uso
 
 ## PROBLEMA #3:
 
-- *Severidad:* Moderada
-- *Usability:* La aplicación web no proporciona atajos de teclado y opciones avanzadas para mejorar la eficiencia de uso, lo que podría dificultar la experiencia de usuarios experimentados.
-- *Problema:* La falta de atajos de teclado y opciones avanzadas podría reducir la eficiencia de uso para usuarios experimentados.
+- _Severidad:_ Moderada
+- _Usability:_ La aplicación web no proporciona atajos de teclado y opciones avanzadas para mejorar la eficiencia de uso, lo que podría dificultar la experiencia de usuarios experimentados.
+- _Problema:_ La falta de atajos de teclado y opciones avanzadas podría reducir la eficiencia de uso para usuarios experimentados.
 
 ## Ayuda y documentación
 
 ## PROBLEMA #4:
 
-- *Severidad:* Baja
-- *Usability:* La aplicación web ofrece acceso a tutoriales, preguntas frecuentes y chat en vivo, lo que es positivo. Sin embargo, la visibilidad y la navegación de estos recursos podrían mejorarse para una mejor accesibilidad.
-- *Problema:* Los recursos de ayuda y documentación existen, pero su visibilidad y navegación pueden no ser óptimas, lo que podría dificultar que los usuarios encuentren la asistencia que necesitan.
+- _Severidad:_ Baja
+- _Usability:_ La aplicación web ofrece acceso a tutoriales, preguntas frecuentes y chat en vivo, lo que es positivo. Sin embargo, la visibilidad y la navegación de estos recursos podrían mejorarse para una mejor accesibilidad.
+- _Problema:_ Los recursos de ayuda y documentación existen, pero su visibilidad y navegación pueden no ser óptimas, lo que podría dificultar que los usuarios encuentren la asistencia que necesitan.
 
 ## Feedback de confirmación
 
 ## PROBLEMA #5:
 
-- *Severidad:* Moderada
-- *Usability:* La aplicación proporciona retroalimentación clara al completar acciones importantes, lo que es positivo. Sin embargo, esta retroalimentación podría ser más destacada y visible.
-- *Problema:* La retroalimentación al completar acciones importantes es proporcionada, pero su visibilidad podría mejorarse para asegurarse de que los usuarios comprendan que la acción se ha realizado con éxito.
+- _Severidad:_ Moderada
+- _Usability:_ La aplicación proporciona retroalimentación clara al completar acciones importantes, lo que es positivo. Sin embargo, esta retroalimentación podría ser más destacada y visible.
+- _Problema:_ La retroalimentación al completar acciones importantes es proporcionada, pero su visibilidad podría mejorarse para asegurarse de que los usuarios comprendan que la acción se ha realizado con éxito.
 
 ## Eficiencia en la carga y rendimiento
 
 ## PROBLEMA #6:
 
-- *Severidad:* Alta
-- *Usability:* La aplicación web no carga de manera eficiente ni responde rápidamente, lo que puede afectar negativamente la usabilidad.
-- *Problema:* Los tiempos de carga largos y los retrasos en la respuesta de la aplicación afectan negativamente la usabilidad, lo que puede resultar en una experiencia frustrante para los usuarios.
+- _Severidad:_ Alta
+- _Usability:_ La aplicación web no carga de manera eficiente ni responde rápidamente, lo que puede afectar negativamente la usabilidad.
+- _Problema:_ Los tiempos de carga largos y los retrasos en la respuesta de la aplicación afectan negativamente la usabilidad, lo que puede resultar en una experiencia frustrante para los usuarios.
 
 ##### 7.4. Video About-the-Product
+
 Link: https://youtu.be/EMHohbwrXDw
