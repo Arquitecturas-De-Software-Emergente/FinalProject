@@ -513,34 +513,93 @@ Durante la reunión de Sprint Planning 2, se estableció como prioridad para el 
     <center>
         <img align = middle src = "../images/SP2.png">
     </center><br>
-    <b>Mobile app:</b><br>
+    <b>Mobile app:</b>
+    <br>
     <center>
         <img align = middle src = "../images/Movil1.jpeg">
     </center><br>
     <center>
-        <img align = middle src = "../images/Movil2.jpeg">
+        <img align = middle src = "../images/Movil2.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Movil3.jpeg">
+        <img align = middle src = "../images/Movil3.png">
     </center><br>
+    <center>
+        <img align = middle src = "../images/Movil4.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil5.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil6.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil7.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil8.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil9.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil10.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil11.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil12.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil13.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil14.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil15.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil16.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil17.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil18.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil19.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil20.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil21.jpeg">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/Movil22.jpeg">
+    </center><br>
+    <br>
     <b>Web app:</b><br>
     <center>
-        <img align = middle src = "../images/Web1.png">
+        <img align = middle src = "../images/Web12.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web2.png">
+        <img align = middle src = "../images/Web13.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web3.png">
+        <img align = middle src = "../images/Web14.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web4.png">
+        <img align = middle src = "../images/Web15.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web5.png">
+        <img align = middle src = "../images/Web16.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web6.png">
+        <img align = middle src = "../images/Web17.png">
     </center><br>
     <center>
         <img align = middle src = "../images/Web7.png">
