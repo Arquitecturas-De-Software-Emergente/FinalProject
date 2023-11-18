@@ -584,22 +584,22 @@ Durante la reunión de Sprint Planning 2, se estableció como prioridad para el 
     <br>
     <b>Web app:</b><br>
     <center>
-        <img align = middle src = "../images/Web12.png">
+        <img align = middle src = "../images/Web1.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web13.png">
+        <img align = middle src = "../images/Web2.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web14.png">
+        <img align = middle src = "../images/Web3.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web15.png">
+        <img align = middle src = "../images/Web4.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web16.png">
+        <img align = middle src = "../images/Web5.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web17.png">
+        <img align = middle src = "../images/Web6.png">
     </center><br>
     <center>
         <img align = middle src = "../images/Web7.png">
