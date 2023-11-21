@@ -584,50 +584,61 @@ Durante la reunión de Sprint Planning 2, se estableció como prioridad para el 
     <br>
     <b>Web app:</b><br>
     <center>
-        <img align = middle src = "../images/Web1.png">
+        <img align = middle src = "../images/web_update/1.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web2.png">
+        <img align = middle src = "../images/web_update/2.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web3.png">
+        <img align = middle src = "../images/web_update/3.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web4.png">
+        <img align = middle src = "../images/web_update/4.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web5.png">
+        <img align = middle src = "../images/web_update/5.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web6.png">
+        <img align = middle src = "../images/web_update/6.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web7.png">
+        <img align = middle src = "../images/web_update/7.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web8.png">
+        <img align = middle src = "../images/web_update/8.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web9.png">
+        <img align = middle src = "../images/web_update/9.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web10.png">
+        <img align = middle src = "../images/web_update/10.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web11.png">
+        <img align = middle src = "../images/web_update/11.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web12.png">
+        <img align = middle src = "../images/web_update/12.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web13.png">
+        <img align = middle src = "../images/web_update/13.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web14.png">
+        <img align = middle src = "../images/web_update/14.png">
     </center><br>
     <center>
-        <img align = middle src = "../images/Web15.png">
+        <img align = middle src = "../images/web_update/15.png">
     </center><br>
+    <center>
+        <img align = middle src = "../images/web_update/16.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/web_update/17.png">
+    </center><br>
+    <center>
+        <img align = middle src = "../images/web_update/18.png">
+    </center><br>
+    
+
 </div>
 
 ###### 7.2.2.5. Execution Evidence for Sprint Review.
